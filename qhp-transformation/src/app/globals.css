@@ -1,0 +1,90 @@
+@import "tailwindcss";
+
+:root {
+  /* Updated Palette - True Blacks & Neutral Grays */
+  --background-dark: #1a1a1a;
+  --background-darker: #0d0d0d;
+  --background-card: #242424;
+  --background-elevated: #2a2a2a;
+  --accent-red: #EF4B4C;
+  --accent-blue: #4a90d9;
+  --accent-navy: #3d6cb3;
+  --text-light: #e5e5e5;
+  --text-muted: rgba(229, 229, 229, 0.5);
+
+  /* Keep some semantic colors */
+  --accent-success: #00E676;
+  --border-color: rgba(255, 255, 255, 0.08);
+  --card-bg: rgba(255, 255, 255, 0.03);
+}
+
+@theme inline {
+  --color-background: var(--background-dark);
+  --color-foreground: var(--text-primary);
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--background-darker);
+  color: var(--text-light);
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  min-height: 100vh;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--background-dark);
+}
+
+::-webkit-scrollbar-thumb {
+  background: #444;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+/* Placeholder styles */
+.placeholder-box {
+  border: 2px dashed var(--accent-blue);
+  background: var(--card-bg);
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 2rem;
+}
+
+.placeholder-box-compact {
+  border: 1px dashed var(--accent-blue);
+  background: var(--card-bg);
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 0.5rem;
+}
+
+/* Glow effect */
+.glow {
+  box-shadow: 0 0 20px rgba(74, 144, 217, 0.3);
+}
+
+.glow-hover:hover {
+  box-shadow: 0 0 30px rgba(74, 144, 217, 0.4);
+}
