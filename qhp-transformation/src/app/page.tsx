@@ -57,18 +57,47 @@ const toolkitItems = [
 
 export default function Dashboard() {
   return (
-    <div className="max-w-7xl mx-auto space-y-8 pb-12">
+    <div className="max-w-7xl mx-auto space-y-4 pb-6">
       
       {/* Header */}
-      <div className="space-y-2">
-        <h1 className="text-4xl font-bold text-gray-100 tracking-tight">QHP Capital <span className="text-[#EF4B4C]">AI Transformation</span></h1>
-        <p className="text-lg text-gray-400 max-w-3xl">
+      <div className="space-y-1">
+        <h1 className="text-3xl font-bold text-gray-100 tracking-tight">QHP Capital <span className="text-[#EF4B4C]">AI Transformation</span></h1>
+        <p className="text-base text-gray-400 max-w-3xl">
           A systematic approach to deploying AI across firm operations and the portfolio.
         </p>
       </div>
 
+      {/* Leadership - All 5 partners */}
+      <div>
+        <h3 className="text-sm font-bold text-gray-400 uppercase tracking-wider mb-2">Leadership</h3>
+        <div className="grid grid-cols-2 md:grid-cols-5 gap-2">
+          {partnerData.map((partner) => (
+            <Link 
+              href={`/partners/${partner.id}`} 
+              key={partner.id}
+              className="group"
+            >
+              <div className="relative h-32 rounded-lg overflow-hidden bg-black border border-white/5 hover:border-white/20 transition-all">
+                {partner.image && (
+                  <img 
+                    src={partner.image}
+                    alt={partner.name}
+                    className="absolute inset-0 w-full h-full object-cover object-top"
+                  />
+                )}
+                <div className="absolute inset-0 bg-gradient-to-b from-black/80 via-transparent to-transparent" />
+                <div className="absolute top-0 left-0 p-3">
+                  <h4 className="text-sm font-bold text-white leading-tight">{partner.name}</h4>
+                  <p className="text-[10px] text-gray-400">{partner.role}</p>
+                </div>
+              </div>
+            </Link>
+          ))}
+        </div>
+      </div>
+
       {/* Row 1: Demo (1 col) + QHP Transformation (3 categories) */}
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-3">
         
         {/* Azurity Demo - Compact 1 col */}
         <motion.div 
@@ -168,24 +197,24 @@ export default function Dashboard() {
 
       {/* Row 2: Cross-Portfolio Toolkit */}
       <div>
-        <div className="flex items-center justify-between mb-4">
-          <h3 className="text-lg font-bold text-gray-400 uppercase tracking-wider">Cross-Portfolio Toolkit</h3>
+        <div className="flex items-center justify-between mb-2">
+          <h3 className="text-sm font-bold text-gray-400 uppercase tracking-wider">Cross-Portfolio Toolkit</h3>
           <span className="text-xs text-gray-600">Quick wins deployable across multiple companies</span>
         </div>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-3">
           {toolkitItems.map((item, index) => (
             <Link href={item.href} key={item.id} className="block group">
               <motion.div 
                 initial={{ opacity: 0, y: 20 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ delay: 0.2 + index * 0.05 }}
-                className="p-4 bg-[#1a1a1a] rounded-lg border border-white/5 hover:border-white/15 transition-all h-full"
+                className="p-3 bg-[#1a1a1a] rounded-lg border border-white/5 hover:border-white/15 transition-all h-full"
               >
-                <div className="w-full h-16 rounded-lg overflow-hidden mb-3">
+                <div className="w-full h-12 rounded-lg overflow-hidden mb-2">
                   <img src={item.image} alt={item.title} className="w-full h-full object-cover" />
                 </div>
                 <h4 className="text-sm font-bold text-white mb-1 group-hover:text-gray-300 transition-colors">{item.title}</h4>
-                <p className="text-xs text-gray-500 leading-relaxed mb-2">{item.description}</p>
+                <p className="text-xs text-gray-500 leading-relaxed mb-1">{item.description}</p>
                 <div className="text-[10px] text-emerald-400/70 font-medium">{item.applicability}</div>
               </motion.div>
             </Link>
@@ -196,7 +225,7 @@ export default function Dashboard() {
       {/* Row 3: Portfolio Matrix CTA */}
       <Link href="/portfolio" className="block group">
         <div className="rounded-xl bg-[#1a1a1a] border border-white/10 hover:border-[#EF4B4C]/50 transition-all overflow-hidden">
-          <div className="relative h-28 overflow-hidden">
+          <div className="relative h-20 overflow-hidden">
             <img src="/icons/portfolio-matrix.jpg" alt="Portfolio Matrix" className="w-full h-full object-cover" />
             <div className="absolute inset-0 bg-gradient-to-r from-black/80 via-black/50 to-transparent" />
             <div className="absolute inset-0 flex items-center justify-between px-6">
@@ -212,35 +241,6 @@ export default function Dashboard() {
           </div>
         </div>
       </Link>
-
-      {/* Row 4: Leadership - All 5 partners */}
-      <div>
-        <h3 className="text-lg font-bold text-gray-400 uppercase tracking-wider mb-4">Leadership</h3>
-        <div className="grid grid-cols-2 md:grid-cols-5 gap-3">
-          {partnerData.map((partner) => (
-            <Link 
-              href={`/partners/${partner.id}`} 
-              key={partner.id}
-              className="group"
-            >
-              <div className="relative h-32 rounded-lg overflow-hidden bg-black border border-white/5 hover:border-white/20 transition-all">
-                {partner.image && (
-                  <img 
-                    src={partner.image}
-                    alt={partner.name}
-                    className="absolute inset-0 w-full h-full object-cover object-top"
-                  />
-                )}
-                <div className="absolute inset-0 bg-gradient-to-b from-black/80 via-transparent to-transparent" />
-                <div className="absolute top-0 left-0 p-3">
-                  <h4 className="text-sm font-bold text-white leading-tight">{partner.name}</h4>
-                  <p className="text-[10px] text-gray-400">{partner.role}</p>
-                </div>
-              </div>
-            </Link>
-          ))}
-        </div>
-      </div>
     </div>
   );
 }
