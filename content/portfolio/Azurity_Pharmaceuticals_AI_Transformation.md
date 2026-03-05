@@ -1494,7 +1494,6 @@ Azurity's business model centers on **dosage-form innovation for overlooked pati
 | QHP Company | Synergy with Azurity |
 |-------------|----------------------|
 | **Clinical Ink** | Patient recruitment for Azurity trials; eCOA for clinical studies |
-| **Catalyst Clinical Research** | CRO services for Azurity 505(b)(2) studies |
 | **AutoCruitment** | Digital recruitment for Azurity clinical trials |
 | **Univo IRB** | Expedited IRB for Azurity studies |
 | **Vector Clinical Trials** | Site network for Azurity studies |
@@ -1516,11 +1515,9 @@ Azurity's business model centers on **dosage-form innovation for overlooked pati
 1. **O2E Model** can be adapted for:
    - **Bend Bioscience:** Identify underserved formulation opportunities for clients
    - **InformedDNA:** Identify underutilized genetic tests
-   - **COPILOT:** Identify underserved patient populations for hub services
 
 2. **Sales AI Platform** can be deployed at:
    - **InformedDNA:** Genetic counselor productivity
-   - **COPILOT:** Hub services rep effectiveness
 
 3. **Manufacturing AI** can be deployed at:
    - **Bend Bioscience:** CDMO process optimization
@@ -1618,21 +1615,21 @@ Azurity's business model centers on **dosage-form innovation for overlooked pati
 - **Jeff built O2E** as proof-of-concept, demonstrating value to QHP
 - **Azurity board includes Vern Davenport and Jeff Edwards** (QHP Partners)
 - Jeff's **Thread background** provides deep clinical trials and regulatory expertise
-- This transformation strategy **directly supports Jeff's GP/OP candidacy**
+- This transformation strategy **is now being led by Jeff as Operating Partner – AI**
 
-### How This Strategy Supports Jeff's Case
+### How This Strategy Creates Value
 
 1. **Proven Value:** O2E already delivered results (12 opportunities, 126 hours saved)
 2. **Scalability:** This strategy shows how O2E can expand 10x in value
 3. **Portfolio Impact:** Demonstrates playbook transferable to other QHP companies
 4. **Board Familiarity:** Vern and Jeff Edwards can champion this internally
 5. **Financial Impact:** $184M cumulative impact in 3 years is compelling
-6. **Operational Expertise:** Comprehensive transformation plan shows Jeff's depth
+6. **Operational Expertise:** Comprehensive transformation plan shows depth of AI capability
 
-### Recommended Positioning for Jeff
+### Key Messaging
 
-**To QHP Partners:**
-> "I've already demonstrated AI's transformational potential at Azurity with O2E. This comprehensive strategy shows how we can expand that across Azurity—and then deploy the playbook portfolio-wide. The $19M investment delivers $185M in cumulative value over 3 years at Azurity alone. Multiply that across the portfolio, and QHP becomes the AI-forward PE firm in healthcare."
+**To Portfolio Company Leadership:**
+> "We've already demonstrated AI's transformational potential at Azurity with O2E. This comprehensive strategy shows how we expand that across Azurity—and then deploy the playbook portfolio-wide. The $19M investment delivers $185M in cumulative value over 3 years at Azurity alone."
 
 **To QHP LPs:**
 > "AI transformation isn't theoretical—we've already started at Azurity with measurable results. This strategy accelerates and scales what's working, with clear ROI, risk mitigation, and a roadmap that's been pressure-tested by someone who's built and sold a healthcare technology company."
@@ -1640,5 +1637,5 @@ Azurity's business model centers on **dosage-form innovation for overlooked pati
 ---
 
 *Document prepared by AI Specialist #4 for QHP Capital portfolio company transformation*  
-*Supporting Jeff Frazier's candidacy for General Partner or Operating Partner role*  
+*Led by Jeff Frazier, Operating Partner – AI*  
 *January 29, 2026*

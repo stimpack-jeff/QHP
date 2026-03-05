@@ -318,9 +318,9 @@ QHP Capital's adoption of **Blueflame AI** (now part of Datasite) positions the 
 ### Phase 4: Value Creation at Portfolio Companies (Q4 2026)
 1. Deploy AI playbooks across healthcare portfolio companies
 2. Implement industry-specific solutions:
-   - Clinical trial optimization (Catalyst, Clinical Ink, Lexitas)
+   - Clinical trial optimization (Clinical Ink, Lexitas)
    - Manufacturing/CDMO optimization (Bend Bioscience)
-   - Patient engagement AI (AutoCruitment, COPILOT, Vector)
+   - Patient engagement AI (AutoCruitment, Vector)
 3. Track and quantify AI-driven value creation for LP reporting
 
 ---

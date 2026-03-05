@@ -32,12 +32,10 @@ interface PageProps {
 // ============================================
 function RFPAutomationContent() {
   const companies = [
-    { name: 'Catalyst Clinical Research', useCase: 'CRO bid responses', impact: '30% faster' },
     { name: 'Clinical Ink', useCase: 'Technology proposals', impact: 'Higher wins' },
     { name: 'Lexitas', useCase: 'Ophthalmology study bids', impact: 'Lower overhead' },
     { name: 'AutoCruitment', useCase: 'Recruitment proposals', impact: 'Scale ready' },
     { name: 'Bend Bioscience', useCase: 'CDMO service quotes', impact: 'Competitive edge' },
-    { name: 'COPILOT', useCase: 'Hub services RFPs', impact: 'Better margins' },
     { name: 'InformedDNA', useCase: 'Testing service bids', impact: 'Market growth' },
     { name: 'Vector Clinical Trials', useCase: 'Site proposals', impact: 'Volume ready' },
   ];

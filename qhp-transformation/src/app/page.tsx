@@ -10,7 +10,8 @@ import {
   DocumentTextIcon,
   PresentationChartBarIcon,
   UserGroupIcon,
-  CurrencyDollarIcon
+  CurrencyDollarIcon,
+  LightBulbIcon
 } from "@heroicons/react/24/outline";
 import Link from "next/link";
 import { partnerData } from "@/lib/partner-data";
@@ -97,7 +98,30 @@ export default function Dashboard() {
       </div>
 
       {/* Row 1: Demo (1 col) + QHP Transformation (3 categories) */}
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-3">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-3">
+        
+        {/* AI First Principles */}
+        <Link href="/strategy/first-principles" className="block group">
+          <motion.div 
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ delay: 0.0 }}
+            className="h-full rounded-xl bg-[#1a1a1a] border border-white/10 hover:border-[#EF4B4C]/30 transition-all p-5"
+          >
+            <div className="flex flex-col h-full">
+              <span className="text-[10px] font-bold text-gray-600 uppercase tracking-wider mb-2">Governing Laws</span>
+              <h3 className="text-base font-bold text-white mb-1 group-hover:text-[#EF4B4C] transition-colors">AI First Principles</h3>
+              <p className="text-xs text-gray-500 mb-3 flex-1">The irreducible truths that govern AI transformation</p>
+              <div className="w-full h-20 rounded-lg overflow-hidden mb-3 bg-gradient-to-br from-[#EF4B4C]/10 via-[#1a1a1a] to-[#1a1a1a] flex items-center justify-center">
+                <LightBulbIcon className="w-10 h-10 text-[#EF4B4C]/40" />
+              </div>
+              <div className="flex items-center gap-2">
+                <LightBulbIcon className="w-4 h-4 text-[#EF4B4C]" />
+                <span className=\"text-xs text-gray-400\">1 Axiom + 6 Principles</span>
+              </div>
+            </div>
+          </motion.div>
+        </Link>
         
         {/* Azurity Demo - Compact 1 col */}
         <motion.div 

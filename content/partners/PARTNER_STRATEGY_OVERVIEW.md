@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This document provides Jeff Frazier with a unified strategic guide for engaging all five QHP Capital partners. Use this as your quick-reference before meetings and calls.
+This document provides Jeff Frazier (Operating Partner – AI) with a strategic guide for collaborating with all five QHP Capital partners. Use this as a reference for aligning AI initiatives with each partner's focus areas.
 
 ---
 
@@ -10,11 +10,11 @@ This document provides Jeff Frazier with a unified strategic guide for engaging 
 
 | Partner | Status | Priority | Key Angle |
 |---------|--------|----------|-----------|
-| **Michael Sorensen** | ✅ Knows well | Champion & Intel | Leverage for introductions, get advice on others |
-| **Vern Davenport** | 🟡 Met a few times | Build credibility | Transformation 2.0 - connect to his M*Modal legacy |
-| **Matt Jenkins** | ❌ Not acquainted | **Highest opportunity** | Founder-to-founder, Clinical Ink/Thread domain match |
-| **Jeff Edwards** | ❌ Not acquainted | Earn confidence | Data-driven, LP reporting, analytical rigor |
-| **Ashton Poole** | ❌ Not acquainted | Meet his standards | Wall Street polish, board-ready quality |
+| **Michael Sorensen** | ✅ Strong | IR & Value Creation | Align on portfolio AI impact metrics |
+| **Vern Davenport** | ✅ Strong | Transformation Lead | Transformation 2.0 - connect to his M*Modal legacy |
+| **Matt Jenkins** | 🟡 Building | Clinical Trials | Founder-to-founder, Clinical Ink/Thread domain overlap |
+| **Jeff Edwards** | 🟡 Building | LP & Analytics | Data-driven AI tools for LP reporting |
+| **Ashton Poole** | 🟡 Building | Capital Markets | Board-ready AI presentations & exit analytics |
 
 ---
 
@@ -49,7 +49,6 @@ This document provides Jeff Frazier with a unified strategic guide for engaging 
                     │    (Matt's Portfolio Focus) │
                     │    • Clinical Ink           │
                     │    • AutoCruitment          │
-                    │    • Catalyst               │
                     │    • Lexitas                │
                     │    • Vector                 │
                     │    • Univo IRB              │
@@ -169,7 +168,7 @@ This document provides Jeff Frazier with a unified strategic guide for engaging 
 **Key Talking Points:**
 1. "Matt, I have to be transparent - QHP tried to acquire Thread, and we sold to Water Street. But I've followed Clinical Ink's success and I'm genuinely impressed."
 2. "As a fellow founder, what was the hardest part of building Cellective? For me at Thread, it was..."
-3. "QHP has incredible concentration in clinical trials - Clinical Ink, AutoCruitment, Catalyst, Lexitas, Vector, Univo. AI could transform this entire cluster."
+3. "QHP has incredible concentration in clinical trials - Clinical Ink, AutoCruitment, Lexitas, Vector, Univo. AI could transform this entire cluster."
 4. "When you invested in Clinical Ink at RTI and then brought it to QHP - that relationship continuity is exactly how I think about value creation."
 
 **Watch Out For:**
@@ -283,10 +282,9 @@ For all partners, O2E demonstrates:
 - Strong connection with either creates positive momentum with both
 
 ### The Clinical Trials Cluster
-Matt's portfolio responsibility includes 6 clinical research companies:
+Matt's portfolio responsibility includes the clinical research companies:
 - **Clinical Ink** - eCOA, eSource, DCT (your direct competitor at Thread)
 - **AutoCruitment** - Patient recruitment technology
-- **Catalyst Clinical Research** - Oncology CRO
 - **Lexitas** - Ophthalmology CRO
 - **Vector Clinical Trials** - Community research sites
 - **Univo IRB** - IRB services
@@ -383,5 +381,5 @@ Every conversation should reinforce:
 
 ---
 
-*Last Updated: January 29, 2026*
-*Prepared for Jeff Frazier's QHP Capital GP/OP Candidacy*
+*Last Updated: March 2, 2026*
+*Internal reference for Jeff Frazier, Operating Partner – AI*

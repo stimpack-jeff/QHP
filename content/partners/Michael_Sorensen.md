@@ -5,8 +5,8 @@
 
 ## Relationship with Jeff Frazier
 - **Status**: Jeff knows Michael well personally
-- **Context**: This is Jeff's strongest relationship at QHP and a key ally for his GP/OP candidacy
-- **Strategic Approach**: Michael can serve as an internal champion and advocate
+- **Context**: Jeff's strongest relationship at QHP and a key collaboration partner
+- **Strategic Approach**: Michael champions AI transformation and value creation initiatives
 
 ---
 
@@ -216,10 +216,10 @@ Based on QHP's current portfolio and Michael's role in transaction origination a
 | Company | Investment Type | Likely Role |
 |---------|----------------|-------------|
 | Azurity Pharmaceuticals | Platform | Deal team / Value creation |
-| Catalyst Clinical Research | Platform + Continuation Vehicle | Deal team / Board involvement |
+| Catalyst Clinical Research | Platform + Continuation Vehicle | Deal team / Board involvement (Exited) |
 | Clinical ink | Platform | Deal team / Growth initiatives |
 | AutoCruitment | Platform | Deal team / Commercial strategy |
-| COPILOT | Platform | Transaction origination |
+| COPILOT | Platform | Transaction origination (Exited) |
 | Applied StemCell | Platform | Due diligence / Investment committee |
 | Vector Clinical Trials | Platform | Recent deal team involvement |
 
@@ -234,7 +234,7 @@ Based on QHP's current portfolio and Michael's role in transaction origination a
 
 ### Relationship Status: ✅ Knows Well Personally
 
-Michael is Jeff's **strongest relationship** at QHP and should be leveraged as an **internal champion** for the candidacy.
+Michael is Jeff's **strongest relationship** at QHP and a key partner for driving AI transformation across the portfolio.
 
 ### Why Michael Is Critical
 
@@ -319,14 +319,14 @@ Michael can provide invaluable intelligence on:
 
 ---
 
-## Key Highlights for Jeff's Candidacy
+## Key Highlights for AI Collaboration
 
 ✅ **Jeff knows Michael well personally** - Strongest relationship at QHP
 ✅ **Shared healthcare focus** - Both have deep healthcare operating/investing experience  
-✅ **Data-driven mindset** - AI demonstrations will resonate with his analytical background
+✅ **Data-driven mindset** - AI platforms resonate with his analytical background
 ✅ **Value creation mandate** - Michael's explicit responsibility aligns with Jeff's operational AI capabilities
-✅ **Intellectual caliber** - Harvard/Wharton credentials mean he'll appreciate sophisticated thinking
-✅ **Integrity-focused** - LDS background suggests values alignment with authentic, ethical approach
+✅ **Intellectual caliber** - Harvard/Wharton credentials mean he appreciates sophisticated thinking
+✅ **Integrity-focused** - Values alignment with authentic, ethical approach
 
 ---
 

@@ -1164,7 +1164,6 @@ Bend Bioscience's value proposition is **"High Science + High Service"**. AI can
 |-------------|------------------------------|
 | **Azurity Pharmaceuticals** | **Primary CDMO partner** for Azurity's dosage-form innovations; AI formulation collaboration; preferred pricing; joint AI development (formulation prediction) |
 | **Clinical Ink** | Clinical trial material manufacturing; GMP manufacturing for investigational products |
-| **Catalyst Clinical Research** | Clinical supply manufacturing for CRO trials |
 | **Applied StemCell** | Potential formulation services for biologics-adjacent small molecules |
 
 ### Azurity ↔ Bend Strategic Partnership
@@ -1195,7 +1194,7 @@ Bend Bioscience's value proposition is **"High Science + High Service"**. AI can
 **Bend AI Capabilities Transferable to:**
 
 1. **Clinical Ink:** Quality AI (software QA), manufacturing operations (if applicable)
-2. **Catalyst/Lexitas (CROs):** Project management AI, client intelligence platforms
+2. **Lexitas (CRO):** Project management AI, client intelligence platforms
 3. **Other Manufacturing/Services Companies:** Manufacturing optimization, quality systems, supply chain AI
 
 ### QHP Firm-Level Benefits
@@ -1272,7 +1271,7 @@ Bend Bioscience's value proposition is **"High Science + High Service"**. AI can
 
 ## Appendix C: Jeff Frazier's Strategic Context
 
-### How This Supports Jeff's Candidacy
+### How This Supports AI Transformation Goals
 
 1. **Portfolio Impact:** Shows AI transformation across different business models (Azurity = innovator pharma, Bend = CDMO/services)
 2. **Synergies:** Demonstrates cross-portfolio value creation (Azurity + Bend integration)
@@ -1289,13 +1288,13 @@ Bend Bioscience's value proposition is **"High Science + High Service"**. AI can
 | **ROI** | 583% | 343% | 461% |
 | **Payback** | 6 months | 11 months | 8 months |
 
-### Positioning to QHP Partners
+### Key Messaging
 
-**To QHP Partners:**
-> "I've designed comprehensive AI transformation strategies for two very different QHP companies—Azurity (specialty pharma) and Bend (CDMO). Together, they represent $40M in AI investment delivering $180M+ in annual returns by Year 3. More importantly, they create defensive competitive moats, premium market positioning, and playbooks applicable across the rest of the portfolio. This is how QHP becomes the AI-forward PE firm in healthcare."
+**To Portfolio Company Leadership & LPs:**
+> "We've designed comprehensive AI transformation strategies for two very different QHP companies—Azurity (specialty pharma) and Bend (CDMO). Together, they represent $40M in AI investment delivering $180M+ in annual returns by Year 3. More importantly, they create defensive competitive moats, premium market positioning, and playbooks applicable across the rest of the portfolio."
 
 ---
 
 *Document prepared by AI Specialist #4 for QHP Capital portfolio company transformation*  
-*Supporting Jeff Frazier's candidacy for General Partner or Operating Partner role*  
+*Led by Jeff Frazier, Operating Partner – AI*  
 *January 29, 2026*

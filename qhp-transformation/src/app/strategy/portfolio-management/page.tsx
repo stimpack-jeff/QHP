@@ -62,7 +62,7 @@ export default function PortfolioManagementPage() {
     },
     {
       title: 'Best Practice Dissemination',
-      desc: 'What works at Azurity should propagate to Catalyst. AI identifies and distributes winning patterns.',
+      desc: 'What works at Azurity should propagate across the portfolio. AI identifies and distributes winning patterns.',
       icon: LightBulbIcon
     },
     {
@@ -79,12 +79,10 @@ export default function PortfolioManagementPage() {
 
   const portfolioCompanies = [
     'Azurity Pharmaceuticals',
-    'Catalyst Clinical Research',
     'Clinical Ink',
     'Bend Bioscience',
     'Applied StemCell',
     'AutoCruitment',
-    'COPILOT',
     'InformedDNA',
     'Lexitas',
     'Univo IRB',

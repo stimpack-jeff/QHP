@@ -809,7 +809,6 @@ AI: [Records PHQ-9 Item 2 = 3 (Nearly every day)]
 | Portfolio Company | Synergy with Clinical Ink |
 |-------------------|---------------------------|
 | **AutoCruitment** | Patient recruitment → Clinical Ink eCOA |
-| **Catalyst Clinical Research** | CRO partner for AI-enhanced studies |
 | **Lexitas Pharma** | Ophthalmology eCOA expertise sharing |
 | **Vector Clinical Trials** | Site network for AI pilot studies |
 | **Univo IRB** | Streamlined AI study approvals |
@@ -817,8 +816,6 @@ AI: [Records PHQ-9 Item 2 = 3 (Nearly every day)]
 ### Playbook Transfer
 
 The AI transformation playbook developed at Clinical Ink can be adapted for:
-- **Catalyst Clinical Research** (CRO operations)
-- **COPILOT** (hub services)
 - **InformedDNA** (genetic counseling)
 - **Azurity** (already started with O2E)
 

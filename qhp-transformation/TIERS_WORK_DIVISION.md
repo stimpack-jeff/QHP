@@ -258,21 +258,8 @@ src/app/transformation/tiers/[id]/page.tsx         (Detail page)
     "cumulativeROI": "2,885%"
   },
   "companyApplicability": [
-    {
-      "companyId": "catalyst",
-      "companyName": "Catalyst Clinical Research",
-      "priority": "High",
-      "annualValue": "$4.5M",
-      "hoursSaved": "15,000 hrs/year",
-      "customizationNeeds": [
-        "Oncology therapeutic area expertise database",
-        "Integration with Worldwide Clinical Trials post-merger systems",
-        "FSP model documentation",
-        "Site network capabilities"
-      ],
-      "deploymentPhase": "Pilot (Months 3-4)"
-    }
-    // ... all 11 companies
+    // Note: Catalyst Clinical Research removed (exited)
+    // ... all active companies
   ],
   "implementation": {
     "phases": [
@@ -312,7 +299,7 @@ src/app/transformation/tiers/[id]/page.tsx         (Detail page)
         "620% ROI in first 24 months"
       ],
       "source": "IQVIA Investor Relations Q2 2024, Digital CRO Transformation whitepaper 2024",
-      "relevance": "CRO use case directly applicable to Catalyst, Lexitas, Vector"
+      "relevance": "CRO use case directly applicable to Lexitas, Vector"
     }
     // ... all case studies
   ],

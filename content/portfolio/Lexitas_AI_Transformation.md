@@ -864,7 +864,6 @@
 
 | Portfolio Company | Synergy with Lexitas |
 |-------------------|---------------------|
-| **Catalyst Clinical Research** | Referrals for ophthalmology oncology (ocular melanoma) |
 | **Clinical Ink** | eCOA/eSource for Lexitas studies; patient-reported outcomes |
 | **Vector Clinical Trials** | Ophthalmology site capability for Lexitas network |
 | **Univo IRB** | Streamlined IRB approval for Lexitas studies |
@@ -880,13 +879,12 @@ Lexitas's AI Reading Center approach can inform:
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
-│           QHP OPHTHALMOLOGY + ONCOLOGY NETWORK                      │
+│           QHP OPHTHALMOLOGY NETWORK                                  │
 │                                                                     │
-│  Lexitas Ophthalmology CRO ←→ Catalyst Oncology CRO                 │
-│         ↓                              ↓                            │
-│  Ocular oncology trials (uveal melanoma, ocular metastases)         │
-│  Combined capabilities = full-service for niche ophthalmology-      │
-│  oncology studies                                                   │
+│  Lexitas Ophthalmology CRO                                           │
+│         ↓                                                           │
+│  Ophthalmology trials with cross-portfolio support from              │
+│  Clinical Ink, Vector, AutoCruitment, Univo IRB                     │
 └─────────────────────────────────────────────────────────────────────┘
 ```
 

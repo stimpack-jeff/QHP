@@ -44,11 +44,11 @@ Jeff joined QHP Capital (then operating as NovaQuest Capital Management before t
 
 **Notable Deals/Involvement (QHP Portfolio):**
 Based on QHP's portfolio during his tenure, Jeff has likely been involved in deals including:
-- **Catalyst Clinical Research** - Oncology-focused CRO
+- **Catalyst Clinical Research** - Oncology-focused CRO (Exited)
 - **Clinical Ink** - Clinical trial technology platform
 - **Azurity Pharmaceuticals** - Specialty pharma company
 - **AutoCruitment** - Patient recruitment technology
-- **COPILOT** - Hub services provider
+- **COPILOT** - Hub services provider (Exited)
 - **Applied StemCell** - iPSC and gene editing services
 - **Bend Bioscience** (CoreRx merger) - CDMO services
 - **Vector Clinical Trials** - Community-focused research sites

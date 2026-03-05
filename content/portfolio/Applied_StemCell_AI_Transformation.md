@@ -961,14 +961,14 @@ Admin: 13                     Admin: 10       ↓
 
 ### Synergies with Other QHP Portfolio Companies
 
-#### 1. Clinical Trials Companies (Catalyst, Lexitas, Vector)
+#### 1. Clinical Trials Companies (Lexitas, Vector)
 
 **Synergy:** Applied StemCell iPSCs → Clinical Trials
 
 **Opportunity:**
 - ASC generates iPSC-derived cells for research
 - Clinical trial companies testing cell therapies need quality cells
-- **Cross-Sell**: ASC provides iPSCs/differentiated cells for trials run by Catalyst/Lexitas
+- **Cross-Sell**: ASC provides iPSCs/differentiated cells for trials run by Lexitas
 - **Co-Marketing**: Joint webinars, conference presence
 - **Value**: $500K-1M annual cross-portfolio revenue
 
@@ -976,17 +976,7 @@ Admin: 13                     Admin: 10       ↓
 - Share patient recruitment AI (Vector/AutoCruitment) to inform ASC cell line development priorities
 - ASC's gene editing prediction models could inform trial design (eligibility criteria for gene therapy trials)
 
-#### 2. COPILOT (Hub Services)
-
-**Synergy:** Gene therapy hub services
-
-**Opportunity:**
-- ASC develops cell/gene therapy manufacturing
-- Cell/gene therapies require hub services (specialty pharmacy, patient support)
-- **Future Opportunity**: If ASC clients go commercial, refer to COPILOT for hub services
-- **Value**: Long-term strategic positioning
-
-#### 3. InformedDNA (Genetic Testing)
+#### 2. InformedDNA (Genetic Testing)
 
 **Synergy:** Genetic testing ↔ Gene editing
 
@@ -1032,7 +1022,7 @@ Admin: 13                     Admin: 10       ↓
 **Transferable AI Playbooks from ASC to Other Portfolio Companies:**
 
 1. **Predictive Project Timeline Model**
-   - **Transferable To**: Catalyst, Lexitas, Vector (clinical trials), Bend (CDMO projects)
+   - **Transferable To**: Lexitas, Vector (clinical trials), Bend (CDMO projects)
    - **Playbook**: ML model on historical project data to predict timelines
    - **Value**: Better client expectations, resource planning
 
@@ -1168,4 +1158,4 @@ Applied StemCell is an ideal company to pilot QHP's AI transformation playbook:
 *This AI Transformation Strategy prepared for Applied StemCell under QHP Capital ownership.*  
 *Analysis by: Specialist #5 - Precision Medicine & Diagnostics*  
 *Date: January 29, 2026*  
-*Prepared in support of Jeff Frazier's candidacy for General Partner/Operating Partner role at QHP Capital*
+*Prepared as part of QHP Capital's AI Transformation Initiative, led by Jeff Frazier, Operating Partner – AI*

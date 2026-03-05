@@ -8,7 +8,8 @@ import {
   BuildingOffice2Icon, 
   RocketLaunchIcon,
   Squares2X2Icon,
-  UserCircleIcon
+  UserCircleIcon,
+  LightBulbIcon
 } from "@heroicons/react/24/outline";
 
 export default function Sidebar() {
@@ -58,6 +59,14 @@ export default function Sidebar() {
         <div className="pt-6 pb-2 px-3">
           <p className="text-[10px] uppercase tracking-widest text-gray-500 font-bold">Transformation Strategy</p>
         </div>
+
+        {/* AI First Principles */}
+        <NavItem 
+          href="/strategy/first-principles" 
+          label="AI First Principles" 
+          icon={<LightBulbIcon className="w-5 h-5" />}
+          active={pathname.includes('first-principles')} 
+        />
 
         {/* Phase 0: C-Suite Superpowers */}
         <NavItem 

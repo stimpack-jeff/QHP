@@ -2,7 +2,7 @@
 
 ## Server Overview
 
-This server hosts AI demonstrations for the QHP Capital GP/OP pursuit. The Azurity O2E platform already runs here.
+This server hosts AI platforms for QHP Capital's AI transformation initiative. The Azurity O2E platform already runs here.
 
 ## SSH Access
 

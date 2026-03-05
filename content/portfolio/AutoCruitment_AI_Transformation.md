@@ -1024,7 +1024,6 @@ AutoCruitment sits at the **center** of QHP's clinical trials cluster:
 | Portfolio Company | Synergy Opportunity | Value |
 |-------------------|---------------------|-------|
 | **Clinical Ink (eCOA/eSource)** | Integrated recruitment → eCOA handoff | Seamless patient journey; bundled sales |
-| **Catalyst Clinical Research (CRO)** | Preferred recruitment for Catalyst trials | Volume pricing; integrated ops |
 | **Lexitas (Ophthalmology CRO)** | Specialized recruitment for ophthalmology trials | Therapeutic expertise sharing |
 | **Vector Clinical Trials (Sites)** | Patient recruitment for Vector sites | Site network utilization |
 | **Univo IRB** | Streamlined IRB + recruitment proposals | Faster startup timelines |
@@ -1058,12 +1057,11 @@ The AI transformation playbook developed for AutoCruitment can be adapted for:
 
 | Company | Transferable Playbooks | Estimated Value |
 |---------|------------------------|-----------------|
-| **COPILOT** | AI chatbot for patient support; predictive analytics | $2-3M savings |
 | **InformedDNA** | AI for genetic test recommendations; patient engagement | $1-2M savings |
-| **Catalyst/Lexitas** | Campaign management AI; resource optimization | $3-5M savings |
+| **Lexitas** | Campaign management AI; resource optimization | $3-5M savings |
 | **Vector** | Patient recruitment optimization; site analytics | $1-2M savings |
 
-**Total Cross-Portfolio Value:** $7-12M through playbook transfer
+**Total Cross-Portfolio Value:** $5-9M through playbook transfer
 
 **QHP Value Creation Opportunity:** Position as "AI-first PE firm" with proven transformation playbooks
 

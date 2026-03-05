@@ -913,7 +913,6 @@ With AI, Univo can scale efficiently:
 | Portfolio Company | Synergy with Univo |
 |-------------------|-------------------|
 | **Vector Clinical Trials** | Streamlined site approvals, faster study startup |
-| **Catalyst Clinical Research** | CRO-IRB integration, oncology expertise sharing |
 | **Lexitas Pharma Services** | Ophthalmology protocol review expertise |
 | **Clinical Ink** | DCT/eCOA protocol review expertise |
 | **AutoCruitment** | Patient recruitment protocol optimization |
@@ -924,20 +923,18 @@ With AI, Univo can scale efficiently:
 |------------|---------------|
 | Document analysis AI | Clinical Ink study build |
 | Regulatory intelligence | All portfolio companies |
-| Change detection | Catalyst protocol management |
 
 | To Univo | From Portfolio |
 |----------|----------------|
-| Clinical trials expertise | Catalyst, Lexitas |
+| Clinical trials expertise | Lexitas |
 | Patient data insights | Vector, AutoCruitment |
 | Technology architecture | Clinical Ink |
 
 ### sIRB Integration Vision
 
-As the FDA sIRB mandate takes effect, Univo + Vector + Catalyst creates a powerful combination:
+As the FDA sIRB mandate takes effect, Univo + Vector creates a powerful combination:
 - **Univo:** Central IRB for all QHP-connected trials
 - **Vector:** Site network with direct IRB integration
-- **Catalyst:** CRO with preferred IRB relationship
 
 This integration reduces study startup time across the portfolio by 30-40%.
 
@@ -971,13 +968,13 @@ This integration reduces study startup time across the portfolio by 30-40%.
 
 ## Jeff Frazier Connection Points
 
-### Why This Matters for Jeff's Candidacy
+### Why This Matters for AI Transformation
 
 1. **Regulatory Expertise from Thread:** Jeff built Thread in the clinical trials space and understands FDA/IRB dynamics intimately. He can speak credibly about AI-augmented ethical review.
 
 2. **Technology + Healthcare Intersection:** Univo's AI transformation requires someone who understands both technology and healthcare regulations—Jeff's exact background.
 
-3. **Portfolio Integration Vision:** Jeff can articulate how Univo connects to Vector, Catalyst, Clinical Ink, and AutoCruitment—showing portfolio-level thinking.
+3. **Portfolio Integration Vision:** Jeff can articulate how Univo connects to Vector, Clinical Ink, and AutoCruitment—delivering portfolio-level value creation.
 
 4. **Execution Track Record:** The O2E platform demonstrates Jeff can actually build AI systems, not just strategy documents.
 

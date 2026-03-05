@@ -1139,7 +1139,7 @@ Other: 9                      Other: 10                  →
 
 ---
 
-#### 2. Clinical Trial Companies (Catalyst, Lexitas, Vector, Univo, AutoCruitment)
+#### 2. Clinical Trial Companies (Lexitas, Vector, Univo, AutoCruitment)
 
 **Synergy:** Genetic screening for trial recruitment
 
@@ -1168,24 +1168,12 @@ Other: 9                      Other: 10                  →
 
 ---
 
-#### 4. COPILOT (Hub Services)
-
-**Synergy:** Genetic testing prior auth + specialty pharmacy hub
-
-**Opportunities:**
-- **Prior Auth Collaboration**: InformedDNA approves genetic tests → COPILOT handles specialty pharmacy prior auth for resulting therapies
-- **Patient Services**: Integrated patient journey from genetic testing (InformedDNA) to therapy access (COPILOT)
-
-**Value:** Integrated offering for precision medicine therapies
-
----
-
 ### QHP Firm-Level AI Playbooks
 
 **Transferable AI Playbooks from InformedDNA to Other Portfolio Companies:**
 
 1. **Prior Authorization AI**
-   - **Transferable To**: COPILOT (specialty pharmacy prior auth)
+   - **Transferable To**: All payer-facing portfolio companies
    - **Playbook**: NLP + rule engine + ML for auto-adjudication
    - **Value**: 70% auto-approval rates, faster turnaround
 
@@ -1195,17 +1183,17 @@ Other: 9                      Other: 10                  →
    - **Value**: 3x RFP capacity across portfolio
 
 3. **Ambient Clinical Documentation**
-   - **Transferable To**: Any patient-facing service (Vector, COPILOT, Catalyst)
+   - **Transferable To**: Any patient-facing service (Vector)
    - **Playbook**: Speech-to-text + NLP + LLM for automated documentation
    - **Value**: 50% clinician productivity improvement
 
 4. **Population Risk Stratification**
-   - **Transferable To**: COPILOT (identify high-risk patients for hub services)
+   - **Transferable To**: Patient-facing portfolio companies
    - **Playbook**: ML on claims/EMR data to predict care needs
    - **Value**: Proactive patient outreach, better outcomes
 
 5. **Payer Intelligence**
-   - **Transferable To**: All payer-facing companies (COPILOT, Univo, etc.)
+   - **Transferable To**: All payer-facing companies (Univo, etc.)
    - **Playbook**: AI monitoring of payer policies, market changes
    - **Value**: Strategic positioning, faster policy response
 
@@ -1423,4 +1411,4 @@ InformedDNA is an ideal company to showcase QHP's AI value creation:
 *This AI Transformation Strategy prepared for InformedDNA under QHP Capital ownership.*  
 *Analysis by: Specialist #5 - Precision Medicine & Diagnostics*  
 *Date: January 29, 2026*  
-*Prepared in support of Jeff Frazier's candidacy for General Partner/Operating Partner role at QHP Capital*
+*Prepared as part of QHP Capital's AI Transformation Initiative, led by Jeff Frazier, Operating Partner – AI*

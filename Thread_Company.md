@@ -114,7 +114,6 @@ Thread's technology and market position is directly relevant to several QHP port
 | Company | Relevance |
 |---------|-----------|
 | **Clinical Ink** | Direct competitor in eSource/eCOA space |
-| **Catalyst Clinical Research** | Could leverage DCT technology for oncology trials |
 | **AutoCruitment** | Patient recruitment synergies |
 | **Lexitas** | DCT capabilities for ophthalmology CRO |
 | **Applied StemCell** | Research technology applications |

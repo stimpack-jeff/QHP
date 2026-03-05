@@ -291,7 +291,7 @@ Matt's Clinical Ink investment creates a **natural conversation bridge**:
 | Opportunity | Jeff's Capability | Why It Resonates |
 |-------------|-------------------|------------------|
 | **Clinical Trials AI** | AI for protocol design, patient matching, site optimization | His entire portfolio focus |
-| **Cross-Portfolio Value** | Deploy AI across Clinical Ink, AutoCruitment, Catalyst, Lexitas, Vector, Univo | Multiplied impact |
+| **Cross-Portfolio Value** | Deploy AI across Clinical Ink, AutoCruitment, Lexitas, Vector, Univo | Multiplied impact |
 | **Founder Perspective** | Understanding what founders need from their PE partners | Authentic founder credibility |
 | **DCT Domain Expertise** | Deep knowledge of the space from building Thread | Speaks his language |
 
@@ -313,7 +313,7 @@ Matt's Clinical Ink investment creates a **natural conversation bridge**:
 
 3. **"As a fellow founder, I'm curious - what was the hardest part of building Cellective? For me at Thread, it was [specific challenge]."**
 
-4. **"I see QHP has incredible concentration in clinical trials - Clinical Ink, AutoCruitment, Catalyst, Lexitas, Vector, Univo. AI could be transformative across this entire cluster. Would you be interested in seeing a proof-of-concept?"**
+4. **"I see QHP has incredible concentration in clinical trials - Clinical Ink, AutoCruitment, Lexitas, Vector, Univo. AI could be transformative across this entire cluster. Would you be interested in seeing a proof-of-concept?"**
 
 5. **"When you invested in Clinical Ink at RTI and then brought it to QHP - that's the kind of relationship continuity I find fascinating. How do you think about building those long-term relationships?"**
 
@@ -327,7 +327,7 @@ Matt's Clinical Ink investment creates a **natural conversation bridge**:
 - Protocol optimization and patient matching
 - Site selection and enrollment prediction
 - Cross-portfolio value creation potential
-- Specific use cases for Clinical Ink, AutoCruitment, Catalyst
+- Specific use cases for Clinical Ink, AutoCruitment
 
 ### The Vern-Matt Bridge
 

@@ -1,8 +1,8 @@
-# Strategic Partner Playbook for Jeff Frazier
+# QHP Partner Engagement Guide
 
 ## Overview
 
-This document provides Jeff Frazier with a comprehensive strategic guide for engaging with each QHP Capital partner. The goal is to help Jeff position himself as an invaluable asset that each partner will be excited to leverage.
+This document provides Jeff Frazier (Operating Partner – AI) with a strategic guide for working with each QHP Capital partner. The goal is to maximize collaboration and align AI transformation initiatives with each partner's focus areas and portfolio responsibilities.
 
 ---
 
@@ -10,11 +10,11 @@ This document provides Jeff Frazier with a comprehensive strategic guide for eng
 
 | Partner | Relationship | Priority Focus |
 |---------|-------------|----------------|
-| **Michael Sorensen** | ✅ Knows well | Champion & Advocate |
-| **Vern Davenport** | 🟡 Met a few times | Build Trust & Credibility |
-| **Matt Jenkins** | ❌ Not acquainted | Founder-to-Founder Connection |
-| **Jeff Edwards** | ❌ Not acquainted | Data & Analytical Appeal |
-| **Ashton Poole** | ❌ Not acquainted | Wall Street Rigor |
+| **Michael Sorensen** | ✅ Strong | IR & Value Creation Alignment |
+| **Vern Davenport** | ✅ Strong | Transformation & Investment Strategy |
+| **Matt Jenkins** | 🟡 Building | Clinical Trials Domain Overlap |
+| **Jeff Edwards** | 🟡 Building | LP Reporting & Analytics |
+| **Ashton Poole** | 🟡 Building | Capital Markets & Board Prep |
 
 ---
 
@@ -26,7 +26,7 @@ This document provides Jeff Frazier with a comprehensive strategic guide for eng
 
 ## The Relationship Advantage
 
-Michael is Jeff's **strongest relationship** at QHP and should be treated as the **internal champion** for his candidacy.
+Michael is Jeff's **strongest relationship** at QHP and a key collaboration partner for AI transformation initiatives.
 
 ### Background DNA
 
@@ -195,7 +195,7 @@ Matt is the partner **most directly relevant to Jeff's background**. He invested
 - They share the entrepreneurial experience
 
 **3. AI for Clinical Trials Portfolio**
-- Clinical Ink, AutoCruitment, Catalyst, Lexitas, Vector, Univo - all clinical research
+- Clinical Ink, AutoCruitment, Lexitas, Vector, Univo - all clinical research
 - Jeff's AI capabilities could drive value across this entire cluster
 - This is high-impact for Matt's portfolio responsibility
 
@@ -217,7 +217,7 @@ Matt is the partner **most directly relevant to Jeff's background**. He invested
 
 3. **"As a fellow founder, I'm curious - what was the hardest part of building Cellective? For me at Thread, it was [specific challenge]."**
 
-4. **"I see QHP has incredible concentration in clinical trials - Clinical Ink, AutoCruitment, Catalyst, Lexitas, Vector, Univo. AI could be transformative across this entire cluster. Would you be interested in seeing a proof-of-concept?"**
+4. **"I see QHP has incredible concentration in clinical trials - Clinical Ink, AutoCruitment, Lexitas, Vector, Univo. AI could be transformative across this entire cluster. Would you be interested in seeing a proof-of-concept?"**
 
 5. **"When you invested in Clinical Ink at RTI and then brought it to QHP - that's the kind of relationship continuity I find fascinating. How do you think about building those long-term relationships?"**
 
@@ -297,7 +297,7 @@ As a former institutional LP, he likely evaluates opportunities through:
 
 ### The Institutional Credibility Challenge
 
-Jeff Edwards will evaluate Jeff Frazier's candidacy the way he evaluated PE managers at Texas Teachers:
+Jeff Edwards will evaluate AI transformation proposals with the same rigor he applied evaluating PE managers at Texas Teachers:
 - **Track Record** - What has he actually done? (Thread exit, O2E demo)
 - **Process** - Is there a repeatable methodology?
 - **Team** - Can he execute or does he need support?
@@ -418,7 +418,6 @@ Matt Jenkins and Vern Davenport **worked together at M*Modal**:
 QHP has significant concentration in clinical trials:
 - **Clinical Ink** - eCOA, eSource, DCT (Matt's deal)
 - **AutoCruitment** - Patient recruitment
-- **Catalyst Clinical Research** - Oncology CRO
 - **Lexitas** - Ophthalmology CRO
 - **Vector Clinical Trials** - Community research sites
 - **Univo IRB** - IRB services
@@ -543,5 +542,5 @@ The existing O2E platform for Azurity demonstrates:
 
 ---
 
-*Document last updated: [Current Date]*
-*Prepared for Jeff Frazier's QHP Capital GP/OP candidacy*
+*Document last updated: March 2, 2026*
+*Internal reference for Jeff Frazier, Operating Partner – AI*

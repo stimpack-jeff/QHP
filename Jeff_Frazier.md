@@ -2,13 +2,15 @@
 
 ## Overview
 
-Jeff Frazier is a healthcare technology entrepreneur, AI specialist, and the founder and former CEO of Thread, a pioneering decentralized clinical trials (DCT) technology company. He is currently pursuing a General Partner or Operating Partner role at QHP Capital, bringing deep expertise in clinical research technology and AI-driven transformation.
+Jeff Frazier is the **Operating Partner – AI** at **QHP Capital**, effective **March 2, 2026**. A healthcare technology entrepreneur, AI specialist, and the founder and former CEO of Thread, Jeff brings deep expertise in clinical research technology, AI-driven transformation, and PE value creation.
 
-## Current Status
+## Current Role
 
-- **Objective**: Joining QHP Capital as GP/Operating Partner
-- **Focus**: AI-driven transformation of the PE firm and its portfolio companies
-- **Unique Value**: Combination of healthcare technology operating experience + deep AI expertise
+- **Title**: Operating Partner – AI, QHP Capital
+- **Start Date**: March 2, 2026
+- **Mission**: AI-driven transformation of the PE firm and its 12+ portfolio companies
+- **Scope**: Firm operations AI, portfolio company AI deployments, deal sourcing intelligence, LP reporting
+- **Unique Value**: Combination of healthcare technology operating experience + deep AI practitioner expertise
 
 ## Background
 
@@ -26,11 +28,12 @@ Jeff Frazier is a healthcare technology entrepreneur, AI specialist, and the fou
 - **Headquarters**: Cary, North Carolina (Research Triangle area)
 - **Exit**: Sold to Water Street Healthcare Partners and JLL Partners in August 2019 for approximately **$40 million**
 
-### Post-Exit (2019-Present)
+### Post-Exit (2019-2026)
 - Semi-retired since selling Thread
 - Focused on humanitarian work
 - Deep immersion in AI/ML technologies
 - Built approximately **20 AI platforms** demonstrating practical applications
+- Built the O2E Platform for QHP portfolio company Azurity Pharmaceuticals (pre-hire demonstration of value)
 
 ## AI Capabilities
 
@@ -50,61 +53,40 @@ An AI-powered platform that identifies underserved patient populations and dose-
 
 **Impact**: 12 board-ready recommendations, 126 analyst hours saved
 
-## Relationship with QHP Capital
+## QHP Capital History
 
-### History
-- QHP Capital attempted to acquire Thread (prior to the Water Street deal)
-- Competed in the process but did not have the winning bid
-- Demonstrates QHP's recognition of Thread's value and Jeff's capabilities
+- QHP Capital attempted to acquire Thread prior to the Water Street deal
+- Long-standing relationship led to Operating Partner role
+- Built the O2E Platform for Azurity Pharmaceuticals as pre-hire demonstration
+- Joined as Operating Partner – AI on March 2, 2026
 
-### Current Connections
-- **Michael Sorensen** - Knows well personally
-- **Vern Davenport** - Has met a few times
-- **Jeff Edwards, Matt Jenkins, Ashton Poole** - Not yet acquainted
-
-## Strategic Value to QHP
-
-### 1. Operating Experience
-- Built and scaled a clinical research technology company
-- Deep understanding of the CRO/clinical trials ecosystem
-- Experience with PE-backed growth and exit
-
-### 2. AI Transformation Capabilities
-- Proven ability to build production AI systems
-- Understanding of healthcare data sources and regulatory landscape
-- Track record of 20+ AI platforms
-
-### 3. Portfolio Relevance
-Jeff's background directly aligns with multiple QHP portfolio companies:
+### Portfolio Company Domain Expertise
 
 | Company | Relevance |
 |---------|-----------|
 | Clinical Ink | Competitor to Thread; deep domain expertise |
-| Catalyst Clinical Research | Technology modernization opportunity |
+
 | AutoCruitment | Patient recruitment technology synergies |
 | Lexitas | DCT capabilities for ophthalmology trials |
 | Applied StemCell | Research technology acceleration |
-| Azurity | Already built demo platform |
+| Azurity | Built O2E platform — proven value creation |
 
-### 4. Network & Credibility
-- Relationships in clinical research industry
-- Credibility with healthcare technology founders
-- Understanding of PE value creation from operator perspective
+## Deal Structure (Secured)
 
-## Negotiation Objectives
-
-Jeff is seeking a deal structure that includes:
-- **Role**: General Partner or Operating Partner
-- **Carry**: Significant percentage of carried interest
-- **Compensation**: Competitive salary
-- **Scope**: Role that leverages AI transformation capabilities across firm and portfolio
+- **Role**: Operating Partner – AI
+- **Fund 3 Carry**: 2% (with potential for additional points)
+- **Project Sapphire Carry**: 1%
+- **Vesting**: 5-year cliff
+- **Additional Upside**: Points in Fund 4 when launched
 
 ## Key Dates
 
 - **August 2019**: Thread sold to Water Street Healthcare Partners
 - **2019-2026**: Semi-retirement, humanitarian work, AI development
-- **January 2026**: Active discussions with QHP Capital
+- **January 2026**: Initial discussions with QHP Capital
+- **February 2026**: Deal structure finalized
+- **March 2, 2026**: **Day 1 — Operating Partner – AI at QHP Capital**
 
 ---
 
-*This file documents Jeff Frazier's background to support his onboarding process with QHP Capital.*
+*This file documents Jeff Frazier's background and role at QHP Capital.*

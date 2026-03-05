@@ -2,7 +2,7 @@
 
 **Project**: QHP Capital Portfolio-Wide AI Transformation Analysis  
 **Date**: January 29, 2026  
-**Context**: Building detailed tier analysis pages for Monday partnership meeting  
+**Context**: Building detailed tier analysis pages for partnership review  
 **Quality Standard**: EXTREME SCRUTINY - These will be reviewed by General Partners with decades of PE experience
 
 ---
@@ -15,7 +15,7 @@ Your task is to create **comprehensive, research-backed, financially rigorous** 
 - General Partners (Michael Sorensen, Vern Davenport, Jeff Edwards, Matt Jenkins, Ashton Poole)
 - Limited Partners reviewing value creation strategies
 - Portfolio company CEOs evaluating feasibility
-- Jeff Frazier's candidacy assessment for GP/Operating Partner role
+- Jeff Frazier (Operating Partner – AI) leading implementation
 
 ---
 
@@ -353,7 +353,7 @@ Month 13-18: [Remaining companies]
 
 **Key Research Questions:**
 1. What do QHP board packages actually look like? (Get examples if possible)
-2. How much time do CFOs/CEOs spend on board prep? (Azurity, COPILOT, others)
+2. How much time do CFOs/CEOs spend on board prep? (Azurity, InformedDNA, others)
 3. What are the standard slides/sections? (Financial, operational, strategic, risks?)
 4. How does PE board reporting differ from public company reporting?
 5. What tools do companies currently use? (PowerPoint, Google Slides, custom?)
@@ -438,7 +438,7 @@ Month 13-18: [Remaining companies]
 
 **Key Research Questions:**
 1. What are the actual steps of protocol analysis? (What do reviewers look for?)
-2. How does this differ between CROs (Catalyst, Lexitas) vs. sites (Vector) vs. IRBs (Univo)?
+2. How does this differ between CROs (Lexitas) vs. sites (Vector) vs. IRBs (Univo)?
 3. What protocol databases exist? (ClinicalTrials.gov, internal company data)
 4. Can AI predict protocol feasibility? (Based on what features?)
 5. What are the regulatory implications of AI-assisted protocol review?
@@ -587,7 +587,7 @@ Month 13-18: [Remaining companies]
 - Customer satisfaction (CSAT, NPS for support)
 
 **Special Considerations:**
-- Patient support: COPILOT, InformedDNA deal with patients - higher stakes than B2B support
+- Patient support: InformedDNA deals with patients - higher stakes than B2B support
 - Clinical questions: Some questions require clinical expertise - AI must know when to escalate
 - Regulatory: Patient-facing AI may require FDA oversight in some cases
 - Multilingual: Some companies serve diverse populations - chatbot must handle multiple languages
@@ -691,7 +691,7 @@ If you need:
 
 ## Context: Why This Matters
 
-Jeff Frazier is pursuing a GP/Operating Partner role at QHP Capital. These tier analyses demonstrate:
+Jeff Frazier is the Operating Partner – AI at QHP Capital. These tier analyses support active initiatives:
 
 1. **Deep Domain Expertise**: Understanding healthcare, biotech, and pharma operations
 2. **Financial Rigor**: PE-quality financial analysis and value creation thinking
@@ -724,4 +724,4 @@ Your work will be scrutinized by General Partners with:
 
 *Assignment document created: January 29, 2026*  
 *For: QHP Capital AI Transformation Initiative*  
-*Supporting: Jeff Frazier's GP/Operating Partner Candidacy*
+*Led by: Jeff Frazier, Operating Partner – AI*

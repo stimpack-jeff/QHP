@@ -705,7 +705,6 @@ With AI, Vector can scale efficiently:
 |-------------------|---------------------|
 | **Clinical Ink** | eCOA/eSource technology for Vector studies; AI data quality |
 | **AutoCruitment** | Patient referral pipeline → Vector enrollment |
-| **Catalyst Clinical Research** | Oncology CRO refers patients to Vector sites |
 | **Lexitas Pharma Services** | Ophthalmology studies at Vector sites |
 | **Univo IRB** | Streamlined IRB approvals, faster startup |
 
@@ -714,7 +713,6 @@ With AI, Vector can scale efficiently:
 | From Vector | Applicable To |
 |-------------|---------------|
 | Community engagement AI | AutoCruitment patient targeting |
-| Scheduling optimization | Catalyst site management |
 | Retention prediction | Clinical Ink patient engagement |
 
 | To Vector | From Portfolio |
@@ -726,7 +724,7 @@ With AI, Vector can scale efficiently:
 ### Data Sharing Value
 
 Cross-portfolio data creates unique advantages:
-- **Enrollment benchmarks** across Vector + Catalyst + Lexitas
+- **Enrollment benchmarks** across Vector + Lexitas
 - **Patient journey insights** from AutoCruitment → Vector → Clinical Ink
 - **IRB efficiency metrics** from Univo informing Vector regulatory strategy
 
@@ -761,13 +759,13 @@ Cross-portfolio data creates unique advantages:
 
 ## Jeff Frazier Connection Points
 
-### Why This Matters for Jeff's Candidacy
+### Why This Matters for AI Transformation
 
 1. **Thread Experience Directly Applicable:** Jeff built Thread, a DCT technology company. Vector is the site-level equivalent—he understands this business intimately.
 
-2. **AI Implementation Credibility:** Vector can reference the O2E platform Jeff built for Azurity as proof of his AI execution capability.
+2. **AI Implementation Credibility:** Vector can reference the O2E platform Jeff built for Azurity as proof of AI execution capability.
 
-3. **Cross-Portfolio Vision:** Vector connects to Clinical Ink, AutoCruitment, Catalyst, Lexitas, and Univo—Jeff can show how he orchestrates value creation across the entire clinical trials cluster.
+3. **Cross-Portfolio Vision:** Vector connects to Clinical Ink, AutoCruitment, Lexitas, and Univo—Jeff can orchestrate value creation across the entire clinical trials cluster.
 
 4. **Operational + Strategic:** This isn't just strategy consulting—it's a detailed operational playbook that Jeff can help execute.
 

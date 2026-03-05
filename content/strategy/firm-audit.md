@@ -520,5 +520,5 @@ This dual capability positions Jeff uniquely - he can make both the firm AND the
 
 ---
 
-*Document prepared by AI Assistant for Jeff Frazier's QHP Capital GP/OP candidacy*  
+*Document prepared by AI Assistant for QHP Capital's AI Transformation Initiative*  
 *Date: January 30, 2026*

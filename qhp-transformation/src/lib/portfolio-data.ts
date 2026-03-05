@@ -30,18 +30,6 @@ export const portfolioData: PortfolioCompany[] = [
     fileName: 'Azurity_Pharmaceuticals_AI_Transformation.md'
   },
   {
-    id: 'catalyst',
-    name: 'Catalyst Clinical Research',
-    industry: 'CRO (Oncology)',
-    aiOpportunity: 'Trial Optimization Engine',
-    impactScore: 'High',
-    implementationStatus: 'Identified',
-    quickWin: 'Patient Matching Algorithms',
-    logoColor: 'text-green-600',
-    path: '/portfolio/catalyst',
-    fileName: 'Catalyst_Clinical_Research_AI_Transformation.md'
-  },
-  {
     id: 'clinical-ink',
     name: 'Clinical Ink',
     industry: 'Clinical Tech',
@@ -88,18 +76,6 @@ export const portfolioData: PortfolioCompany[] = [
     logoColor: 'text-orange-500',
     path: '/portfolio/autocruitment',
     fileName: 'AutoCruitment_AI_Transformation.md'
-  },
-  {
-    id: 'copilot',
-    name: 'COPILOT',
-    industry: 'Hub Services',
-    aiOpportunity: 'Prior Auth Automation',
-    impactScore: 'Medium',
-    implementationStatus: 'Identified',
-    quickWin: 'Benefits Verification Agents',
-    logoColor: 'text-teal-600',
-    path: '/portfolio/copilot',
-    fileName: 'COPILOT_AI_Transformation.md'
   },
   {
     id: 'informed-dna',
