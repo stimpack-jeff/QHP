@@ -39,7 +39,7 @@ export default async function PartnerProfilePage({ params }: PageProps) {
 
   return (
     <div className="max-w-5xl mx-auto py-12 px-6">
-      <Link href="/partners" className="text-gray-400 hover:text-white mb-8 block font-medium">← Back to Partners</Link>
+      <Link href="/" className="text-gray-400 hover:text-white mb-8 block font-medium">← Back to Home</Link>
       
       {/* Hero Section */}
       <div className="relative w-full h-72 md:h-80 bg-black overflow-hidden mb-12 rounded-2xl border border-white/10 shadow-2xl">

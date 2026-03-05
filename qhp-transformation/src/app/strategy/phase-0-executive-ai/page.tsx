@@ -92,22 +92,13 @@ export default async function Phase0Page() {
       {/* Content */}
       <div className="max-w-5xl mx-auto px-8 py-16">
         <div className="space-y-24">
-          
-          {/* Opening - Movie Reference */}
-          <section className="max-w-3xl">
-            <p className="text-2xl text-gray-300 leading-relaxed">
-              Remember the movie <span className="text-white font-semibold italic">Limitless</span>? 
-              Bradley Cooper takes a pill and suddenly has access to 100% of his brain—learning languages in hours, 
-              seeing patterns in stock markets instantly, outmaneuvering everyone.
-            </p>
-          </section>
 
           {/* THE COGNITIVE UPGRADE - Big Visual */}
           <section className="relative rounded-2xl overflow-hidden">
             <img 
-              src="https://image.pollinations.ai/prompt/Human%20brain%20transforming%20into%20glowing%20neural%20network%20circuitry%2C%20electric%20blue%20energy%20pulses%2C%20dark%20industrial%20concrete%20background%2C%20cognitive%20enhancement%20visualization%2C%20sparks%20and%20particles%2C%20cinematic%20lighting%2C%203D%20render%2C%20high%20contrast%2C%20dramatic%20atmosphere%2C%20gritty%20texture?width=1200&height=500&nologo=true"
+              src="/icons/limitless.webp"
               alt="The Cognitive Upgrade"
-              className="w-full h-64 object-cover"
+              className="w-full h-64 object-cover object-top"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-[#0d0d0d] via-transparent to-transparent" />
             <div className="absolute bottom-0 left-0 p-8">
@@ -116,56 +107,16 @@ export default async function Phase0Page() {
             </div>
           </section>
 
-          {/* The Pull Quote */}
-          <section className="relative py-16">
-            <div className="absolute inset-0 bg-gradient-to-r from-yellow-500/10 via-yellow-500/5 to-transparent rounded-2xl" />
-            <div className="relative px-12">
-              <div className="text-7xl font-black text-yellow-400 opacity-30 mb-4">"</div>
-              <p className="text-4xl font-bold text-white leading-tight max-w-2xl -mt-8">
-                AI is that pill.
-              </p>
-              <p className="text-2xl text-gray-400 mt-6">But you have to take it.</p>
-            </div>
-          </section>
-
-          {/* The Proof */}
-          <section>
-            <div className="p-8 bg-[#1a1a1a] rounded-2xl border border-white/5">
-              <div className="flex items-start gap-6">
-                <div className="w-16 h-16 rounded-2xl bg-blue-500/20 flex items-center justify-center flex-shrink-0">
-                  <RocketLaunchIcon className="w-8 h-8 text-blue-400" />
-                </div>
-                <div>
-                  <h3 className="text-xl font-bold text-white mb-2">The Proof Point</h3>
-                  <p className="text-gray-400 leading-relaxed">
-                    Jeff Frazier built the <span className="text-blue-400 font-semibold">Azurity O2E Platform</span>—the 
-                    demo you just saw—in a few hours using "vibe coding." Speaking to the AI. Letting it write the code.
-                  </p>
-                  <p className="text-gray-500 mt-3 text-sm">
-                    This is what's possible when a domain expert wields these tools.
-                  </p>
-                </div>
-              </div>
-            </div>
-          </section>
-
-          {/* THE OLD WAY CRUMBLING - Visual */}
-          <section className="relative rounded-2xl overflow-hidden">
-            <img 
-              src="https://image.pollinations.ai/prompt/Crumbling%20concrete%20wall%20with%20text%20DATA%20LAKE%20PROJECT%20shattering%20into%20fragments%2C%20golden%20light%20breaking%20through%20cracks%2C%20destruction%20of%20old%20ways%2C%20dark%20industrial%20background%2C%20debris%20and%20dust%20particles%2C%203D%20render%2C%20cinematic%20dramatic%20lighting%2C%20high%20contrast?width=1200&height=400&nologo=true"
-              alt="The Old Way Crumbling"
-              className="w-full h-56 object-cover"
-            />
-            <div className="absolute inset-0 bg-gradient-to-r from-[#0d0d0d] via-[#0d0d0d]/50 to-transparent" />
-            <div className="absolute inset-0 flex items-center p-8">
-              <div>
-                <span className="text-xs font-bold text-purple-400 uppercase tracking-wider">The Philosophy</span>
-                <h2 className="text-3xl font-bold text-white mt-2 mb-4">We don't start with a data lake project.</h2>
-                <p className="text-xl text-gray-300 max-w-xl leading-relaxed">
-                  We start by giving the Generals better weapons.
-                </p>
-              </div>
-            </div>
+          {/* Why This Matters - Moved to top */}
+          <section className="relative py-12 px-12 bg-gradient-to-r from-red-500/10 via-transparent to-transparent rounded-2xl border-l-4 border-red-500">
+            <h3 className="text-xs font-bold text-red-400 uppercase tracking-wider mb-4">Why This Matters</h3>
+            <p className="text-2xl text-gray-300 leading-relaxed">
+              Most PE firms try to "transform" their portfolio companies from the <span className="text-white font-semibold">bottom up</span>.
+            </p>
+            <p className="text-xl text-red-400 font-bold mt-4">It fails.</p>
+            <p className="text-gray-500 mt-4 max-w-2xl">
+              Because the CEOs don't deeply understand the capability. They're reading McKinsey slides. They're not power users.
+            </p>
           </section>
 
           {/* Two Pillars */}
@@ -173,29 +124,29 @@ export default async function Phase0Page() {
             <h2 className="text-xs font-bold text-gray-500 uppercase tracking-wider mb-8">The Strategy</h2>
             <div className="grid md:grid-cols-2 gap-6">
               
-              {/* Pillar 1: Vibe Coding Bootcamp */}
+              {/* Pillar 1: AI Bootcamp */}
               <div className="p-8 bg-gradient-to-b from-[#1a1a1a] to-black/50 rounded-2xl border border-emerald-500/20 hover:border-emerald-500/40 transition-all">
                 <div className="w-12 h-12 rounded-xl bg-emerald-500/20 flex items-center justify-center mb-6">
                   <CommandLineIcon className="w-6 h-6 text-emerald-400" />
                 </div>
-                <h3 className="text-2xl font-bold text-white mb-4">The "Vibe Coding" Bootcamp</h3>
+                <h3 className="text-2xl font-bold text-white mb-4">AI Bootcamp</h3>
                 <p className="text-gray-400 mb-6">
-                  Hands-on sessions for QHP Partners and key Portfolio CEOs. 
-                  <span className="text-emerald-400 font-semibold"> Not a seminar. A workshop.</span>
+                  Hands-on sessions for QHP Partners and Portfolio CEOs. 
+                  <span className="text-emerald-400 font-semibold"> Get set up. Get dangerous.</span>
                 </p>
                 
                 <div className="space-y-4">
                   <div className="flex items-start gap-3">
                     <CheckCircleIcon className="w-5 h-5 text-emerald-400 mt-0.5 flex-shrink-0" />
-                    <p className="text-sm text-gray-400">Build a working "Micro-App" for your specific problem in 2 hours</p>
+                    <p className="text-sm text-gray-400">Set up your personal AI agents tuned to your specific role and challenges</p>
                   </div>
                   <div className="flex items-start gap-3">
                     <CheckCircleIcon className="w-5 h-5 text-emerald-400 mt-0.5 flex-shrink-0" />
-                    <p className="text-sm text-gray-400">Learn Cursor, Claude 3.5 Sonnet, and Replit—the power user stack</p>
+                    <p className="text-sm text-gray-400">Learn to wield Claude, ChatGPT, and specialized tools like a power user</p>
                   </div>
                   <div className="flex items-start gap-3">
                     <CheckCircleIcon className="w-5 h-5 text-emerald-400 mt-0.5 flex-shrink-0" />
-                    <p className="text-sm text-gray-400">Walk out with something you built. That works. Today.</p>
+                    <p className="text-sm text-gray-400">Walk out transformed—ready to 10x your leverage immediately</p>
                   </div>
                 </div>
               </div>
@@ -237,16 +188,23 @@ export default async function Phase0Page() {
             </div>
           </section>
 
-          {/* Why This Matters */}
-          <section className="relative py-12 px-12 bg-gradient-to-r from-red-500/10 via-transparent to-transparent rounded-2xl border-l-4 border-red-500">
-            <h3 className="text-xs font-bold text-red-400 uppercase tracking-wider mb-4">Why This Matters</h3>
-            <p className="text-2xl text-gray-300 leading-relaxed">
-              Most PE firms try to "digitalize" their portfolio companies from the <span className="text-white font-semibold">bottom up</span>.
-            </p>
-            <p className="text-xl text-red-400 font-bold mt-4">It fails.</p>
-            <p className="text-gray-500 mt-4 max-w-2xl">
-              Because the CEOs don't deeply understand the capability. They're reading McKinsey slides. They're not power users.
-            </p>
+          {/* THE OLD WAY CRUMBLING - Visual (Philosophy) */}
+          <section className="relative rounded-2xl overflow-hidden">
+            <img 
+              src="https://image.pollinations.ai/prompt/Crumbling%20concrete%20wall%20with%20text%20DATA%20LAKE%20PROJECT%20shattering%20into%20fragments%2C%20golden%20light%20breaking%20through%20cracks%2C%20destruction%20of%20old%20ways%2C%20dark%20industrial%20background%2C%20debris%20and%20dust%20particles%2C%203D%20render%2C%20cinematic%20dramatic%20lighting%2C%20high%20contrast?width=1200&height=400&nologo=true"
+              alt="The Old Way Crumbling"
+              className="w-full h-56 object-cover"
+            />
+            <div className="absolute inset-0 bg-gradient-to-r from-[#0d0d0d] via-[#0d0d0d]/50 to-transparent" />
+            <div className="absolute inset-0 flex items-center p-8">
+              <div>
+                <span className="text-xs font-bold text-purple-400 uppercase tracking-wider">The Philosophy</span>
+                <h2 className="text-3xl font-bold text-white mt-2 mb-4">We don't start with a data lake project.</h2>
+                <p className="text-xl text-gray-300 max-w-xl leading-relaxed">
+                  We start by giving the Generals better weapons.
+                </p>
+              </div>
+            </div>
           </section>
 
           {/* The Three Outcomes */}

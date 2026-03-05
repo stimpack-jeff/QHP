@@ -138,7 +138,7 @@ export default function Dashboard() {
               <h3 className="text-base font-bold text-white mb-1 group-hover:text-yellow-400 transition-colors">Executive AI</h3>
               <p className="text-xs text-gray-500 mb-3 flex-1">C-Suite augmented intelligence for partners and CEOs</p>
               <div className="w-full h-20 rounded-lg overflow-hidden mb-3">
-                <img src="/icons/executive-ai.jpg" alt="Executive AI" className="w-full h-full object-cover" />
+                <img src="/icons/limitless.webp" alt="Executive AI" className="w-full h-full object-cover object-top" />
               </div>
               <div className="flex items-center gap-2">
                 <SparklesIcon className="w-4 h-4 text-yellow-400" />
