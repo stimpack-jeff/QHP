@@ -1,0 +1,236 @@
+
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║    AI FINANCE TRANSFORMATION WORKSHOP — FACILITATOR GUIDE                       ║
+║    QHP Capital | March 2026                                                     ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
+
+WORKSHOP OVERVIEW (30 minutes)
+  Exercise 1: Process the AP Batch ............... 12 min
+  Exercise 2: Build the CRO Accrual .............. 10 min
+  Exercise 3: Draw the Line ......................  8 min
+
+SETUP REQUIREMENTS
+  - Participants need Claude.ai, ChatGPT, or Gemini open in a browser
+  - Downloaded exercise folders on their laptops
+  - WiFi access
+
+NOTE ON FILENAMES: Exercise files use neutral names. Participants should
+NOT see the original anomaly file names. If distributing files, use ONLY
+the contents of the Exercise_1, Exercise_2, and Exercise_3 folders.
+
+
+══════════════════════════════════════════════════════════════════════════════════
+EXERCISE 1 — PROCESS THE AP BATCH (12 minutes)
+══════════════════════════════════════════════════════════════════════════════════
+
+INTELLIGENCE TYPES: Computational → Reasoning → stops at Judgment
+
+FOLDER: Exercise_1_AP_Batch/ (8 files)
+
+FILES:
+  INV_GoodwinProcter_20240105.pdf  — Legal services (clean, no PO needed)
+  INV_Eversource_20240203.pdf      — Utilities bill (clean, no PO needed)
+  INV_FedEx_20240108.pdf           — Shipping (clean, no PO needed)
+  INV_ThermoFisher_20240315a.pdf   — Lab supplies (DUPLICATE — Invoice A)
+  INV_ThermoFisher_20240315b.pdf   — Lab supplies (DUPLICATE — Invoice B)
+  PO_VWR_20240408.pdf              — Purchase order for VWR lab supplies
+  INV_VWR_20240422.pdf             — VWR invoice (PRICE DISCREPANCY vs. PO)
+  PKG_VWR_20240418.jpg             — Receiving report (QTY DISCREPANCY vs. invoice)
+
+PROMPT FOR PARTICIPANTS:
+
+  "You are the AP department at Nexus BioTherapeutics, a clinical-stage
+   pharmaceutical company. I'm uploading a batch of AP documents: vendor
+   invoices, purchase orders, and receiving reports. Process the entire
+   batch: (1) extract all key fields from every document into a single
+   table, (2) match each invoice to its corresponding PO and receiving
+   report where possible, (3) for each matched set, verify quantity and
+   unit price agreement across all three documents, (4) assign GL account
+   codes based on the vendor and line item descriptions, (5) generate the
+   proposed AP journal entries ready for posting, (6) produce an exception
+   report listing ONLY the items that require human review — with the
+   specific reason each was flagged. Present a clean summary showing:
+   X invoices processed, Y matched clean and ready to post, Z flagged
+   for human review."
+
+WHAT AI SHOULD PRODUCE:
+  1. A data extraction table for all 8 documents
+  2. Match results:
+     - Goodwin Procter, Eversource, FedEx: standalone service invoices,
+       no PO match needed → code and approve
+     - Thermo Fisher A + B: DUPLICATE FLAG (same vendor, date, PO, items)
+     - VWR PO + Invoice + Receiving: 3-WAY MATCH with TWO discrepancies
+  3. Proposed journal entries for the 3 clean invoices
+  4. Exception report with 2 flags
+
+PLANTED ANOMALIES:
+  Anomaly 1 — Duplicate Invoice (Computational):
+    Both Thermo Fisher invoices = $5,506.50, same date, same PO-20847,
+    same 4 line items, different invoice numbers (INV-101825 vs INV-101828).
+    Duplicate exposure: $5,506.50.
+
+  Anomaly 2 — Three-Way Match (Reasoning):
+    PO: 4 cases × $47.50 = $190.00
+    Invoice: 4 cases × $53.25 = $213.00  (price +12.1%)
+    Receiving: 3 cases shipped           (qty short by 1)
+    Correct payable: 3 × $47.50 = $142.50
+    Invoice claims: $213.00
+    Discrepancy: $70.50 (33% overbilling)
+
+FACILITATOR TALKING POINTS:
+  "How long would this batch take your AP team manually?"
+  "Notice: AI didn't just find problems — it processed the clean invoices
+   too. It generated journal entries. It coded to the GL. The human only
+   reviews 2 exceptions out of 8 documents. That's the transformation."
+  "What intelligence types did that require? Computational for extraction
+   and matching. Reasoning for the three-way match — connecting information
+   across three different documents to derive a conclusion. Where did AI
+   stop? At the decision: approve, dispute, or escalate. That's Judgment."
+
+
+══════════════════════════════════════════════════════════════════════════════════
+EXERCISE 2 — BUILD THE CRO ACCRUAL (10 minutes)
+══════════════════════════════════════════════════════════════════════════════════
+
+INTELLIGENCE TYPES: Computational → Predictive → Reasoning → stops at Judgment
+
+FOLDER: Exercise_2_CRO_Accrual/ (7 files)
+
+FILES:
+  Nexus_Company_Profile.pdf     — Company background and trial details
+  CRO_NXTB301_2024_March.pdf   — Clean month (~$1.5M)
+  CRO_NXTB301_2024_April.pdf   — Clean month
+  CRO_NXTB301_2024_May.pdf     — Clean month
+  CRO_NXTB301_2024_June.pdf    — Clean month
+  CRO_NXTB301_2024_July.pdf    — Clean month
+  CRO_NXTB301_2024_August.pdf  — ANOMALY MONTH ($2.25M — $400K+ over budget)
+
+PROMPT FOR PARTICIPANTS:
+
+  "You are the Controller at Nexus BioTherapeutics. I'm uploading six
+   consecutive monthly CRO invoices for our Phase III clinical trial
+   NXTB-301-001 (LUMINANCE-1), plus the company profile for context.
+   The monthly CRO budget for this trial is $1,840,000. Process these
+   invoices and produce the deliverables a Controller would normally
+   prepare: (1) a budget-vs-actual table by cost category for each
+   month, (2) a trend analysis showing month-over-month changes in
+   each billing category, (3) the accrual journal entry you would
+   recommend for September based on the pattern, (4) a variance memo
+   explaining any month where total billing exceeded budget by more
+   than 10%, and (5) an exception list of items requiring CFO review
+   before the accrual is posted. Do not approve the accrual — that is
+   the CFO's decision."
+
+WHAT AI SHOULD PRODUCE:
+  1. Six-month budget-vs-actual table (March through August)
+  2. Trend showing stable months then August spike
+  3. September accrual estimate (should AI use the spike or the trend?)
+  4. Variance memo flagging August
+  5. Exception list:
+     - Pass-through costs at 145% of monthly budget ($933,800 vs $644,000)
+     - Data management at 150% of budget ($414,000 vs $276,000)
+     - Reference to "Protocol Amendment 3.1" with no supporting documentation
+
+PLANTED ANOMALY (August):
+  Monthly budget: $1,840,000
+  August invoice total: $2,253,080
+  Pass-through site costs: $933,800 (budget: $644,000) — +$289,800 / +45%
+  Data management: $414,000 (budget: $276,000) — +$138,000 / +50%
+  Invoice mentions "Protocol Amendment 3.1" — no amendment on file
+
+FACILITATOR TALKING POINTS:
+  "That budget-vs-actual table and September accrual — how many days does
+   your Controller spend producing that deliverable each month?"
+  "AI used Computational intelligence for extraction, Predictive for the
+   accrual estimate, and Reasoning for the variance analysis. Where did it
+   stop? At: should we approve the August invoice? Should we approve the
+   September accrual given the anomaly? Those are Judgment calls — choosing
+   between defined options with real consequences."
+  "The deeper question — 'Should we even be running this trial?' — is
+   Wisdom. AI will never ask that question."
+
+
+══════════════════════════════════════════════════════════════════════════════════
+EXERCISE 3 — DRAW THE LINE (8 minutes)
+══════════════════════════════════════════════════════════════════════════════════
+
+FOLDER: Exercise_3_Draw_The_Line/
+
+No files uploaded to AI. Participants work individually (3 min) then discuss.
+Use the printed handout or project the list on screen.
+
+See Draw_The_Line_Handout.txt for the full exercise with answer key.
+
+KEY DISCUSSION MOMENTS:
+  - Items 1-3 are consistently rated "Full AI" — most people get these right
+  - Item 5 (variance commentary) surprises people — AI drafts it well
+  - Item 6 vs. Item 8: both are "human" territory, but for different reasons.
+    #6 is Judgment (choosing from defined options about the trial).
+    #8 is Wisdom (questioning the entire CRO frame).
+  - Item 9 vs. Item 10: AI catches the violation (Full AI). But enforcement
+    is a human call (Judgment → Wisdom).
+
+CLOSING LINE:
+  "Everything you marked 'Full AI' or 'AI + Human' — that's 60-70% of
+   what your finance team does today. The question isn't whether AI can do
+   it. You just watched it happen. The question is: what do you want your
+   team doing instead?"
+
+
+══════════════════════════════════════════════════════════════════════════════════
+BONUS EXERCISE — EXPENSE REPORT (if time permits, ~5 min)
+══════════════════════════════════════════════════════════════════════════════════
+
+FOLDER: Exercise_BONUS_Expense_Review/
+
+FILE: EXPRPT_Vega_NYC_Oct2024.pdf
+
+PROMPT:
+  "You are reviewing expense reports for Nexus BioTherapeutics. I'm
+   uploading an expense report submitted by a sales employee for a New
+   York client visit. Nexus policy states: (a) only business-purpose
+   expenses are reimbursable, (b) personal care items and prescriptions
+   are never reimbursable, (c) expenses must be incurred during the
+   approved travel period. Review every line item and: (1) flag any line
+   that may violate policy, stating which policy it violates and why,
+   (2) identify any supporting signals that strengthen or weaken the flag,
+   (3) calculate the reimbursable total if the flagged items are excluded,
+   and (4) list the options available to the approving manager — but do
+   not make the approval decision. Present as a structured memo."
+
+PLANTED ANOMALY:
+  Line 5: CVS Pharmacy — $127.40 — "prescription refill + personal care items"
+  Submitted on Saturday October 5 — one day AFTER the trip ended (Oct 3-4)
+  Three signals: (1) personal description, (2) weekend post-trip date,
+  (3) non-business vendor
+
+TEACHING POINT:
+  Reasoning catches it. Judgment decides what to do. But ask:
+  "Is your expense policy written clearly enough that this couldn't happen?"
+  That's a Wisdom question.
+
+
+══════════════════════════════════════════════════════════════════════════════════
+GENERAL GUIDANCE FOR FACILITATOR
+══════════════════════════════════════════════════════════════════════════════════
+
+AI MODEL DIFFERENCES:
+  Different AI systems may produce different results. This is intentional.
+  Use it as a teaching moment about AI reliability:
+  - Some models may miss a line item or misread a total
+  - Some may hallucinate a discrepancy that doesn't exist
+  - All should catch the major anomalies
+  - The variance between models is itself a reason for human oversight
+
+TIMING:
+  0:00 – 0:01  Setup (explain what they'll do)
+  0:01 – 0:13  Exercise 1 (upload, run, debrief)
+  0:13 – 0:23  Exercise 2 (upload, run, debrief)
+  0:23 – 0:30  Exercise 3 (handout, discuss, close)
+
+If running ahead of schedule, add the bonus expense report exercise
+between Exercises 2 and 3.
+
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║    QHP Capital | AI Finance Transformation Workshop | March 2026                ║
+╚══════════════════════════════════════════════════════════════════════════════════╝

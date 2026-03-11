@@ -1,0 +1,818 @@
+filename,category,document_type,date,vendor_customer,amount_usd,notes
+V020_20240122_01.pdf,AP — Accounts Payable,Vendor Invoice,2024-01-22,Thermo Fisher Scientific Inc.,41698.7,INV# INV-101580 | GL: 6050
+V020_20240211_02.pdf,AP — Accounts Payable,Vendor Invoice,2024-02-11,Thermo Fisher Scientific Inc.,4763.91,INV# INV-101584 | GL: 6050
+V020_20240307_03.pdf,AP — Accounts Payable,Vendor Invoice,2024-03-07,Thermo Fisher Scientific Inc.,37158.57,INV# INV-101589 | GL: 6050
+V020_20240422_04.pdf,AP — Accounts Payable,Vendor Invoice,2024-04-22,Thermo Fisher Scientific Inc.,46703.86,INV# INV-101592 | GL: 6050
+V020_20240514_05.pdf,AP — Accounts Payable,Vendor Invoice,2024-05-14,Thermo Fisher Scientific Inc.,26552.8,INV# INV-101597 | GL: 6050
+V020_20240628_06.pdf,AP — Accounts Payable,Vendor Invoice,2024-06-28,Thermo Fisher Scientific Inc.,13114.61,INV# INV-101599 | GL: 6050
+V021_20240117_01.pdf,AP — Accounts Payable,Vendor Invoice,2024-01-17,Sigma-Aldrich Corporation,6986.8,INV# INV-101602 | GL: 6050
+V021_20240216_02.pdf,AP — Accounts Payable,Vendor Invoice,2024-02-16,Sigma-Aldrich Corporation,2006.0,INV# INV-101603 | GL: 6050
+V021_20240301_03.pdf,AP — Accounts Payable,Vendor Invoice,2024-03-01,Sigma-Aldrich Corporation,1390.21,INV# INV-101607 | GL: 6050
+V021_20240424_04.pdf,AP — Accounts Payable,Vendor Invoice,2024-04-24,Sigma-Aldrich Corporation,54799.38,INV# INV-101609 | GL: 6050
+V021_20240510_05.pdf,AP — Accounts Payable,Vendor Invoice,2024-05-10,Sigma-Aldrich Corporation,40739.64,INV# INV-101610 | GL: 6050
+V022_20240108_01.pdf,AP — Accounts Payable,Vendor Invoice,2024-01-08,VWR International LLC,10515.0,INV# INV-101615 | GL: 6050
+V022_20240220_02.pdf,AP — Accounts Payable,Vendor Invoice,2024-02-20,VWR International LLC,2545.86,INV# INV-101617 | GL: 6050
+V022_20240301_03.pdf,AP — Accounts Payable,Vendor Invoice,2024-03-01,VWR International LLC,28177.24,INV# INV-101621 | GL: 6050
+V022_20240424_04.pdf,AP — Accounts Payable,Vendor Invoice,2024-04-24,VWR International LLC,24891.37,INV# INV-101625 | GL: 6050
+V030_20240105_01.pdf,AP — Accounts Payable,Vendor Invoice,2024-01-05,Goodwin Procter LLP,17303.0,INV# INV-101629 | GL: 7030
+V030_20240209_02.pdf,AP — Accounts Payable,Vendor Invoice,2024-02-09,Goodwin Procter LLP,18156.0,INV# INV-101634 | GL: 7030
+V030_20240325_03.pdf,AP — Accounts Payable,Vendor Invoice,2024-03-25,Goodwin Procter LLP,18088.0,INV# INV-101636 | GL: 7030
+V031_20240114_01.pdf,AP — Accounts Payable,Vendor Invoice,2024-01-14,Deloitte & Touche LLP,114716.44,INV# INV-101638 | GL: 7030
+V031_20240213_02.pdf,AP — Accounts Payable,Vendor Invoice,2024-02-13,Deloitte & Touche LLP,93516.04,INV# INV-101639 | GL: 7030
+V031_20240323_03.pdf,AP — Accounts Payable,Vendor Invoice,2024-03-23,Deloitte & Touche LLP,148437.68,INV# INV-101641 | GL: 7030
+V032_20240103_01.pdf,AP — Accounts Payable,Vendor Invoice,2024-01-03,Parexel International Corp.,33798.27,INV# INV-101646 | GL: 6060
+V032_20240218_02.pdf,AP — Accounts Payable,Vendor Invoice,2024-02-18,Parexel International Corp.,85345.82,INV# INV-101647 | GL: 6060
+V032_20240317_03.pdf,AP — Accounts Payable,Vendor Invoice,2024-03-17,Parexel International Corp.,32631.82,INV# INV-101652 | GL: 6060
+V033_20240123_01.pdf,AP — Accounts Payable,Vendor Invoice,2024-01-23,IQVIA Holdings Inc.,109883.18,INV# INV-101656 | GL: 7020
+V033_20240222_02.pdf,AP — Accounts Payable,Vendor Invoice,2024-02-22,IQVIA Holdings Inc.,91470.52,INV# INV-101658 | GL: 7020
+V050_20240117_01.pdf,AP — Accounts Payable,Vendor Invoice,2024-01-17,Veeva Systems Inc.,171351.22,INV# INV-101659 | GL: 7060
+V060_20240121_01.pdf,AP — Accounts Payable,Vendor Invoice,2024-01-21,NSTAR Electric / Eversource,12011.99,INV# INV-101660 | GL: 7040
+V060_20240203_02.pdf,AP — Accounts Payable,Vendor Invoice,2024-02-03,NSTAR Electric / Eversource,21052.46,INV# INV-101663 | GL: 7040
+V060_20240301_03.pdf,AP — Accounts Payable,Vendor Invoice,2024-03-01,NSTAR Electric / Eversource,17154.08,INV# INV-101668 | GL: 7040
+V060_20240411_04.pdf,AP — Accounts Payable,Vendor Invoice,2024-04-11,NSTAR Electric / Eversource,16151.59,INV# INV-101671 | GL: 7040
+V060_20240518_05.pdf,AP — Accounts Payable,Vendor Invoice,2024-05-18,NSTAR Electric / Eversource,11246.01,INV# INV-101673 | GL: 7040
+V060_20240607_06.pdf,AP — Accounts Payable,Vendor Invoice,2024-06-07,NSTAR Electric / Eversource,9453.52,INV# INV-101678 | GL: 7040
+V060_20240725_07.pdf,AP — Accounts Payable,Vendor Invoice,2024-07-25,NSTAR Electric / Eversource,13028.08,INV# INV-101683 | GL: 7040
+V060_20240821_08.pdf,AP — Accounts Payable,Vendor Invoice,2024-08-21,NSTAR Electric / Eversource,12219.34,INV# INV-101684 | GL: 7040
+V060_20240920_09.pdf,AP — Accounts Payable,Vendor Invoice,2024-09-20,NSTAR Electric / Eversource,10911.78,INV# INV-101688 | GL: 7040
+V060_20241024_10.pdf,AP — Accounts Payable,Vendor Invoice,2024-10-24,NSTAR Electric / Eversource,17897.45,INV# INV-101690 | GL: 7040
+V060_20241106_11.pdf,AP — Accounts Payable,Vendor Invoice,2024-11-06,NSTAR Electric / Eversource,14088.47,INV# INV-101692 | GL: 7040
+V060_20241208_12.pdf,AP — Accounts Payable,Vendor Invoice,2024-12-08,NSTAR Electric / Eversource,8596.72,INV# INV-101695 | GL: 7040
+V061_20240120_01.pdf,AP — Accounts Payable,Vendor Invoice,2024-01-20,National Grid USA,13604.64,INV# INV-101699 | GL: 7040
+V061_20240201_02.pdf,AP — Accounts Payable,Vendor Invoice,2024-02-01,National Grid USA,14400.19,INV# INV-101703 | GL: 7040
+V061_20240308_03.pdf,AP — Accounts Payable,Vendor Invoice,2024-03-08,National Grid USA,8836.05,INV# INV-101704 | GL: 7040
+V061_20240403_04.pdf,AP — Accounts Payable,Vendor Invoice,2024-04-03,National Grid USA,9936.05,INV# INV-101707 | GL: 7040
+V061_20240518_05.pdf,AP — Accounts Payable,Vendor Invoice,2024-05-18,National Grid USA,13255.81,INV# INV-101711 | GL: 7040
+V061_20240608_06.pdf,AP — Accounts Payable,Vendor Invoice,2024-06-08,National Grid USA,10353.09,INV# INV-101712 | GL: 7040
+V061_20240728_07.pdf,AP — Accounts Payable,Vendor Invoice,2024-07-28,National Grid USA,20954.56,INV# INV-101715 | GL: 7040
+V061_20240825_08.pdf,AP — Accounts Payable,Vendor Invoice,2024-08-25,National Grid USA,20291.3,INV# INV-101720 | GL: 7040
+V061_20240908_09.pdf,AP — Accounts Payable,Vendor Invoice,2024-09-08,National Grid USA,8223.64,INV# INV-101721 | GL: 7040
+V061_20241026_10.pdf,AP — Accounts Payable,Vendor Invoice,2024-10-26,National Grid USA,13311.07,INV# INV-101724 | GL: 7040
+V061_20241127_11.pdf,AP — Accounts Payable,Vendor Invoice,2024-11-27,National Grid USA,13438.07,INV# INV-101727 | GL: 7040
+V061_20241227_12.pdf,AP — Accounts Payable,Vendor Invoice,2024-12-27,National Grid USA,16295.54,INV# INV-101732 | GL: 7040
+V090_20240108_01.pdf,AP — Accounts Payable,Vendor Invoice,2024-01-08,FedEx Corporation,7726.4,INV# INV-101736 | GL: 7080
+V090_20240219_02.pdf,AP — Accounts Payable,Vendor Invoice,2024-02-19,FedEx Corporation,2023.45,INV# INV-101740 | GL: 7080
+V090_20240319_03.pdf,AP — Accounts Payable,Vendor Invoice,2024-03-19,FedEx Corporation,3207.1,INV# INV-101742 | GL: 7080
+V090_20240421_04.pdf,AP — Accounts Payable,Vendor Invoice,2024-04-21,FedEx Corporation,4681.32,INV# INV-101747 | GL: 7080
+V090_20240524_05.pdf,AP — Accounts Payable,Vendor Invoice,2024-05-24,FedEx Corporation,2097.34,INV# INV-101750 | GL: 7080
+V090_20240604_06.pdf,AP — Accounts Payable,Vendor Invoice,2024-06-04,FedEx Corporation,5246.66,INV# INV-101753 | GL: 7080
+V091_20240120_01.pdf,AP — Accounts Payable,Vendor Invoice,2024-01-20,UPS Supply Chain Solutions,1678.59,INV# INV-101756 | GL: 7080
+V091_20240220_02.pdf,AP — Accounts Payable,Vendor Invoice,2024-02-20,UPS Supply Chain Solutions,1141.2,INV# INV-101760 | GL: 7080
+V091_20240324_03.pdf,AP — Accounts Payable,Vendor Invoice,2024-03-24,UPS Supply Chain Solutions,4113.06,INV# INV-101761 | GL: 7080
+V091_20240405_04.pdf,AP — Accounts Payable,Vendor Invoice,2024-04-05,UPS Supply Chain Solutions,9484.2,INV# INV-101764 | GL: 7080
+V091_20240502_05.pdf,AP — Accounts Payable,Vendor Invoice,2024-05-02,UPS Supply Chain Solutions,2780.96,INV# INV-101767 | GL: 7080
+V091_20240620_06.pdf,AP — Accounts Payable,Vendor Invoice,2024-06-20,UPS Supply Chain Solutions,702.0,INV# INV-101772 | GL: 7080
+V100_20240104_01.pdf,AP — Accounts Payable,Vendor Invoice,2024-01-04,Pharmaceutical Product Development,14737.92,INV# INV-101774 | GL: 6040
+V100_20240209_02.pdf,AP — Accounts Payable,Vendor Invoice,2024-02-09,Pharmaceutical Product Development,16566.88,INV# INV-101778 | GL: 6040
+V100_20240305_03.pdf,AP — Accounts Payable,Vendor Invoice,2024-03-05,Pharmaceutical Product Development,13861.68,INV# INV-101783 | GL: 6040
+V100_20240428_04.pdf,AP — Accounts Payable,Vendor Invoice,2024-04-28,Pharmaceutical Product Development,18646.86,INV# INV-101788 | GL: 6040
+V101_20240122_01.pdf,AP — Accounts Payable,Vendor Invoice,2024-01-22,Life Science Staffing Group,34004.32,INV# INV-101791 | GL: 6040
+V101_20240203_02.pdf,AP — Accounts Payable,Vendor Invoice,2024-02-03,Life Science Staffing Group,39648.56,INV# INV-101792 | GL: 6040
+V101_20240305_03.pdf,AP — Accounts Payable,Vendor Invoice,2024-03-05,Life Science Staffing Group,7352.88,INV# INV-101794 | GL: 6040
+V101_20240408_04.pdf,AP — Accounts Payable,Vendor Invoice,2024-04-08,Life Science Staffing Group,19118.37,INV# INV-101795 | GL: 6040
+V101_20240506_05.pdf,AP — Accounts Payable,Vendor Invoice,2024-05-06,Life Science Staffing Group,20341.02,INV# INV-101799 | GL: 6040
+V101_20240609_06.pdf,AP — Accounts Payable,Vendor Invoice,2024-06-09,Life Science Staffing Group,11792.4,INV# INV-101800 | GL: 6040
+V101_20240717_07.pdf,AP — Accounts Payable,Vendor Invoice,2024-07-17,Life Science Staffing Group,58961.6,INV# INV-101805 | GL: 6040
+V110_20240111_01.pdf,AP — Accounts Payable,Vendor Invoice,2024-01-11,Charles River Laboratories,28801.33,INV# INV-101806 | GL: 6050
+V110_20240224_02.pdf,AP — Accounts Payable,Vendor Invoice,2024-02-24,Charles River Laboratories,5731.3,INV# INV-101808 | GL: 6050
+V110_20240327_03.pdf,AP — Accounts Payable,Vendor Invoice,2024-03-27,Charles River Laboratories,16937.78,INV# INV-101810 | GL: 6050
+V110_20240419_04.pdf,AP — Accounts Payable,Vendor Invoice,2024-04-19,Charles River Laboratories,24595.3,INV# INV-101815 | GL: 6050
+PO_20240630_V020_01.pdf,AP — Purchasing,Purchase Order,2024-06-30,Thermo Fisher Scientific Inc.,18680.2,PO# PO-20261 | Requested by Mei-Ling Chang
+PO_20241210_V020_02.pdf,AP — Purchasing,Purchase Order,2024-12-10,Thermo Fisher Scientific Inc.,1486.91,PO# PO-20262 | Requested by David G. Morrison
+PO_20240109_V021_01.pdf,AP — Purchasing,Purchase Order,2024-01-09,Sigma-Aldrich Corporation,39063.48,PO# PO-20263 | Requested by Gina R. Patterson
+PO_20241102_V021_02.pdf,AP — Purchasing,Purchase Order,2024-11-02,Sigma-Aldrich Corporation,26774.89,PO# PO-20265 | Requested by Ryan T. Castellano
+PO_20241116_V021_03.pdf,AP — Purchasing,Purchase Order,2024-11-16,Sigma-Aldrich Corporation,16948.4,PO# PO-20266 | Requested by Carlos M. Vega
+PO_20240102_V021_04.pdf,AP — Purchasing,Purchase Order,2024-01-02,Sigma-Aldrich Corporation,23655.67,PO# PO-20267 | Requested by Nina O. Jefferson
+PO_20240121_V021_05.pdf,AP — Purchasing,Purchase Order,2024-01-21,Sigma-Aldrich Corporation,36782.22,PO# PO-20269 | Requested by Brendan S. Walsh
+PO_20240126_V022_01.pdf,AP — Purchasing,Purchase Order,2024-01-26,VWR International LLC,14280.34,PO# PO-20272 | Requested by Denise R. Yamamoto
+PO_20240629_V022_02.pdf,AP — Purchasing,Purchase Order,2024-06-29,VWR International LLC,59149.32,PO# PO-20275 | Requested by Gina R. Patterson
+PO_20240714_V022_03.pdf,AP — Purchasing,Purchase Order,2024-07-14,VWR International LLC,22695.35,PO# PO-20277 | Requested by Nina O. Jefferson
+PO_20241029_V022_04.pdf,AP — Purchasing,Purchase Order,2024-10-29,VWR International LLC,13216.7,PO# PO-20278 | Requested by Kevin H. Park
+PO_20240723_V030_01.pdf,AP — Purchasing,Purchase Order,2024-07-23,Goodwin Procter LLP,112549.97,PO# PO-20280 | Requested by David G. Morrison
+PO_20240505_V030_02.pdf,AP — Purchasing,Purchase Order,2024-05-05,Goodwin Procter LLP,98635.19,PO# PO-20281 | Requested by Denise R. Yamamoto
+PO_20241106_V030_03.pdf,AP — Purchasing,Purchase Order,2024-11-06,Goodwin Procter LLP,179128.33,PO# PO-20282 | Requested by Sandra L. Okafor
+PO_20240626_V030_04.pdf,AP — Purchasing,Purchase Order,2024-06-26,Goodwin Procter LLP,99167.41,PO# PO-20284 | Requested by James P. Thornton
+PO_20240724_V030_05.pdf,AP — Purchasing,Purchase Order,2024-07-24,Goodwin Procter LLP,121115.46,PO# PO-20286 | Requested by Cynthia A. Brooks
+PO_20240529_V050_01.pdf,AP — Purchasing,Purchase Order,2024-05-29,Veeva Systems Inc.,120061.38,PO# PO-20288 | Requested by David G. Morrison
+PO_20240907_V050_02.pdf,AP — Purchasing,Purchase Order,2024-09-07,Veeva Systems Inc.,116266.9,PO# PO-20289 | Requested by Sandra L. Okafor
+PO_20240812_V050_03.pdf,AP — Purchasing,Purchase Order,2024-08-12,Veeva Systems Inc.,66306.67,PO# PO-20292 | Requested by Mitchell T. Crawford
+PO_20240830_V050_04.pdf,AP — Purchasing,Purchase Order,2024-08-30,Veeva Systems Inc.,164665.39,PO# PO-20295 | Requested by Mei-Ling Chang
+PO_20240421_V050_05.pdf,AP — Purchasing,Purchase Order,2024-04-21,Veeva Systems Inc.,13012.8,PO# PO-20298 | Requested by Mei-Ling Chang
+PO_20240309_V051_01.pdf,AP — Purchasing,Purchase Order,2024-03-09,Workday Inc.,84832.74,PO# PO-20299 | Requested by Dr. Anya V. Petrov
+PO_20240526_V051_02.pdf,AP — Purchasing,Purchase Order,2024-05-26,Workday Inc.,161919.72,PO# PO-20302 | Requested by Carlos M. Vega
+PO_20240626_V051_03.pdf,AP — Purchasing,Purchase Order,2024-06-26,Workday Inc.,20170.9,PO# PO-20303 | Requested by Sandra L. Okafor
+PO_20240415_V052_01.pdf,AP — Purchasing,Purchase Order,2024-04-15,Salesforce.com Inc.,113704.41,PO# PO-20305 | Requested by James P. Thornton
+PO_20241028_V052_02.pdf,AP — Purchasing,Purchase Order,2024-10-28,Salesforce.com Inc.,239654.18,PO# PO-20306 | Requested by Cynthia A. Brooks
+PO_20240806_V052_03.pdf,AP — Purchasing,Purchase Order,2024-08-06,Salesforce.com Inc.,80077.61,PO# PO-20307 | Requested by Cynthia A. Brooks
+PO_20241030_V052_04.pdf,AP — Purchasing,Purchase Order,2024-10-30,Salesforce.com Inc.,59410.05,PO# PO-20310 | Requested by Mitchell T. Crawford
+PO_20240229_V052_05.pdf,AP — Purchasing,Purchase Order,2024-02-29,Salesforce.com Inc.,119128.99,PO# PO-20311 | Requested by Priya M. Nair
+PO_20240518_V090_01.pdf,AP — Purchasing,Purchase Order,2024-05-18,FedEx Corporation,6395.0,PO# PO-20313 | Requested by Mei-Ling Chang
+PO_20240516_V090_02.pdf,AP — Purchasing,Purchase Order,2024-05-16,FedEx Corporation,3424.0,PO# PO-20315 | Requested by Dr. James H. Nguyen
+PO_20240817_V090_03.pdf,AP — Purchasing,Purchase Order,2024-08-17,FedEx Corporation,11073.0,PO# PO-20318 | Requested by Maria L. Santos
+PO_20240805_V090_04.pdf,AP — Purchasing,Purchase Order,2024-08-05,FedEx Corporation,6835.0,PO# PO-20319 | Requested by Nina O. Jefferson
+PO_20240810_V091_01.pdf,AP — Purchasing,Purchase Order,2024-08-10,UPS Supply Chain Solutions,2025.0,PO# PO-20320 | Requested by Cynthia A. Brooks
+PO_20241031_V091_02.pdf,AP — Purchasing,Purchase Order,2024-10-31,UPS Supply Chain Solutions,9857.0,PO# PO-20322 | Requested by Nina O. Jefferson
+PO_20240725_V100_01.pdf,AP — Purchasing,Purchase Order,2024-07-25,Pharmaceutical Product Development,78546.24,PO# PO-20323 | Requested by Dr. James H. Nguyen
+PO_20241104_V100_02.pdf,AP — Purchasing,Purchase Order,2024-11-04,Pharmaceutical Product Development,181875.88,PO# PO-20325 | Requested by Dr. James H. Nguyen
+PO_20241002_V100_03.pdf,AP — Purchasing,Purchase Order,2024-10-02,Pharmaceutical Product Development,74442.34,PO# PO-20326 | Requested by Maria L. Santos
+PO_20240320_V100_04.pdf,AP — Purchasing,Purchase Order,2024-03-20,Pharmaceutical Product Development,110963.55,PO# PO-20329 | Requested by Brendan S. Walsh
+PO_20240120_V101_01.pdf,AP — Purchasing,Purchase Order,2024-01-20,Life Science Staffing Group,228733.12,PO# PO-20332 | Requested by Sandra L. Okafor
+PO_20240829_V101_02.pdf,AP — Purchasing,Purchase Order,2024-08-29,Life Science Staffing Group,93769.4,PO# PO-20334 | Requested by Dr. Anya V. Petrov
+PO_20240608_V101_03.pdf,AP — Purchasing,Purchase Order,2024-06-08,Life Science Staffing Group,142593.38,PO# PO-20335 | Requested by David G. Morrison
+PO_20241030_V101_04.pdf,AP — Purchasing,Purchase Order,2024-10-30,Life Science Staffing Group,29701.53,PO# PO-20337 | Requested by Todd R. Fleming
+PO_20241008_V101_05.pdf,AP — Purchasing,Purchase Order,2024-10-08,Life Science Staffing Group,168135.38,PO# PO-20339 | Requested by Denise R. Yamamoto
+PO_20241101_V110_01.pdf,AP — Purchasing,Purchase Order,2024-11-01,Charles River Laboratories,31998.68,PO# PO-20340 | Requested by Dr. Anya V. Petrov
+PO_20240701_V110_02.pdf,AP — Purchasing,Purchase Order,2024-07-01,Charles River Laboratories,167180.41,PO# PO-20343 | Requested by Brendan S. Walsh
+PKG_20240302_001.jpg,AP — Receiving,Packing Slip / Receiving Report,2024-03-02,Sigma-Aldrich Corporation,,PO Ref: PO-20341
+PKG_20241205_002.jpg,AP — Receiving,Packing Slip / Receiving Report,2024-12-05,VWR International LLC,,PO Ref: PO-20444
+PKG_20240315_003.jpg,AP — Receiving,Packing Slip / Receiving Report,2024-03-15,Thermo Fisher Scientific Inc.,,PO Ref: PO-20094
+PKG_20240123_004.jpg,AP — Receiving,Packing Slip / Receiving Report,2024-01-23,UPS Supply Chain Solutions,,PO Ref: PO-20309
+PKG_20240229_005.jpg,AP — Receiving,Packing Slip / Receiving Report,2024-02-29,FedEx Corporation,,PO Ref: PO-20006
+PKG_20240628_006.jpg,AP — Receiving,Packing Slip / Receiving Report,2024-06-28,VWR International LLC,,PO Ref: PO-20959
+PKG_20240224_007.jpg,AP — Receiving,Packing Slip / Receiving Report,2024-02-24,VWR International LLC,,PO Ref: PO-20054
+PKG_20240527_008.jpg,AP — Receiving,Packing Slip / Receiving Report,2024-05-27,Thermo Fisher Scientific Inc.,,PO Ref: PO-20542
+PKG_20240921_009.jpg,AP — Receiving,Packing Slip / Receiving Report,2024-09-21,FedEx Corporation,,PO Ref: PO-20001
+PKG_20240821_010.jpg,AP — Receiving,Packing Slip / Receiving Report,2024-08-21,Thermo Fisher Scientific Inc.,,PO Ref: PO-20934
+PKG_20240723_011.jpg,AP — Receiving,Packing Slip / Receiving Report,2024-07-23,Thermo Fisher Scientific Inc.,,PO Ref: PO-20314
+PKG_20240613_012.jpg,AP — Receiving,Packing Slip / Receiving Report,2024-06-13,FedEx Corporation,,PO Ref: PO-20639
+PKG_20240708_013.jpg,AP — Receiving,Packing Slip / Receiving Report,2024-07-08,Sigma-Aldrich Corporation,,PO Ref: PO-20736
+PKG_20240209_014.jpg,AP — Receiving,Packing Slip / Receiving Report,2024-02-09,VWR International LLC,,PO Ref: PO-20850
+PKG_20240515_015.jpg,AP — Receiving,Packing Slip / Receiving Report,2024-05-15,FedEx Corporation,,PO Ref: PO-20687
+PKG_20240421_016.jpg,AP — Receiving,Packing Slip / Receiving Report,2024-04-21,VWR International LLC,,PO Ref: PO-20230
+PKG_20240709_017.jpg,AP — Receiving,Packing Slip / Receiving Report,2024-07-09,FedEx Corporation,,PO Ref: PO-20512
+PKG_20240531_018.jpg,AP — Receiving,Packing Slip / Receiving Report,2024-05-31,Thermo Fisher Scientific Inc.,,PO Ref: PO-20952
+PKG_20240628_019.jpg,AP — Receiving,Packing Slip / Receiving Report,2024-06-28,FedEx Corporation,,PO Ref: PO-20595
+PKG_20240215_020.jpg,AP — Receiving,Packing Slip / Receiving Report,2024-02-15,Sigma-Aldrich Corporation,,PO Ref: PO-20816
+PKG_20240406_021.jpg,AP — Receiving,Packing Slip / Receiving Report,2024-04-06,UPS Supply Chain Solutions,,PO Ref: PO-20357
+PKG_20240413_022.jpg,AP — Receiving,Packing Slip / Receiving Report,2024-04-13,Sigma-Aldrich Corporation,,PO Ref: PO-20095
+PKG_20240110_023.jpg,AP — Receiving,Packing Slip / Receiving Report,2024-01-10,VWR International LLC,,PO Ref: PO-20908
+PKG_20240520_024.jpg,AP — Receiving,Packing Slip / Receiving Report,2024-05-20,FedEx Corporation,,PO Ref: PO-20529
+PKG_20240413_025.jpg,AP — Receiving,Packing Slip / Receiving Report,2024-04-13,Sigma-Aldrich Corporation,,PO Ref: PO-20365
+PKG_20240610_026.jpg,AP — Receiving,Packing Slip / Receiving Report,2024-06-10,VWR International LLC,,PO Ref: PO-20619
+PKG_20240711_027.jpg,AP — Receiving,Packing Slip / Receiving Report,2024-07-11,Sigma-Aldrich Corporation,,PO Ref: PO-20446
+PKG_20240304_028.jpg,AP — Receiving,Packing Slip / Receiving Report,2024-03-04,UPS Supply Chain Solutions,,PO Ref: PO-20394
+PKG_20241027_029.jpg,AP — Receiving,Packing Slip / Receiving Report,2024-10-27,UPS Supply Chain Solutions,,PO Ref: PO-20611
+PKG_20241110_030.jpg,AP — Receiving,Packing Slip / Receiving Report,2024-11-10,FedEx Corporation,,PO Ref: PO-20503
+PKG_20241101_031.jpg,AP — Receiving,Packing Slip / Receiving Report,2024-11-01,Thermo Fisher Scientific Inc.,,PO Ref: PO-20634
+PKG_20240119_032.jpg,AP — Receiving,Packing Slip / Receiving Report,2024-01-19,UPS Supply Chain Solutions,,PO Ref: PO-20730
+PKG_20240616_033.jpg,AP — Receiving,Packing Slip / Receiving Report,2024-06-16,FedEx Corporation,,PO Ref: PO-20802
+PKG_20240817_034.jpg,AP — Receiving,Packing Slip / Receiving Report,2024-08-17,FedEx Corporation,,PO Ref: PO-20634
+PKG_20241208_035.jpg,AP — Receiving,Packing Slip / Receiving Report,2024-12-08,Thermo Fisher Scientific Inc.,,PO Ref: PO-20421
+VSTMT_V051_20241210.pdf,AP — Vendor Statements,Vendor Account Statement,2024-12-10,Workday Inc.,144284.08,2 open invoices
+VSTMT_V110_20241223.pdf,AP — Vendor Statements,Vendor Account Statement,2024-12-23,Charles River Laboratories,859377.9,5 open invoices
+VSTMT_V060_20241124.pdf,AP — Vendor Statements,Vendor Account Statement,2024-11-24,NSTAR Electric / Eversource,1031517.7,7 open invoices
+VSTMT_V022_20241025.pdf,AP — Vendor Statements,Vendor Account Statement,2024-10-25,VWR International LLC,143267.53,2 open invoices
+VSTMT_V010_20241005.pdf,AP — Vendor Statements,Vendor Account Statement,2024-10-05,Lonza Biologics Inc.,91983.2,2 open invoices
+VSTMT_V031_20241031.pdf,AP — Vendor Statements,Vendor Account Statement,2024-10-31,Deloitte & Touche LLP,170206.24,2 open invoices
+VSTMT_V080_20241127.pdf,AP — Vendor Statements,Vendor Account Statement,2024-11-27,Fidelity Investments Institutional,658561.22,7 open invoices
+VSTMT_V091_20241127.pdf,AP — Vendor Statements,Vendor Account Statement,2024-11-27,UPS Supply Chain Solutions,355767.65,3 open invoices
+VSTMT_V052_20241130.pdf,AP — Vendor Statements,Vendor Account Statement,2024-11-30,Salesforce.com Inc.,706868.83,5 open invoices
+VSTMT_V070_20241112.pdf,AP — Vendor Statements,Vendor Account Statement,2024-11-12,Cigna Health and Life Insurance,854716.32,7 open invoices
+VSTMT_V033_20241106.pdf,AP — Vendor Statements,Vendor Account Statement,2024-11-06,IQVIA Holdings Inc.,558480.18,4 open invoices
+VSTMT_V021_20241007.pdf,AP — Vendor Statements,Vendor Account Statement,2024-10-07,Sigma-Aldrich Corporation,553353.06,6 open invoices
+WIRE_20241117_001.pdf,Treasury,Wire Transfer Confirmation,2024-11-17,Veeva Systems Inc.,3454710.77,Wire Ref: WT202411172896
+WIRE_20241229_002.pdf,Treasury,Wire Transfer Confirmation,2024-12-29,Covance Inc.,2926786.22,Wire Ref: WT202412292872
+WIRE_20240407_003.pdf,Treasury,Wire Transfer Confirmation,2024-04-07,Life Science Staffing Group,3049247.07,Wire Ref: WT202404073168
+WIRE_20240305_004.pdf,Treasury,Wire Transfer Confirmation,2024-03-05,PPD Milestones Escrow,3772967.94,Wire Ref: WT202403052278
+WIRE_20241013_005.pdf,Treasury,Wire Transfer Confirmation,2024-10-13,PPD Milestones Escrow,818504.2,Wire Ref: WT202410138105
+WIRE_20240102_006.pdf,Treasury,Wire Transfer Confirmation,2024-01-02,National Grid USA,567024.87,Wire Ref: WT202401028103
+WIRE_20240114_007.pdf,Treasury,Wire Transfer Confirmation,2024-01-14,Thermo Fisher Scientific Inc.,493026.74,Wire Ref: WT202401144627
+WIRE_20240715_008.pdf,Treasury,Wire Transfer Confirmation,2024-07-15,Salesforce.com Inc.,3415490.06,Wire Ref: WT202407152558
+WIRE_20241118_009.pdf,Treasury,Wire Transfer Confirmation,2024-11-18,Deloitte & Touche LLP,196245.07,Wire Ref: WT202411188626
+WIRE_20241217_010.pdf,Treasury,Wire Transfer Confirmation,2024-12-17,IQVIA Holdings Inc.,2247669.37,Wire Ref: WT202412171419
+WIRE_20240730_011.pdf,Treasury,Wire Transfer Confirmation,2024-07-30,PPD Clinical Research Services,489141.3,Wire Ref: WT202407301289
+WIRE_20240930_012.pdf,Treasury,Wire Transfer Confirmation,2024-09-30,PPD Clinical Research Services,2248929.96,Wire Ref: WT202409305240
+WIRE_20241120_013.pdf,Treasury,Wire Transfer Confirmation,2024-11-20,Cigna Health and Life Insurance,4258054.91,Wire Ref: WT202411202353
+WIRE_20240203_014.pdf,Treasury,Wire Transfer Confirmation,2024-02-03,Parexel International Corp.,2819567.86,Wire Ref: WT202402037118
+WIRE_20240805_015.pdf,Treasury,Wire Transfer Confirmation,2024-08-05,Covance Inc.,3822058.59,Wire Ref: WT202408056253
+WIRE_20240123_016.pdf,Treasury,Wire Transfer Confirmation,2024-01-23,Pharmaceutical Product Development,1635653.79,Wire Ref: WT202401238754
+WIRE_20240317_017.pdf,Treasury,Wire Transfer Confirmation,2024-03-17,PPD Clinical Research Services,2350507.83,Wire Ref: WT202403179968
+WIRE_20240821_018.pdf,Treasury,Wire Transfer Confirmation,2024-08-21,Parexel International Corp.,4238504.98,Wire Ref: WT202408217093
+WIRE_20240714_019.pdf,Treasury,Wire Transfer Confirmation,2024-07-14,Pharmaceutical Product Development,2886952.9,Wire Ref: WT202407145868
+WIRE_20240806_020.pdf,Treasury,Wire Transfer Confirmation,2024-08-06,IQVIA Holdings Inc.,4328797.2,Wire Ref: WT202408065050
+WIRE_20240212_021.pdf,Treasury,Wire Transfer Confirmation,2024-02-12,PPD Clinical Research Services,1853830.5,Wire Ref: WT202402128496
+WIRE_20240426_022.pdf,Treasury,Wire Transfer Confirmation,2024-04-26,Goodwin Procter LLP,4069148.41,Wire Ref: WT202404266038
+WIRE_20240216_023.pdf,Treasury,Wire Transfer Confirmation,2024-02-16,Sigma-Aldrich Corporation,2445611.8,Wire Ref: WT202402164925
+WIRE_20240925_024.pdf,Treasury,Wire Transfer Confirmation,2024-09-25,Workday Inc.,3399919.86,Wire Ref: WT202409259655
+WIRE_20240320_025.pdf,Treasury,Wire Transfer Confirmation,2024-03-20,PPD Clinical Research Services,3697396.13,Wire Ref: WT202403201955
+WIRE_20241215_026.pdf,Treasury,Wire Transfer Confirmation,2024-12-15,National Grid USA,2410696.99,Wire Ref: WT202412155195
+WIRE_20240228_027.pdf,Treasury,Wire Transfer Confirmation,2024-02-28,National Grid USA,3245102.46,Wire Ref: WT202402285607
+WIRE_20241010_028.pdf,Treasury,Wire Transfer Confirmation,2024-10-10,PPD Milestones Escrow,893317.77,Wire Ref: WT202410104733
+ARINV_C001_20240122_01.pdf,AR — Accounts Receivable,Customer Invoice (AR),2024-01-22,McKesson Corporation,701594.1,INV# NXTB-105861 | Oncovax®
+ARINV_C001_20240222_02.pdf,AR — Accounts Receivable,Customer Invoice (AR),2024-02-22,McKesson Corporation,818046.0,INV# NXTB-105866 | Renivex®
+ARINV_C001_20240303_03.pdf,AR — Accounts Receivable,Customer Invoice (AR),2024-03-03,McKesson Corporation,2071910.4,INV# NXTB-105871 | Renivex®
+ARINV_C001_20240411_04.pdf,AR — Accounts Receivable,Customer Invoice (AR),2024-04-11,McKesson Corporation,5675344.84,INV# NXTB-105872 | Renivex®
+ARINV_C001_20240507_05.pdf,AR — Accounts Receivable,Customer Invoice (AR),2024-05-07,McKesson Corporation,4558074.45,INV# NXTB-105876 | Renivex®
+ARINV_C001_20240608_06.pdf,AR — Accounts Receivable,Customer Invoice (AR),2024-06-08,McKesson Corporation,2086428.96,INV# NXTB-105881 | Oncovax®
+ARINV_C001_20240701_07.pdf,AR — Accounts Receivable,Customer Invoice (AR),2024-07-01,McKesson Corporation,6198721.12,INV# NXTB-105886 | Renivex®
+ARINV_C001_20240804_08.pdf,AR — Accounts Receivable,Customer Invoice (AR),2024-08-04,McKesson Corporation,4102843.5,INV# NXTB-105889 | Renivex®
+ARINV_C001_20240913_09.pdf,AR — Accounts Receivable,Customer Invoice (AR),2024-09-13,McKesson Corporation,734880.6,INV# NXTB-105893 | Oncovax®
+ARINV_C001_20241016_10.pdf,AR — Accounts Receivable,Customer Invoice (AR),2024-10-16,McKesson Corporation,984744.8,INV# NXTB-105894 | Renivex®
+ARINV_C002_20240124_01.pdf,AR — Accounts Receivable,Customer Invoice (AR),2024-01-24,CVS Health / Caremark,368521.73,INV# NXTB-105899 | Oncovax®
+ARINV_C002_20240221_02.pdf,AR — Accounts Receivable,Customer Invoice (AR),2024-02-21,CVS Health / Caremark,1064902.63,INV# NXTB-105904 | Oncovax®
+ARINV_C002_20240319_03.pdf,AR — Accounts Receivable,Customer Invoice (AR),2024-03-19,CVS Health / Caremark,7101309.6,INV# NXTB-105908 | Renivex®
+ARINV_C002_20240415_04.pdf,AR — Accounts Receivable,Customer Invoice (AR),2024-04-15,CVS Health / Caremark,1656118.8,INV# NXTB-105910 | Renivex®
+ARINV_C002_20240507_05.pdf,AR — Accounts Receivable,Customer Invoice (AR),2024-05-07,CVS Health / Caremark,3423260.4,INV# NXTB-105912 | Renivex®
+ARINV_C002_20240622_06.pdf,AR — Accounts Receivable,Customer Invoice (AR),2024-06-22,CVS Health / Caremark,2321406.25,INV# NXTB-105917 | Oncovax®
+ARINV_C002_20240704_07.pdf,AR — Accounts Receivable,Customer Invoice (AR),2024-07-04,CVS Health / Caremark,571598.17,INV# NXTB-105920 | Oncovax®
+ARINV_C002_20240808_08.pdf,AR — Accounts Receivable,Customer Invoice (AR),2024-08-08,CVS Health / Caremark,2973776.09,INV# NXTB-105925 | Oncovax®
+ARINV_C002_20240924_09.pdf,AR — Accounts Receivable,Customer Invoice (AR),2024-09-24,CVS Health / Caremark,3204301.61,INV# NXTB-105927 | Oncovax®
+ARINV_C002_20241015_10.pdf,AR — Accounts Receivable,Customer Invoice (AR),2024-10-15,CVS Health / Caremark,964172.5,INV# NXTB-105928 | Renivex®
+ARINV_C002_20241113_11.pdf,AR — Accounts Receivable,Customer Invoice (AR),2024-11-13,CVS Health / Caremark,799763.64,INV# NXTB-105933 | Oncovax®
+ARINV_C002_20241225_12.pdf,AR — Accounts Receivable,Customer Invoice (AR),2024-12-25,CVS Health / Caremark,3606683.88,INV# NXTB-105934 | Renivex®
+ARINV_C002_20240124_13.pdf,AR — Accounts Receivable,Customer Invoice (AR),2024-01-24,CVS Health / Caremark,2991018.57,INV# NXTB-105938 | Renivex®
+ARINV_C002_20240220_14.pdf,AR — Accounts Receivable,Customer Invoice (AR),2024-02-20,CVS Health / Caremark,2469849.48,INV# NXTB-105942 | Oncovax®
+ARINV_C003_20240116_01.pdf,AR — Accounts Receivable,Customer Invoice (AR),2024-01-16,Amerisource Bergen Drug Corp.,1766626.26,INV# NXTB-105946 | Oncovax®
+ARINV_C003_20240204_02.pdf,AR — Accounts Receivable,Customer Invoice (AR),2024-02-04,Amerisource Bergen Drug Corp.,3988924.16,INV# NXTB-105949 | Renivex®
+ARINV_C003_20240303_03.pdf,AR — Accounts Receivable,Customer Invoice (AR),2024-03-03,Amerisource Bergen Drug Corp.,1914880.4,INV# NXTB-105952 | Renivex®
+ARINV_C003_20240415_04.pdf,AR — Accounts Receivable,Customer Invoice (AR),2024-04-15,Amerisource Bergen Drug Corp.,458848.75,INV# NXTB-105956 | Oncovax®
+ARINV_C003_20240504_05.pdf,AR — Accounts Receivable,Customer Invoice (AR),2024-05-04,Amerisource Bergen Drug Corp.,1582777.01,INV# NXTB-105960 | Oncovax®
+ARINV_C003_20240623_06.pdf,AR — Accounts Receivable,Customer Invoice (AR),2024-06-23,Amerisource Bergen Drug Corp.,1967874.48,INV# NXTB-105963 | Oncovax®
+ARINV_C003_20240715_07.pdf,AR — Accounts Receivable,Customer Invoice (AR),2024-07-15,Amerisource Bergen Drug Corp.,2530281.6,INV# NXTB-105965 | Oncovax®
+ARINV_C003_20240813_08.pdf,AR — Accounts Receivable,Customer Invoice (AR),2024-08-13,Amerisource Bergen Drug Corp.,3006437.04,INV# NXTB-105966 | Oncovax®
+ARINV_C003_20240903_09.pdf,AR — Accounts Receivable,Customer Invoice (AR),2024-09-03,Amerisource Bergen Drug Corp.,468296.4,INV# NXTB-105967 | Oncovax®
+ARINV_C004_20240114_01.pdf,AR — Accounts Receivable,Customer Invoice (AR),2024-01-14,Cardinal Health Inc.,1061723.96,INV# NXTB-105969 | Renivex®
+ARINV_C004_20240222_02.pdf,AR — Accounts Receivable,Customer Invoice (AR),2024-02-22,Cardinal Health Inc.,4777659.04,INV# NXTB-105972 | Renivex®
+ARINV_C004_20240302_03.pdf,AR — Accounts Receivable,Customer Invoice (AR),2024-03-02,Cardinal Health Inc.,1375142.4,INV# NXTB-105975 | Oncovax®
+ARINV_C004_20240404_04.pdf,AR — Accounts Receivable,Customer Invoice (AR),2024-04-04,Cardinal Health Inc.,4439062.44,INV# NXTB-105978 | Renivex®
+ARINV_C004_20240512_05.pdf,AR — Accounts Receivable,Customer Invoice (AR),2024-05-12,Cardinal Health Inc.,3258893.61,INV# NXTB-105983 | Renivex®
+ARINV_C004_20240622_06.pdf,AR — Accounts Receivable,Customer Invoice (AR),2024-06-22,Cardinal Health Inc.,2894656.97,INV# NXTB-105987 | Renivex®
+ARINV_C004_20240706_07.pdf,AR — Accounts Receivable,Customer Invoice (AR),2024-07-06,Cardinal Health Inc.,3245480.0,INV# NXTB-105989 | Renivex®
+ARINV_C004_20240809_08.pdf,AR — Accounts Receivable,Customer Invoice (AR),2024-08-09,Cardinal Health Inc.,5353317.0,INV# NXTB-105992 | Renivex®
+ARINV_C004_20240917_09.pdf,AR — Accounts Receivable,Customer Invoice (AR),2024-09-17,Cardinal Health Inc.,826511.14,INV# NXTB-105997 | Renivex®
+ARINV_C004_20241007_10.pdf,AR — Accounts Receivable,Customer Invoice (AR),2024-10-07,Cardinal Health Inc.,2111481.6,INV# NXTB-106001 | Oncovax®
+ARINV_C004_20241120_11.pdf,AR — Accounts Receivable,Customer Invoice (AR),2024-11-20,Cardinal Health Inc.,574922.5,INV# NXTB-106003 | Oncovax®
+ARINV_C004_20241222_12.pdf,AR — Accounts Receivable,Customer Invoice (AR),2024-12-22,Cardinal Health Inc.,1473504.3,INV# NXTB-106005 | Oncovax®
+ARINV_C004_20240119_13.pdf,AR — Accounts Receivable,Customer Invoice (AR),2024-01-19,Cardinal Health Inc.,1540729.16,INV# NXTB-106006 | Renivex®
+ARINV_C004_20240217_14.pdf,AR — Accounts Receivable,Customer Invoice (AR),2024-02-17,Cardinal Health Inc.,6118234.32,INV# NXTB-106007 | Renivex®
+AR_Aging_20240331.xlsx,AR — Aging,AR Aging Report,2024-03-31,All Customers,,Quarterly AR Aging
+AR_Aging_20240630.xlsx,AR — Aging,AR Aging Report,2024-06-30,All Customers,,Quarterly AR Aging
+AR_Aging_20240930.xlsx,AR — Aging,AR Aging Report,2024-09-30,All Customers,,Quarterly AR Aging
+AR_Aging_20241231.xlsx,AR — Aging,AR Aging Report,2024-12-31,All Customers,,Quarterly AR Aging
+CB_Recon_202401.xlsx,AR — Trade,Chargeback Reconciliation,2024-01-30,Multiple Wholesalers,16974182.31,Monthly chargeback recon
+CB_Recon_202402.xlsx,AR — Trade,Chargeback Reconciliation,2024-02-30,Multiple Wholesalers,17493615.97,Monthly chargeback recon
+CB_Recon_202403.xlsx,AR — Trade,Chargeback Reconciliation,2024-03-30,Multiple Wholesalers,25166711.97,Monthly chargeback recon
+CB_Recon_202404.xlsx,AR — Trade,Chargeback Reconciliation,2024-04-30,Multiple Wholesalers,11392244.19,Monthly chargeback recon
+CB_Recon_202405.xlsx,AR — Trade,Chargeback Reconciliation,2024-05-30,Multiple Wholesalers,15746091.64,Monthly chargeback recon
+CB_Recon_202406.xlsx,AR — Trade,Chargeback Reconciliation,2024-06-30,Multiple Wholesalers,18223702.27,Monthly chargeback recon
+CB_Recon_202407.xlsx,AR — Trade,Chargeback Reconciliation,2024-07-30,Multiple Wholesalers,14135353.27,Monthly chargeback recon
+CB_Recon_202408.xlsx,AR — Trade,Chargeback Reconciliation,2024-08-30,Multiple Wholesalers,12166366.18,Monthly chargeback recon
+CB_Recon_202409.xlsx,AR — Trade,Chargeback Reconciliation,2024-09-30,Multiple Wholesalers,18511255.48,Monthly chargeback recon
+CB_Recon_202410.xlsx,AR — Trade,Chargeback Reconciliation,2024-10-30,Multiple Wholesalers,19505751.12,Monthly chargeback recon
+CB_Recon_202411.xlsx,AR — Trade,Chargeback Reconciliation,2024-11-30,Multiple Wholesalers,14388552.58,Monthly chargeback recon
+CB_Recon_202412.xlsx,AR — Trade,Chargeback Reconciliation,2024-12-30,Multiple Wholesalers,16044401.15,Monthly chargeback recon
+HOTEL_20240705_001.jpg,T&E — Hotel,Hotel Folio / Receipt,2024-07-05,Loews Chicago O'Hare Hotel,813.06,Dr. Anya V. Petrov | 3 nights
+HOTEL_20241211_002.jpg,T&E — Hotel,Hotel Folio / Receipt,2024-12-11,The Marriott Kendall Square,1010.46,Laura C. Eriksson | 3 nights
+HOTEL_20240122_003.jpg,T&E — Hotel,Hotel Folio / Receipt,2024-01-22,Embassy Suites San Francisco Airport,891.79,Gina R. Patterson | 3 nights
+HOTEL_20241115_004.jpg,T&E — Hotel,Hotel Folio / Receipt,2024-11-15,Sheraton Raleigh Hotel,756.94,Carlos M. Vega | 3 nights
+HOTEL_20240208_005.jpg,T&E — Hotel,Hotel Folio / Receipt,2024-02-08,Loews Chicago O'Hare Hotel,505.75,Paul J. Anand | 2 nights
+HOTEL_20240108_006.jpg,T&E — Hotel,Hotel Folio / Receipt,2024-01-08,JW Marriott Philadelphia,346.98,Patricia J. Hollis | 1 nights
+HOTEL_20240614_007.jpg,T&E — Hotel,Hotel Folio / Receipt,2024-06-14,JW Marriott Philadelphia,666.33,Mitchell T. Crawford | 2 nights
+HOTEL_20240626_008.jpg,T&E — Hotel,Hotel Folio / Receipt,2024-06-26,The Marriott Kendall Square,1500.36,Dr. James H. Nguyen | 4 nights
+HOTEL_20240208_009.jpg,T&E — Hotel,Hotel Folio / Receipt,2024-02-08,Sheraton Raleigh Hotel,293.42,Laura C. Eriksson | 1 nights
+HOTEL_20240525_010.jpg,T&E — Hotel,Hotel Folio / Receipt,2024-05-25,JW Marriott Philadelphia,353.67,Paul J. Anand | 1 nights
+HOTEL_20240705_011.jpg,T&E — Hotel,Hotel Folio / Receipt,2024-07-05,Westin San Diego Gaslamp Quarter,1128.64,Carlos M. Vega | 4 nights
+HOTEL_20240421_012.jpg,T&E — Hotel,Hotel Folio / Receipt,2024-04-21,Sheraton Raleigh Hotel,694.83,Patricia J. Hollis | 3 nights
+HOTEL_20241126_013.jpg,T&E — Hotel,Hotel Folio / Receipt,2024-11-26,Loews Chicago O'Hare Hotel,284.23,Dr. James H. Nguyen | 1 nights
+HOTEL_20241017_014.jpg,T&E — Hotel,Hotel Folio / Receipt,2024-10-17,The Marriott Kendall Square,663.04,Mitchell T. Crawford | 2 nights
+HOTEL_20240929_015.jpg,T&E — Hotel,Hotel Folio / Receipt,2024-09-29,JW Marriott Philadelphia,785.64,Mei-Ling Chang | 2 nights
+HOTEL_20240927_016.jpg,T&E — Hotel,Hotel Folio / Receipt,2024-09-27,Embassy Suites San Francisco Airport,292.57,Patricia J. Hollis | 1 nights
+HOTEL_20240804_017.jpg,T&E — Hotel,Hotel Folio / Receipt,2024-08-04,Sheraton Raleigh Hotel,517.3,Dr. James H. Nguyen | 2 nights
+HOTEL_20241124_018.jpg,T&E — Hotel,Hotel Folio / Receipt,2024-11-24,JW Marriott Philadelphia,702.42,Paul J. Anand | 2 nights
+HOTEL_20240707_019.jpg,T&E — Hotel,Hotel Folio / Receipt,2024-07-07,Sheraton Raleigh Hotel,753.38,Denise R. Yamamoto | 3 nights
+HOTEL_20240502_020.jpg,T&E — Hotel,Hotel Folio / Receipt,2024-05-02,JW Marriott Philadelphia,596.59,Patricia J. Hollis | 2 nights
+HOTEL_20240801_021.jpg,T&E — Hotel,Hotel Folio / Receipt,2024-08-01,The Marriott Kendall Square,669.32,Paul J. Anand | 2 nights
+HOTEL_20240812_022.jpg,T&E — Hotel,Hotel Folio / Receipt,2024-08-12,Hyatt Regency Princeton,860.58,Dr. James H. Nguyen | 3 nights
+HOTEL_20240213_023.jpg,T&E — Hotel,Hotel Folio / Receipt,2024-02-13,Embassy Suites San Francisco Airport,912.6,Laura C. Eriksson | 3 nights
+HOTEL_20240203_024.jpg,T&E — Hotel,Hotel Folio / Receipt,2024-02-03,Westin San Diego Gaslamp Quarter,952.83,Laura C. Eriksson | 3 nights
+HOTEL_20241129_025.jpg,T&E — Hotel,Hotel Folio / Receipt,2024-11-29,Loews Chicago O'Hare Hotel,585.04,Dr. James H. Nguyen | 2 nights
+HOTEL_20240120_026.jpg,T&E — Hotel,Hotel Folio / Receipt,2024-01-20,Sheraton Raleigh Hotel,249.38,Mitchell T. Crawford | 1 nights
+HOTEL_20240829_027.jpg,T&E — Hotel,Hotel Folio / Receipt,2024-08-29,JW Marriott Philadelphia,1229.73,Dr. James H. Nguyen | 4 nights
+HOTEL_20240411_028.jpg,T&E — Hotel,Hotel Folio / Receipt,2024-04-11,Embassy Suites San Francisco Airport,705.89,Denise R. Yamamoto | 2 nights
+HOTEL_20241021_029.jpg,T&E — Hotel,Hotel Folio / Receipt,2024-10-21,Loews Chicago O'Hare Hotel,765.26,Paul J. Anand | 3 nights
+HOTEL_20240615_030.jpg,T&E — Hotel,Hotel Folio / Receipt,2024-06-15,Embassy Suites San Francisco Airport,357.55,Dr. Anya V. Petrov | 1 nights
+HOTEL_20240826_031.jpg,T&E — Hotel,Hotel Folio / Receipt,2024-08-26,Hilton Boston Back Bay,358.35,Carlos M. Vega | 1 nights
+HOTEL_20240111_032.jpg,T&E — Hotel,Hotel Folio / Receipt,2024-01-11,Loews Chicago O'Hare Hotel,596.26,Gina R. Patterson | 2 nights
+REST_20241210_001.jpg,T&E — Meals,Restaurant Receipt,2024-12-10,Morton's The Steakhouse,390.64,Paul J. Anand | 6 guests
+REST_20240624_002.jpg,T&E — Meals,Restaurant Receipt,2024-06-24,Legal Sea Foods,426.62,Paul J. Anand | 7 guests
+REST_20240724_003.jpg,T&E — Meals,Restaurant Receipt,2024-07-24,Area Four,450.34,Dr. James H. Nguyen | 6 guests
+REST_20240611_004.jpg,T&E — Meals,Restaurant Receipt,2024-06-11,Fleming's Prime Steakhouse,174.76,Mitchell T. Crawford | 3 guests
+REST_20240328_005.jpg,T&E — Meals,Restaurant Receipt,2024-03-28,The Capital Grille,352.09,Laura C. Eriksson | 4 guests
+REST_20241117_006.jpg,T&E — Meals,Restaurant Receipt,2024-11-17,Founding Farmers,286.35,Carlos M. Vega | 7 guests
+REST_20241108_007.jpg,T&E — Meals,Restaurant Receipt,2024-11-08,Nobu San Diego,245.41,Dr. James H. Nguyen | 4 guests
+REST_20241212_008.jpg,T&E — Meals,Restaurant Receipt,2024-12-12,Fleming's Prime Steakhouse,33.41,Carlos M. Vega | 2 guests
+REST_20240520_009.jpg,T&E — Meals,Restaurant Receipt,2024-05-20,Nobu San Diego,519.14,Carlos M. Vega | 8 guests
+REST_20241020_010.jpg,T&E — Meals,Restaurant Receipt,2024-10-20,The Capital Grille,416.34,Dr. James H. Nguyen | 7 guests
+REST_20240526_011.jpg,T&E — Meals,Restaurant Receipt,2024-05-26,Morton's The Steakhouse,187.22,Dr. Anya V. Petrov | 2 guests
+REST_20240521_012.jpg,T&E — Meals,Restaurant Receipt,2024-05-21,Founding Farmers,363.54,Mei-Ling Chang | 4 guests
+REST_20240816_013.jpg,T&E — Meals,Restaurant Receipt,2024-08-16,Ruth's Chris Steak House,209.16,Dr. Anya V. Petrov | 2 guests
+REST_20240606_014.jpg,T&E — Meals,Restaurant Receipt,2024-06-06,Ruth's Chris Steak House,316.11,Mitchell T. Crawford | 7 guests
+REST_20240223_015.jpg,T&E — Meals,Restaurant Receipt,2024-02-23,Morton's The Steakhouse,265.65,Dr. James H. Nguyen | 4 guests
+REST_20240127_016.jpg,T&E — Meals,Restaurant Receipt,2024-01-27,Founding Farmers,333.96,Carlos M. Vega | 6 guests
+REST_20241209_017.jpg,T&E — Meals,Restaurant Receipt,2024-12-09,The Capital Grille,415.83,Mitchell T. Crawford | 8 guests
+REST_20240410_018.jpg,T&E — Meals,Restaurant Receipt,2024-04-10,Fleming's Prime Steakhouse,280.13,Paul J. Anand | 2 guests
+REST_20240628_019.jpg,T&E — Meals,Restaurant Receipt,2024-06-28,Area Four,290.95,Dr. Anya V. Petrov | 5 guests
+REST_20241103_020.jpg,T&E — Meals,Restaurant Receipt,2024-11-03,Nobu San Diego,300.69,Patricia J. Hollis | 6 guests
+REST_20241114_021.jpg,T&E — Meals,Restaurant Receipt,2024-11-14,Fleming's Prime Steakhouse,408.36,Dr. Anya V. Petrov | 6 guests
+REST_20241012_022.jpg,T&E — Meals,Restaurant Receipt,2024-10-12,Ruth's Chris Steak House,348.6,Mei-Ling Chang | 6 guests
+REST_20241209_023.jpg,T&E — Meals,Restaurant Receipt,2024-12-09,Founding Farmers,341.13,Dr. Anya V. Petrov | 7 guests
+REST_20240505_024.jpg,T&E — Meals,Restaurant Receipt,2024-05-05,Fleming's Prime Steakhouse,385.95,Dr. James H. Nguyen | 5 guests
+REST_20240329_025.jpg,T&E — Meals,Restaurant Receipt,2024-03-29,Nobu San Diego,511.06,Patricia J. Hollis | 8 guests
+REST_20241111_026.jpg,T&E — Meals,Restaurant Receipt,2024-11-11,Morton's The Steakhouse,408.36,Mei-Ling Chang | 8 guests
+REST_20240424_027.jpg,T&E — Meals,Restaurant Receipt,2024-04-24,Ruth's Chris Steak House,182.47,Mei-Ling Chang | 3 guests
+REST_20240630_028.jpg,T&E — Meals,Restaurant Receipt,2024-06-30,Founding Farmers,260.59,Dr. James H. Nguyen | 4 guests
+REST_20240822_029.jpg,T&E — Meals,Restaurant Receipt,2024-08-22,Morton's The Steakhouse,333.66,Paul J. Anand | 5 guests
+REST_20240905_030.jpg,T&E — Meals,Restaurant Receipt,2024-09-05,Fleming's Prime Steakhouse,196.71,Mitchell T. Crawford | 4 guests
+REST_20241215_031.jpg,T&E — Meals,Restaurant Receipt,2024-12-15,Founding Farmers,465.52,Mitchell T. Crawford | 8 guests
+REST_20241110_032.jpg,T&E — Meals,Restaurant Receipt,2024-11-10,Legal Sea Foods,344.38,Laura C. Eriksson | 5 guests
+REST_20241203_033.jpg,T&E — Meals,Restaurant Receipt,2024-12-03,The Capital Grille,291.33,Denise R. Yamamoto | 6 guests
+REST_20240131_034.jpg,T&E — Meals,Restaurant Receipt,2024-01-31,Founding Farmers,440.22,Dr. Anya V. Petrov | 6 guests
+REST_20241108_035.jpg,T&E — Meals,Restaurant Receipt,2024-11-08,Legal Sea Foods,194.22,Denise R. Yamamoto | 2 guests
+REST_20240827_036.jpg,T&E — Meals,Restaurant Receipt,2024-08-27,Founding Farmers,64.74,Dr. Anya V. Petrov | 3 guests
+REST_20240614_037.jpg,T&E — Meals,Restaurant Receipt,2024-06-14,Ruth's Chris Steak House,490.82,Dr. James H. Nguyen | 7 guests
+REST_20240704_038.jpg,T&E — Meals,Restaurant Receipt,2024-07-04,The Capital Grille,199.2,Gina R. Patterson | 3 guests
+AIR_20240906_001.jpg,T&E — Airfare,Airline E-Ticket Receipt,2024-09-06,BOS→ATL,890.59,Gina R. Patterson
+AIR_20241206_002.jpg,T&E — Airfare,Airline E-Ticket Receipt,2024-12-06,BOS→EWR,474.96,Mitchell T. Crawford
+AIR_20240928_003.jpg,T&E — Airfare,Airline E-Ticket Receipt,2024-09-28,BOS→JFK,525.39,Gina R. Patterson
+AIR_20240619_004.jpg,T&E — Airfare,Airline E-Ticket Receipt,2024-06-19,SAN→BOS,930.31,Mitchell T. Crawford
+AIR_20241109_005.jpg,T&E — Airfare,Airline E-Ticket Receipt,2024-11-09,LAX→BOS,652.49,Patricia J. Hollis
+AIR_20240325_006.jpg,T&E — Airfare,Airline E-Ticket Receipt,2024-03-25,BOS→PHL,855.08,Denise R. Yamamoto
+AIR_20240318_007.jpg,T&E — Airfare,Airline E-Ticket Receipt,2024-03-18,BOS→ORD,968.85,Denise R. Yamamoto
+AIR_20240515_008.jpg,T&E — Airfare,Airline E-Ticket Receipt,2024-05-15,SAN→BOS,411.57,Denise R. Yamamoto
+AIR_20240315_009.jpg,T&E — Airfare,Airline E-Ticket Receipt,2024-03-15,BOS→PHL,386.8,Laura C. Eriksson
+AIR_20241114_010.jpg,T&E — Airfare,Airline E-Ticket Receipt,2024-11-14,BOS→ORD,1400.19,Patricia J. Hollis
+AIR_20240409_011.jpg,T&E — Airfare,Airline E-Ticket Receipt,2024-04-09,LAX→BOS,634.41,Gina R. Patterson
+AIR_20241203_012.jpg,T&E — Airfare,Airline E-Ticket Receipt,2024-12-03,BOS→SFO,1089.73,Patricia J. Hollis
+AIR_20240729_013.jpg,T&E — Airfare,Airline E-Ticket Receipt,2024-07-29,BOS→RDU,742.33,Mitchell T. Crawford
+AIR_20240726_014.jpg,T&E — Airfare,Airline E-Ticket Receipt,2024-07-26,BOS→EWR,336.97,Patricia J. Hollis
+AIR_20240728_015.jpg,T&E — Airfare,Airline E-Ticket Receipt,2024-07-28,BOS→RDU,469.45,Carlos M. Vega
+AIR_20240519_016.jpg,T&E — Airfare,Airline E-Ticket Receipt,2024-05-19,BOS→SFO,625.47,Mei-Ling Chang
+AIR_20240202_017.jpg,T&E — Airfare,Airline E-Ticket Receipt,2024-02-02,SAN→BOS,618.67,Mei-Ling Chang
+AIR_20240229_018.jpg,T&E — Airfare,Airline E-Ticket Receipt,2024-02-29,BOS→ATL,1183.14,Paul J. Anand
+AIR_20240521_019.jpg,T&E — Airfare,Airline E-Ticket Receipt,2024-05-21,BOS→SAN,611.62,Denise R. Yamamoto
+AIR_20241015_020.jpg,T&E — Airfare,Airline E-Ticket Receipt,2024-10-15,BOS→EWR,371.29,Paul J. Anand
+AIR_20240618_021.jpg,T&E — Airfare,Airline E-Ticket Receipt,2024-06-18,BOS→EWR,373.73,Mitchell T. Crawford
+AIR_20240601_022.jpg,T&E — Airfare,Airline E-Ticket Receipt,2024-06-01,BOS→SFO,1451.48,Paul J. Anand
+AIR_20240523_023.jpg,T&E — Airfare,Airline E-Ticket Receipt,2024-05-23,BOS→SAN,566.22,Paul J. Anand
+AIR_20240604_024.jpg,T&E — Airfare,Airline E-Ticket Receipt,2024-06-04,BOS→RDU,362.99,Dr. James H. Nguyen
+AIR_20241125_025.jpg,T&E — Airfare,Airline E-Ticket Receipt,2024-11-25,BOS→PHL,1093.61,Patricia J. Hollis
+AIR_20240630_026.jpg,T&E — Airfare,Airline E-Ticket Receipt,2024-06-30,BOS→JFK,1510.8,Laura C. Eriksson
+AIR_20240416_027.jpg,T&E — Airfare,Airline E-Ticket Receipt,2024-04-16,BOS→ORD,471.85,Paul J. Anand
+AIR_20240713_028.jpg,T&E — Airfare,Airline E-Ticket Receipt,2024-07-13,BOS→IAD,364.2,Denise R. Yamamoto
+RIDE_20240514_001.jpg,T&E — Ground Transport,Rideshare Receipt,2024-05-14,Airport → Hotel,89.43,Gina R. Patterson
+RIDE_20240913_002.jpg,T&E — Ground Transport,Rideshare Receipt,2024-09-13,Hotel → Convention Center,54.29,Mitchell T. Crawford
+RIDE_20240205_003.jpg,T&E — Ground Transport,Rideshare Receipt,2024-02-05,Cambridge Office → Boston Logan Airport,74.55,Laura C. Eriksson
+RIDE_20240317_004.jpg,T&E — Ground Transport,Rideshare Receipt,2024-03-17,Airport → Hotel,59.46,Laura C. Eriksson
+RIDE_20241218_005.jpg,T&E — Ground Transport,Rideshare Receipt,2024-12-18,Cambridge Office → Boston Logan Airport,62.82,Gina R. Patterson
+RIDE_20240314_006.jpg,T&E — Ground Transport,Rideshare Receipt,2024-03-14,Hotel → Convention Center,54.62,Laura C. Eriksson
+RIDE_20240527_007.jpg,T&E — Ground Transport,Rideshare Receipt,2024-05-27,Airport → Office,64.35,Mei-Ling Chang
+RIDE_20240227_008.jpg,T&E — Ground Transport,Rideshare Receipt,2024-02-27,Office → Client Site,76.55,Gina R. Patterson
+RIDE_20240130_009.jpg,T&E — Ground Transport,Rideshare Receipt,2024-01-30,Office → Client Site,50.48,Denise R. Yamamoto
+RIDE_20240808_010.jpg,T&E — Ground Transport,Rideshare Receipt,2024-08-08,Airport → Office,96.68,Denise R. Yamamoto
+RIDE_20240905_011.jpg,T&E — Ground Transport,Rideshare Receipt,2024-09-05,Airport → Office,27.87,Carlos M. Vega
+RIDE_20240413_012.jpg,T&E — Ground Transport,Rideshare Receipt,2024-04-13,Hotel → Restaurant,18.13,Laura C. Eriksson
+RIDE_20240422_013.jpg,T&E — Ground Transport,Rideshare Receipt,2024-04-22,Hotel → Restaurant,33.33,Carlos M. Vega
+RIDE_20240509_014.jpg,T&E — Ground Transport,Rideshare Receipt,2024-05-09,Hotel → Restaurant,50.66,Carlos M. Vega
+RIDE_20240307_015.jpg,T&E — Ground Transport,Rideshare Receipt,2024-03-07,Airport → Office,81.01,Paul J. Anand
+RIDE_20240516_016.jpg,T&E — Ground Transport,Rideshare Receipt,2024-05-16,Airport → Hotel,30.28,Mei-Ling Chang
+RIDE_20240808_017.jpg,T&E — Ground Transport,Rideshare Receipt,2024-08-08,Hotel → Convention Center,49.03,Patricia J. Hollis
+RIDE_20240910_018.jpg,T&E — Ground Transport,Rideshare Receipt,2024-09-10,Cambridge Office → Boston Logan Airport,58.8,Denise R. Yamamoto
+RIDE_20240509_019.jpg,T&E — Ground Transport,Rideshare Receipt,2024-05-09,Cambridge Office → Boston Logan Airport,44.31,Paul J. Anand
+RIDE_20240819_020.jpg,T&E — Ground Transport,Rideshare Receipt,2024-08-19,Office → Client Site,29.96,Mei-Ling Chang
+RIDE_20240127_021.jpg,T&E — Ground Transport,Rideshare Receipt,2024-01-27,Cambridge Office → Boston Logan Airport,36.35,Dr. Anya V. Petrov
+RIDE_20241023_022.jpg,T&E — Ground Transport,Rideshare Receipt,2024-10-23,Office → Client Site,45.46,Mei-Ling Chang
+RIDE_20240521_023.jpg,T&E — Ground Transport,Rideshare Receipt,2024-05-21,Office → Client Site,62.08,Laura C. Eriksson
+RIDE_20240603_024.jpg,T&E — Ground Transport,Rideshare Receipt,2024-06-03,Airport → Hotel,63.72,Patricia J. Hollis
+RIDE_20240318_025.jpg,T&E — Ground Transport,Rideshare Receipt,2024-03-18,Airport → Hotel,88.7,Gina R. Patterson
+RIDE_20240106_026.jpg,T&E — Ground Transport,Rideshare Receipt,2024-01-06,Hotel → Convention Center,33.45,Gina R. Patterson
+RIDE_20240523_027.jpg,T&E — Ground Transport,Rideshare Receipt,2024-05-23,Office → Client Site,59.39,Gina R. Patterson
+RIDE_20240416_028.jpg,T&E — Ground Transport,Rideshare Receipt,2024-04-16,Hotel → Convention Center,59.49,Patricia J. Hollis
+RIDE_20241021_029.jpg,T&E — Ground Transport,Rideshare Receipt,2024-10-21,Airport → Hotel,52.66,Gina R. Patterson
+RIDE_20241017_030.jpg,T&E — Ground Transport,Rideshare Receipt,2024-10-17,Airport → Office,27.05,Dr. James H. Nguyen
+MISC_20240112_001.jpg,T&E — Misc,Miscellaneous Receipt,2024-01-12,Logan Airport Newsstand,82.38,Mei-Ling Chang
+MISC_20240115_002.jpg,T&E — Misc,Miscellaneous Receipt,2024-01-15,FedEx Office Print Center,119.82,Gina R. Patterson
+MISC_20240621_003.jpg,T&E — Misc,Miscellaneous Receipt,2024-06-21,Logan Airport Newsstand,46.47,Patricia J. Hollis
+MISC_20240905_004.jpg,T&E — Misc,Miscellaneous Receipt,2024-09-05,MIT Bookstore,110.85,Gina R. Patterson
+MISC_20240827_005.jpg,T&E — Misc,Miscellaneous Receipt,2024-08-27,Logan Airport Newsstand,95.26,Mitchell T. Crawford
+MISC_20241115_006.jpg,T&E — Misc,Miscellaneous Receipt,2024-11-15,Staples Business Center,89.98,Denise R. Yamamoto
+MISC_20240501_007.jpg,T&E — Misc,Miscellaneous Receipt,2024-05-01,Logan Airport Newsstand,106.07,Paul J. Anand
+MISC_20240731_008.jpg,T&E — Misc,Miscellaneous Receipt,2024-07-31,CVS Pharmacy,32.78,Laura C. Eriksson
+MISC_20240802_009.jpg,T&E — Misc,Miscellaneous Receipt,2024-08-02,MIT Bookstore,39.68,Dr. James H. Nguyen
+MISC_20240608_010.jpg,T&E — Misc,Miscellaneous Receipt,2024-06-08,Cambridge Coffee Shop,99.76,Gina R. Patterson
+MISC_20240417_011.jpg,T&E — Misc,Miscellaneous Receipt,2024-04-17,Boston Marriott Room Service,56.86,Dr. Anya V. Petrov
+MISC_20241211_012.jpg,T&E — Misc,Miscellaneous Receipt,2024-12-11,Harvard Faculty Club,105.1,Gina R. Patterson
+MISC_20240818_013.jpg,T&E — Misc,Miscellaneous Receipt,2024-08-18,Harvard Faculty Club,16.11,Patricia J. Hollis
+MISC_20241129_014.jpg,T&E — Misc,Miscellaneous Receipt,2024-11-29,CVS Pharmacy,113.31,Mei-Ling Chang
+MISC_20240522_015.jpg,T&E — Misc,Miscellaneous Receipt,2024-05-22,Logan Airport Newsstand,74.25,Laura C. Eriksson
+MISC_20240702_016.jpg,T&E — Misc,Miscellaneous Receipt,2024-07-02,CVS Pharmacy,17.45,Carlos M. Vega
+MISC_20240121_017.jpg,T&E — Misc,Miscellaneous Receipt,2024-01-21,Harvard Faculty Club,41.19,Carlos M. Vega
+MISC_20240620_018.jpg,T&E — Misc,Miscellaneous Receipt,2024-06-20,FedEx Office Print Center,21.7,Paul J. Anand
+EXPRPT_E032_20240207_01.pdf,T&E — Expense Reports,Expense Report,2024-02-07,Laura C. Eriksson,2621.75,Report# EXP-24565 | Clinical Investigator Meeting
+EXPRPT_E042_20240406_02.pdf,T&E — Expense Reports,Expense Report,2024-04-06,Carlos M. Vega,5228.05,Report# EXP-25754 | BIO International Convention
+EXPRPT_E040_20240410_03.pdf,T&E — Expense Reports,Expense Report,2024-04-10,Mitchell T. Crawford,4453.59,Report# EXP-21576 | J.P. Morgan Healthcare Conference
+EXPRPT_E044_20240126_04.pdf,T&E — Expense Reports,Expense Report,2024-01-26,Paul J. Anand,3832.65,Report# EXP-28861 | BIO International Convention
+EXPRPT_E044_20240108_05.pdf,T&E — Expense Reports,Expense Report,2024-01-08,Paul J. Anand,3643.72,Report# EXP-20770 | ASCO Annual Meeting
+EXPRPT_E030_20240604_06.pdf,T&E — Expense Reports,Expense Report,2024-06-04,Dr. Anya V. Petrov,301.61,Report# EXP-25130 | ASH Annual Meeting
+EXPRPT_E031_20240323_07.pdf,T&E — Expense Reports,Expense Report,2024-03-23,Dr. James H. Nguyen,2486.15,Report# EXP-23346 | FDA Type B Meeting
+EXPRPT_E040_20240513_08.pdf,T&E — Expense Reports,Expense Report,2024-05-13,Mitchell T. Crawford,3717.68,Report# EXP-24859 | ASCO Annual Meeting
+EXPRPT_E001_20240310_09.pdf,T&E — Expense Reports,Expense Report,2024-03-10,Patricia J. Hollis,3534.87,Report# EXP-26585 | Clinical Investigator Meeting
+EXPRPT_E001_20241013_10.pdf,T&E — Expense Reports,Expense Report,2024-10-13,Patricia J. Hollis,3431.52,Report# EXP-22704 | Key Account Sales Visit
+EXPRPT_E005_20240203_11.pdf,T&E — Expense Reports,Expense Report,2024-02-03,Mei-Ling Chang,346.53,Report# EXP-23835 | Advisory Board Meeting
+EXPRPT_E041_20240907_12.pdf,T&E — Expense Reports,Expense Report,2024-09-07,Gina R. Patterson,1108.64,Report# EXP-27494 | Advisory Board Meeting
+EXPRPT_E040_20240322_13.pdf,T&E — Expense Reports,Expense Report,2024-03-22,Mitchell T. Crawford,1573.57,Report# EXP-28272 | FDA Type B Meeting
+EXPRPT_E005_20240411_14.pdf,T&E — Expense Reports,Expense Report,2024-04-11,Mei-Ling Chang,808.64,Report# EXP-21554 | J.P. Morgan Healthcare Conference
+EXPRPT_E044_20240201_15.pdf,T&E — Expense Reports,Expense Report,2024-02-01,Paul J. Anand,3409.47,Report# EXP-25439 | Investor Roadshow
+EXPRPT_E001_20240204_16.pdf,T&E — Expense Reports,Expense Report,2024-02-04,Patricia J. Hollis,1957.83,Report# EXP-25745 | Advisory Board Meeting
+EXPRPT_E031_20240923_17.pdf,T&E — Expense Reports,Expense Report,2024-09-23,Dr. James H. Nguyen,1858.3,Report# EXP-29424 | Clinical Investigator Meeting
+EXPRPT_E044_20240320_18.pdf,T&E — Expense Reports,Expense Report,2024-03-20,Paul J. Anand,2113.23,Report# EXP-23991 | Investor Roadshow
+EXPRPT_E042_20240328_19.pdf,T&E — Expense Reports,Expense Report,2024-03-28,Carlos M. Vega,3214.01,Report# EXP-22072 | BIO International Convention
+EXPRPT_E040_20241013_20.pdf,T&E — Expense Reports,Expense Report,2024-10-13,Mitchell T. Crawford,775.22,Report# EXP-23725 | FDA Type B Meeting
+EXPRPT_E030_20240704_21.pdf,T&E — Expense Reports,Expense Report,2024-07-04,Dr. Anya V. Petrov,1720.59,Report# EXP-26280 | J.P. Morgan Healthcare Conference
+EXPRPT_E001_20241015_22.pdf,T&E — Expense Reports,Expense Report,2024-10-15,Patricia J. Hollis,2451.02,Report# EXP-23693 | FDA Type B Meeting
+PR_20240105.xlsx,Payroll,Payroll Register (Excel),2024-01-05,"Nexus BioTherapeutics, Inc.",174350.77,Full payroll — 23 EEs
+PR_PDF_20240105.pdf,Payroll,Payroll Register (PDF),2024-01-05,"Nexus BioTherapeutics, Inc.",,Manager review copy
+PR_20240119.xlsx,Payroll,Payroll Register (Excel),2024-01-19,"Nexus BioTherapeutics, Inc.",174350.77,Full payroll — 23 EEs
+PR_PDF_20240119.pdf,Payroll,Payroll Register (PDF),2024-01-19,"Nexus BioTherapeutics, Inc.",,Manager review copy
+PR_20240202.xlsx,Payroll,Payroll Register (Excel),2024-02-02,"Nexus BioTherapeutics, Inc.",174350.77,Full payroll — 23 EEs
+PR_PDF_20240202.pdf,Payroll,Payroll Register (PDF),2024-02-02,"Nexus BioTherapeutics, Inc.",,Manager review copy
+PR_20240216.xlsx,Payroll,Payroll Register (Excel),2024-02-16,"Nexus BioTherapeutics, Inc.",174350.77,Full payroll — 23 EEs
+PR_PDF_20240216.pdf,Payroll,Payroll Register (PDF),2024-02-16,"Nexus BioTherapeutics, Inc.",,Manager review copy
+PR_20240301.xlsx,Payroll,Payroll Register (Excel),2024-03-01,"Nexus BioTherapeutics, Inc.",174350.77,Full payroll — 23 EEs
+PR_PDF_20240301.pdf,Payroll,Payroll Register (PDF),2024-03-01,"Nexus BioTherapeutics, Inc.",,Manager review copy
+PR_20240315.xlsx,Payroll,Payroll Register (Excel),2024-03-15,"Nexus BioTherapeutics, Inc.",174350.77,Full payroll — 23 EEs
+PR_PDF_20240315.pdf,Payroll,Payroll Register (PDF),2024-03-15,"Nexus BioTherapeutics, Inc.",,Manager review copy
+PR_20240329.xlsx,Payroll,Payroll Register (Excel),2024-03-29,"Nexus BioTherapeutics, Inc.",174350.77,Full payroll — 23 EEs
+PR_PDF_20240329.pdf,Payroll,Payroll Register (PDF),2024-03-29,"Nexus BioTherapeutics, Inc.",,Manager review copy
+PR_20240412.xlsx,Payroll,Payroll Register (Excel),2024-04-12,"Nexus BioTherapeutics, Inc.",174350.77,Full payroll — 23 EEs
+PR_PDF_20240412.pdf,Payroll,Payroll Register (PDF),2024-04-12,"Nexus BioTherapeutics, Inc.",,Manager review copy
+PR_20240426.xlsx,Payroll,Payroll Register (Excel),2024-04-26,"Nexus BioTherapeutics, Inc.",174350.77,Full payroll — 23 EEs
+PR_PDF_20240426.pdf,Payroll,Payroll Register (PDF),2024-04-26,"Nexus BioTherapeutics, Inc.",,Manager review copy
+PR_20240510.xlsx,Payroll,Payroll Register (Excel),2024-05-10,"Nexus BioTherapeutics, Inc.",174350.77,Full payroll — 23 EEs
+PR_PDF_20240510.pdf,Payroll,Payroll Register (PDF),2024-05-10,"Nexus BioTherapeutics, Inc.",,Manager review copy
+PR_20240524.xlsx,Payroll,Payroll Register (Excel),2024-05-24,"Nexus BioTherapeutics, Inc.",174350.77,Full payroll — 23 EEs
+PR_PDF_20240524.pdf,Payroll,Payroll Register (PDF),2024-05-24,"Nexus BioTherapeutics, Inc.",,Manager review copy
+PR_20240607.xlsx,Payroll,Payroll Register (Excel),2024-06-07,"Nexus BioTherapeutics, Inc.",174350.77,Full payroll — 23 EEs
+PR_PDF_20240607.pdf,Payroll,Payroll Register (PDF),2024-06-07,"Nexus BioTherapeutics, Inc.",,Manager review copy
+PR_20240621.xlsx,Payroll,Payroll Register (Excel),2024-06-21,"Nexus BioTherapeutics, Inc.",174350.77,Full payroll — 23 EEs
+PR_PDF_20240621.pdf,Payroll,Payroll Register (PDF),2024-06-21,"Nexus BioTherapeutics, Inc.",,Manager review copy
+PR_20240705.xlsx,Payroll,Payroll Register (Excel),2024-07-05,"Nexus BioTherapeutics, Inc.",174350.77,Full payroll — 23 EEs
+PR_PDF_20240705.pdf,Payroll,Payroll Register (PDF),2024-07-05,"Nexus BioTherapeutics, Inc.",,Manager review copy
+PR_20240719.xlsx,Payroll,Payroll Register (Excel),2024-07-19,"Nexus BioTherapeutics, Inc.",174350.77,Full payroll — 23 EEs
+PR_PDF_20240719.pdf,Payroll,Payroll Register (PDF),2024-07-19,"Nexus BioTherapeutics, Inc.",,Manager review copy
+PR_20240802.xlsx,Payroll,Payroll Register (Excel),2024-08-02,"Nexus BioTherapeutics, Inc.",174350.77,Full payroll — 23 EEs
+PR_PDF_20240802.pdf,Payroll,Payroll Register (PDF),2024-08-02,"Nexus BioTherapeutics, Inc.",,Manager review copy
+PR_20240816.xlsx,Payroll,Payroll Register (Excel),2024-08-16,"Nexus BioTherapeutics, Inc.",174350.77,Full payroll — 23 EEs
+PR_PDF_20240816.pdf,Payroll,Payroll Register (PDF),2024-08-16,"Nexus BioTherapeutics, Inc.",,Manager review copy
+PR_20240830.xlsx,Payroll,Payroll Register (Excel),2024-08-30,"Nexus BioTherapeutics, Inc.",174350.77,Full payroll — 23 EEs
+PR_PDF_20240830.pdf,Payroll,Payroll Register (PDF),2024-08-30,"Nexus BioTherapeutics, Inc.",,Manager review copy
+PR_20240913.xlsx,Payroll,Payroll Register (Excel),2024-09-13,"Nexus BioTherapeutics, Inc.",174350.77,Full payroll — 23 EEs
+PR_PDF_20240913.pdf,Payroll,Payroll Register (PDF),2024-09-13,"Nexus BioTherapeutics, Inc.",,Manager review copy
+PR_20240927.xlsx,Payroll,Payroll Register (Excel),2024-09-27,"Nexus BioTherapeutics, Inc.",174350.77,Full payroll — 23 EEs
+PR_PDF_20240927.pdf,Payroll,Payroll Register (PDF),2024-09-27,"Nexus BioTherapeutics, Inc.",,Manager review copy
+PR_20241011.xlsx,Payroll,Payroll Register (Excel),2024-10-11,"Nexus BioTherapeutics, Inc.",174350.77,Full payroll — 23 EEs
+PR_PDF_20241011.pdf,Payroll,Payroll Register (PDF),2024-10-11,"Nexus BioTherapeutics, Inc.",,Manager review copy
+PR_20241025.xlsx,Payroll,Payroll Register (Excel),2024-10-25,"Nexus BioTherapeutics, Inc.",174350.77,Full payroll — 23 EEs
+PR_PDF_20241025.pdf,Payroll,Payroll Register (PDF),2024-10-25,"Nexus BioTherapeutics, Inc.",,Manager review copy
+PR_20241108.xlsx,Payroll,Payroll Register (Excel),2024-11-08,"Nexus BioTherapeutics, Inc.",174350.77,Full payroll — 23 EEs
+PR_PDF_20241108.pdf,Payroll,Payroll Register (PDF),2024-11-08,"Nexus BioTherapeutics, Inc.",,Manager review copy
+PR_20241122.xlsx,Payroll,Payroll Register (Excel),2024-11-22,"Nexus BioTherapeutics, Inc.",174350.77,Full payroll — 23 EEs
+PR_PDF_20241122.pdf,Payroll,Payroll Register (PDF),2024-11-22,"Nexus BioTherapeutics, Inc.",,Manager review copy
+PR_20241206.xlsx,Payroll,Payroll Register (Excel),2024-12-06,"Nexus BioTherapeutics, Inc.",174350.77,Full payroll — 23 EEs
+PR_PDF_20241206.pdf,Payroll,Payroll Register (PDF),2024-12-06,"Nexus BioTherapeutics, Inc.",,Manager review copy
+PR_20241220.xlsx,Payroll,Payroll Register (Excel),2024-12-20,"Nexus BioTherapeutics, Inc.",174350.77,Full payroll — 23 EEs
+PR_PDF_20241220.pdf,Payroll,Payroll Register (PDF),2024-12-20,"Nexus BioTherapeutics, Inc.",,Manager review copy
+BANK_****4872_202401.pdf,Treasury — Banking,Bank Statement,2024-01-01,JPMorgan Chase,143471918.31,Acct ****4872 | 51 transactions
+BANK_****4872_202402.pdf,Treasury — Banking,Bank Statement,2024-02-01,JPMorgan Chase,196089886.99,Acct ****4872 | 49 transactions
+BANK_****4872_202403.pdf,Treasury — Banking,Bank Statement,2024-03-01,JPMorgan Chase,214733614.33,Acct ****4872 | 59 transactions
+BANK_****4872_202404.pdf,Treasury — Banking,Bank Statement,2024-04-01,JPMorgan Chase,204461780.42,Acct ****4872 | 59 transactions
+BANK_****4872_202405.pdf,Treasury — Banking,Bank Statement,2024-05-01,JPMorgan Chase,155442871.71,Acct ****4872 | 60 transactions
+BANK_****4872_202406.pdf,Treasury — Banking,Bank Statement,2024-06-01,JPMorgan Chase,209862569.0,Acct ****4872 | 57 transactions
+BANK_****4872_202407.pdf,Treasury — Banking,Bank Statement,2024-07-01,JPMorgan Chase,191407172.02,Acct ****4872 | 56 transactions
+BANK_****4872_202408.pdf,Treasury — Banking,Bank Statement,2024-08-01,JPMorgan Chase,267351725.97,Acct ****4872 | 47 transactions
+BANK_****4872_202409.pdf,Treasury — Banking,Bank Statement,2024-09-01,JPMorgan Chase,286386916.18,Acct ****4872 | 51 transactions
+BANK_****4872_202410.pdf,Treasury — Banking,Bank Statement,2024-10-01,JPMorgan Chase,218150308.94,Acct ****4872 | 55 transactions
+BANK_****4872_202411.pdf,Treasury — Banking,Bank Statement,2024-11-01,JPMorgan Chase,262111900.97,Acct ****4872 | 45 transactions
+BANK_****4872_202412.pdf,Treasury — Banking,Bank Statement,2024-12-01,JPMorgan Chase,261626904.89,Acct ****4872 | 55 transactions
+BANK_****9103_202401.pdf,Treasury — Banking,Bank Statement,2024-01-01,JPMorgan Chase,219818479.54,Acct ****9103 | 41 transactions
+BANK_****9103_202402.pdf,Treasury — Banking,Bank Statement,2024-02-01,JPMorgan Chase,288542958.23,Acct ****9103 | 57 transactions
+BANK_****9103_202403.pdf,Treasury — Banking,Bank Statement,2024-03-01,JPMorgan Chase,252663151.03,Acct ****9103 | 52 transactions
+BANK_****9103_202404.pdf,Treasury — Banking,Bank Statement,2024-04-01,JPMorgan Chase,175011757.97,Acct ****9103 | 46 transactions
+BANK_****9103_202405.pdf,Treasury — Banking,Bank Statement,2024-05-01,JPMorgan Chase,310362883.01,Acct ****9103 | 55 transactions
+BANK_****9103_202406.pdf,Treasury — Banking,Bank Statement,2024-06-01,JPMorgan Chase,226292886.44,Acct ****9103 | 54 transactions
+BANK_****9103_202407.pdf,Treasury — Banking,Bank Statement,2024-07-01,JPMorgan Chase,270483384.07,Acct ****9103 | 65 transactions
+BANK_****9103_202408.pdf,Treasury — Banking,Bank Statement,2024-08-01,JPMorgan Chase,192743156.51,Acct ****9103 | 57 transactions
+BANK_****9103_202409.pdf,Treasury — Banking,Bank Statement,2024-09-01,JPMorgan Chase,292352913.37,Acct ****9103 | 38 transactions
+BANK_****9103_202410.pdf,Treasury — Banking,Bank Statement,2024-10-01,JPMorgan Chase,204446381.44,Acct ****9103 | 39 transactions
+BANK_****9103_202411.pdf,Treasury — Banking,Bank Statement,2024-11-01,JPMorgan Chase,234181024.03,Acct ****9103 | 45 transactions
+BANK_****9103_202412.pdf,Treasury — Banking,Bank Statement,2024-12-01,JPMorgan Chase,287798544.14,Acct ****9103 | 47 transactions
+BANK_****3341_202401.pdf,Treasury — Banking,Bank Statement,2024-01-01,Silicon Valley Bank,188600623.84,Acct ****3341 | 49 transactions
+BANK_****3341_202402.pdf,Treasury — Banking,Bank Statement,2024-02-01,Silicon Valley Bank,189584952.29,Acct ****3341 | 26 transactions
+BANK_****3341_202403.pdf,Treasury — Banking,Bank Statement,2024-03-01,Silicon Valley Bank,292536668.99,Acct ****3341 | 57 transactions
+BANK_****3341_202404.pdf,Treasury — Banking,Bank Statement,2024-04-01,Silicon Valley Bank,309395437.35,Acct ****3341 | 43 transactions
+BANK_****3341_202405.pdf,Treasury — Banking,Bank Statement,2024-05-01,Silicon Valley Bank,273486249.69,Acct ****3341 | 52 transactions
+BANK_****3341_202406.pdf,Treasury — Banking,Bank Statement,2024-06-01,Silicon Valley Bank,172258646.87,Acct ****3341 | 44 transactions
+BANK_****3341_202407.pdf,Treasury — Banking,Bank Statement,2024-07-01,Silicon Valley Bank,230967442.05,Acct ****3341 | 49 transactions
+BANK_****3341_202408.pdf,Treasury — Banking,Bank Statement,2024-08-01,Silicon Valley Bank,174252951.83,Acct ****3341 | 46 transactions
+BANK_****3341_202409.pdf,Treasury — Banking,Bank Statement,2024-09-01,Silicon Valley Bank,205951892.63,Acct ****3341 | 52 transactions
+BANK_****3341_202410.pdf,Treasury — Banking,Bank Statement,2024-10-01,Silicon Valley Bank,260718520.11,Acct ****3341 | 57 transactions
+BANK_****3341_202411.pdf,Treasury — Banking,Bank Statement,2024-11-01,Silicon Valley Bank,273613769.33,Acct ****3341 | 50 transactions
+BANK_****3341_202412.pdf,Treasury — Banking,Bank Statement,2024-12-01,Silicon Valley Bank,213453240.07,Acct ****3341 | 60 transactions
+JE_20240109_0101.pdf,GL — Journal Entries,Journal Entry Voucher,2024-01-09,"Nexus BioTherapeutics, Inc.",1902044.95,JE# JE-202401-137 | CRO expense accrual — PPD LUMINANCE-1
+JE_20240128_0102.pdf,GL — Journal Entries,Journal Entry Voucher,2024-01-28,"Nexus BioTherapeutics, Inc.",4549776.36,JE# JE-202401-362 | Revenue recognition — Oncovax shipment
+JE_20240107_0103.pdf,GL — Journal Entries,Journal Entry Voucher,2024-01-07,"Nexus BioTherapeutics, Inc.",4275512.94,JE# JE-202401-711 | Revenue recognition — Oncovax shipment
+JE_20240124_0104.pdf,GL — Journal Entries,Journal Entry Voucher,2024-01-24,"Nexus BioTherapeutics, Inc.",40010.59,JE# JE-202401-339 | Reclassification — consulting fee R&D vs
+JE_20240110_0105.pdf,GL — Journal Entries,Journal Entry Voucher,2024-01-10,"Nexus BioTherapeutics, Inc.",13635.2,JE# JE-202401-856 | Prepaid insurance amortization
+JE_20240108_0106.pdf,GL — Journal Entries,Journal Entry Voucher,2024-01-08,"Nexus BioTherapeutics, Inc.",44911.82,JE# JE-202401-671 | Reclassification — consulting fee R&D vs
+JE_20240102_0107.pdf,GL — Journal Entries,Journal Entry Voucher,2024-01-02,"Nexus BioTherapeutics, Inc.",45513.91,JE# JE-202401-848 | Depreciation — lab equipment
+JE_20240124_0108.pdf,GL — Journal Entries,Journal Entry Voucher,2024-01-24,"Nexus BioTherapeutics, Inc.",5173127.46,JE# JE-202401-945 | Revenue recognition — Oncovax shipment
+JE_20240126_0109.pdf,GL — Journal Entries,Journal Entry Voucher,2024-01-26,"Nexus BioTherapeutics, Inc.",91188.49,JE# JE-202401-484 | Monthly rent accrual — Cambridge HQ
+JE_20240119_0110.pdf,GL — Journal Entries,Journal Entry Voucher,2024-01-19,"Nexus BioTherapeutics, Inc.",1979764.27,JE# JE-202401-249 | CRO expense accrual — PPD LUMINANCE-1
+JE_20240123_0111.pdf,GL — Journal Entries,Journal Entry Voucher,2024-01-23,"Nexus BioTherapeutics, Inc.",44440.65,JE# JE-202401-425 | Depreciation — lab equipment
+JE_20240115_0112.pdf,GL — Journal Entries,Journal Entry Voucher,2024-01-15,"Nexus BioTherapeutics, Inc.",76056.65,JE# JE-202401-659 | Monthly rent accrual — Cambridge HQ
+JE_20240126_0113.pdf,GL — Journal Entries,Journal Entry Voucher,2024-01-26,"Nexus BioTherapeutics, Inc.",85644.84,JE# JE-202401-988 | Monthly rent accrual — Cambridge HQ
+JE_20240113_0114.pdf,GL — Journal Entries,Journal Entry Voucher,2024-01-13,"Nexus BioTherapeutics, Inc.",37227.81,JE# JE-202401-111 | Depreciation — lab equipment
+JE_20240211_0201.pdf,GL — Journal Entries,Journal Entry Voucher,2024-02-11,"Nexus BioTherapeutics, Inc.",37695.74,JE# JE-202402-556 | Depreciation — lab equipment
+JE_20240228_0202.pdf,GL — Journal Entries,Journal Entry Voucher,2024-02-28,"Nexus BioTherapeutics, Inc.",38577.29,JE# JE-202402-202 | Depreciation — lab equipment
+JE_20240210_0203.pdf,GL — Journal Entries,Journal Entry Voucher,2024-02-10,"Nexus BioTherapeutics, Inc.",41323.97,JE# JE-202402-916 | Reclassification — consulting fee R&D vs
+JE_20240204_0204.pdf,GL — Journal Entries,Journal Entry Voucher,2024-02-04,"Nexus BioTherapeutics, Inc.",91692.16,JE# JE-202402-713 | Monthly rent accrual — Cambridge HQ
+JE_20240212_0205.pdf,GL — Journal Entries,Journal Entry Voucher,2024-02-12,"Nexus BioTherapeutics, Inc.",40736.87,JE# JE-202402-805 | Depreciation — lab equipment
+JE_20240219_0206.pdf,GL — Journal Entries,Journal Entry Voucher,2024-02-19,"Nexus BioTherapeutics, Inc.",1975181.28,JE# JE-202402-757 | Payroll allocation — R&D vs SG&A
+JE_20240209_0207.pdf,GL — Journal Entries,Journal Entry Voucher,2024-02-09,"Nexus BioTherapeutics, Inc.",2904030.26,JE# JE-202402-978 | Cash receipt — McKesson payment
+JE_20240216_0208.pdf,GL — Journal Entries,Journal Entry Voucher,2024-02-16,"Nexus BioTherapeutics, Inc.",1806180.89,JE# JE-202402-669 | CRO expense accrual — PPD LUMINANCE-1
+JE_20240214_0209.pdf,GL — Journal Entries,Journal Entry Voucher,2024-02-14,"Nexus BioTherapeutics, Inc.",44184.31,JE# JE-202402-949 | Reclassification — consulting fee R&D vs
+JE_20240221_0210.pdf,GL — Journal Entries,Journal Entry Voucher,2024-02-21,"Nexus BioTherapeutics, Inc.",1802571.36,JE# JE-202402-376 | CRO expense accrual — PPD LUMINANCE-1
+JE_20240308_0301.pdf,GL — Journal Entries,Journal Entry Voucher,2024-03-08,"Nexus BioTherapeutics, Inc.",3402052.54,JE# JE-202403-226 | Cash receipt — McKesson payment
+JE_20240320_0302.pdf,GL — Journal Entries,Journal Entry Voucher,2024-03-20,"Nexus BioTherapeutics, Inc.",41081.03,JE# JE-202403-920 | Reclassification — consulting fee R&D vs
+JE_20240307_0303.pdf,GL — Journal Entries,Journal Entry Voucher,2024-03-07,"Nexus BioTherapeutics, Inc.",89492.34,JE# JE-202403-834 | Monthly rent accrual — Cambridge HQ
+JE_20240327_0304.pdf,GL — Journal Entries,Journal Entry Voucher,2024-03-27,"Nexus BioTherapeutics, Inc.",4945567.26,JE# JE-202403-628 | Revenue recognition — Oncovax shipment
+JE_20240316_0305.pdf,GL — Journal Entries,Journal Entry Voucher,2024-03-16,"Nexus BioTherapeutics, Inc.",14363.31,JE# JE-202403-612 | Prepaid insurance amortization
+JE_20240304_0306.pdf,GL — Journal Entries,Journal Entry Voucher,2024-03-04,"Nexus BioTherapeutics, Inc.",45810.26,JE# JE-202403-840 | Reclassification — consulting fee R&D vs
+JE_20240324_0307.pdf,GL — Journal Entries,Journal Entry Voucher,2024-03-24,"Nexus BioTherapeutics, Inc.",39846.74,JE# JE-202403-496 | Depreciation — lab equipment
+JE_20240323_0308.pdf,GL — Journal Entries,Journal Entry Voucher,2024-03-23,"Nexus BioTherapeutics, Inc.",45831.78,JE# JE-202403-990 | Depreciation — lab equipment
+JE_20240303_0309.pdf,GL — Journal Entries,Journal Entry Voucher,2024-03-03,"Nexus BioTherapeutics, Inc.",82885.96,JE# JE-202403-129 | Monthly rent accrual — Cambridge HQ
+JE_20240326_0310.pdf,GL — Journal Entries,Journal Entry Voucher,2024-03-26,"Nexus BioTherapeutics, Inc.",45346.87,JE# JE-202403-169 | Depreciation — lab equipment
+JE_20240313_0311.pdf,GL — Journal Entries,Journal Entry Voucher,2024-03-13,"Nexus BioTherapeutics, Inc.",4704405.92,JE# JE-202403-255 | Revenue recognition — Oncovax shipment
+JE_20240414_0401.pdf,GL — Journal Entries,Journal Entry Voucher,2024-04-14,"Nexus BioTherapeutics, Inc.",2012227.58,JE# JE-202404-902 | CRO expense accrual — PPD LUMINANCE-1
+JE_20240425_0402.pdf,GL — Journal Entries,Journal Entry Voucher,2024-04-25,"Nexus BioTherapeutics, Inc.",5180784.82,JE# JE-202404-701 | Revenue recognition — Oncovax shipment
+JE_20240401_0403.pdf,GL — Journal Entries,Journal Entry Voucher,2024-04-01,"Nexus BioTherapeutics, Inc.",1917567.61,JE# JE-202404-953 | Payroll allocation — R&D vs SG&A
+JE_20240402_0404.pdf,GL — Journal Entries,Journal Entry Voucher,2024-04-02,"Nexus BioTherapeutics, Inc.",3434861.3,JE# JE-202404-314 | Cash receipt — McKesson payment
+JE_20240417_0405.pdf,GL — Journal Entries,Journal Entry Voucher,2024-04-17,"Nexus BioTherapeutics, Inc.",3045042.62,JE# JE-202404-352 | Cash receipt — McKesson payment
+JE_20240408_0406.pdf,GL — Journal Entries,Journal Entry Voucher,2024-04-08,"Nexus BioTherapeutics, Inc.",1908226.34,JE# JE-202404-978 | Payroll allocation — R&D vs SG&A
+JE_20240416_0407.pdf,GL — Journal Entries,Journal Entry Voucher,2024-04-16,"Nexus BioTherapeutics, Inc.",42040.34,JE# JE-202404-752 | Depreciation — lab equipment
+JE_20240403_0408.pdf,GL — Journal Entries,Journal Entry Voucher,2024-04-03,"Nexus BioTherapeutics, Inc.",4318459.06,JE# JE-202404-222 | Revenue recognition — Oncovax shipment
+JE_20240421_0409.pdf,GL — Journal Entries,Journal Entry Voucher,2024-04-21,"Nexus BioTherapeutics, Inc.",2050114.54,JE# JE-202404-892 | CRO expense accrual — PPD LUMINANCE-1
+JE_20240428_0410.pdf,GL — Journal Entries,Journal Entry Voucher,2024-04-28,"Nexus BioTherapeutics, Inc.",75916.32,JE# JE-202404-241 | Monthly rent accrual — Cambridge HQ
+JE_20240514_0501.pdf,GL — Journal Entries,Journal Entry Voucher,2024-05-14,"Nexus BioTherapeutics, Inc.",14027.33,JE# JE-202405-229 | Prepaid insurance amortization
+JE_20240506_0502.pdf,GL — Journal Entries,Journal Entry Voucher,2024-05-06,"Nexus BioTherapeutics, Inc.",5048916.51,JE# JE-202405-863 | Revenue recognition — Oncovax shipment
+JE_20240504_0503.pdf,GL — Journal Entries,Journal Entry Voucher,2024-05-04,"Nexus BioTherapeutics, Inc.",40984.44,JE# JE-202405-303 | Depreciation — lab equipment
+JE_20240515_0504.pdf,GL — Journal Entries,Journal Entry Voucher,2024-05-15,"Nexus BioTherapeutics, Inc.",4768530.77,JE# JE-202405-256 | Revenue recognition — Oncovax shipment
+JE_20240524_0505.pdf,GL — Journal Entries,Journal Entry Voucher,2024-05-24,"Nexus BioTherapeutics, Inc.",75200.57,JE# JE-202405-783 | Monthly rent accrual — Cambridge HQ
+JE_20240522_0506.pdf,GL — Journal Entries,Journal Entry Voucher,2024-05-22,"Nexus BioTherapeutics, Inc.",2174480.47,JE# JE-202405-106 | Payroll allocation — R&D vs SG&A
+JE_20240520_0507.pdf,GL — Journal Entries,Journal Entry Voucher,2024-05-20,"Nexus BioTherapeutics, Inc.",42130.22,JE# JE-202405-679 | Reclassification — consulting fee R&D vs
+JE_20240506_0508.pdf,GL — Journal Entries,Journal Entry Voucher,2024-05-06,"Nexus BioTherapeutics, Inc.",43360.5,JE# JE-202405-301 | Reclassification — consulting fee R&D vs
+JE_20240513_0509.pdf,GL — Journal Entries,Journal Entry Voucher,2024-05-13,"Nexus BioTherapeutics, Inc.",3161544.51,JE# JE-202405-743 | Cash receipt — McKesson payment
+JE_20240503_0510.pdf,GL — Journal Entries,Journal Entry Voucher,2024-05-03,"Nexus BioTherapeutics, Inc.",41880.96,JE# JE-202405-296 | Depreciation — lab equipment
+JE_20240508_0511.pdf,GL — Journal Entries,Journal Entry Voucher,2024-05-08,"Nexus BioTherapeutics, Inc.",46774.74,JE# JE-202405-740 | Reclassification — consulting fee R&D vs
+JE_20240507_0512.pdf,GL — Journal Entries,Journal Entry Voucher,2024-05-07,"Nexus BioTherapeutics, Inc.",2873623.76,JE# JE-202405-829 | Cash receipt — McKesson payment
+JE_20240515_0513.pdf,GL — Journal Entries,Journal Entry Voucher,2024-05-15,"Nexus BioTherapeutics, Inc.",4742648.26,JE# JE-202405-881 | Revenue recognition — Oncovax shipment
+JE_20240617_0601.pdf,GL — Journal Entries,Journal Entry Voucher,2024-06-17,"Nexus BioTherapeutics, Inc.",46793.71,JE# JE-202406-899 | Reclassification — consulting fee R&D vs
+JE_20240627_0602.pdf,GL — Journal Entries,Journal Entry Voucher,2024-06-27,"Nexus BioTherapeutics, Inc.",4545675.48,JE# JE-202406-424 | Revenue recognition — Oncovax shipment
+JE_20240612_0603.pdf,GL — Journal Entries,Journal Entry Voucher,2024-06-12,"Nexus BioTherapeutics, Inc.",2247700.89,JE# JE-202406-263 | Payroll allocation — R&D vs SG&A
+JE_20240614_0604.pdf,GL — Journal Entries,Journal Entry Voucher,2024-06-14,"Nexus BioTherapeutics, Inc.",40997.07,JE# JE-202406-687 | Reclassification — consulting fee R&D vs
+JE_20240623_0605.pdf,GL — Journal Entries,Journal Entry Voucher,2024-06-23,"Nexus BioTherapeutics, Inc.",3508874.55,JE# JE-202406-574 | Cash receipt — McKesson payment
+JE_20240618_0606.pdf,GL — Journal Entries,Journal Entry Voucher,2024-06-18,"Nexus BioTherapeutics, Inc.",13991.48,JE# JE-202406-926 | Prepaid insurance amortization
+JE_20240623_0607.pdf,GL — Journal Entries,Journal Entry Voucher,2024-06-23,"Nexus BioTherapeutics, Inc.",1893850.33,JE# JE-202406-770 | Payroll allocation — R&D vs SG&A
+JE_20240606_0608.pdf,GL — Journal Entries,Journal Entry Voucher,2024-06-06,"Nexus BioTherapeutics, Inc.",4575681.32,JE# JE-202406-973 | Revenue recognition — Oncovax shipment
+JE_20240615_0609.pdf,GL — Journal Entries,Journal Entry Voucher,2024-06-15,"Nexus BioTherapeutics, Inc.",46051.37,JE# JE-202406-916 | Depreciation — lab equipment
+JE_20240605_0610.pdf,GL — Journal Entries,Journal Entry Voucher,2024-06-05,"Nexus BioTherapeutics, Inc.",5337142.24,JE# JE-202406-813 | Revenue recognition — Oncovax shipment
+JE_20240723_0701.pdf,GL — Journal Entries,Journal Entry Voucher,2024-07-23,"Nexus BioTherapeutics, Inc.",94145.28,JE# JE-202407-578 | Monthly rent accrual — Cambridge HQ
+JE_20240722_0702.pdf,GL — Journal Entries,Journal Entry Voucher,2024-07-22,"Nexus BioTherapeutics, Inc.",3060961.78,JE# JE-202407-779 | Cash receipt — McKesson payment
+JE_20240712_0703.pdf,GL — Journal Entries,Journal Entry Voucher,2024-07-12,"Nexus BioTherapeutics, Inc.",40638.13,JE# JE-202407-879 | Reclassification — consulting fee R&D vs
+JE_20240714_0704.pdf,GL — Journal Entries,Journal Entry Voucher,2024-07-14,"Nexus BioTherapeutics, Inc.",1798563.91,JE# JE-202407-396 | Payroll allocation — R&D vs SG&A
+JE_20240702_0705.pdf,GL — Journal Entries,Journal Entry Voucher,2024-07-02,"Nexus BioTherapeutics, Inc.",4508989.31,JE# JE-202407-863 | Revenue recognition — Oncovax shipment
+JE_20240725_0706.pdf,GL — Journal Entries,Journal Entry Voucher,2024-07-25,"Nexus BioTherapeutics, Inc.",40432.62,JE# JE-202407-193 | Reclassification — consulting fee R&D vs
+JE_20240709_0707.pdf,GL — Journal Entries,Journal Entry Voucher,2024-07-09,"Nexus BioTherapeutics, Inc.",2098373.96,JE# JE-202407-964 | Payroll allocation — R&D vs SG&A
+JE_20240721_0708.pdf,GL — Journal Entries,Journal Entry Voucher,2024-07-21,"Nexus BioTherapeutics, Inc.",48468.98,JE# JE-202407-439 | Reclassification — consulting fee R&D vs
+JE_20240823_0801.pdf,GL — Journal Entries,Journal Entry Voucher,2024-08-23,"Nexus BioTherapeutics, Inc.",5213937.1,JE# JE-202408-302 | Revenue recognition — Oncovax shipment
+JE_20240818_0802.pdf,GL — Journal Entries,Journal Entry Voucher,2024-08-18,"Nexus BioTherapeutics, Inc.",41954.34,JE# JE-202408-153 | Reclassification — consulting fee R&D vs
+JE_20240823_0803.pdf,GL — Journal Entries,Journal Entry Voucher,2024-08-23,"Nexus BioTherapeutics, Inc.",50289.62,JE# JE-202408-684 | Reclassification — consulting fee R&D vs
+JE_20240818_0804.pdf,GL — Journal Entries,Journal Entry Voucher,2024-08-18,"Nexus BioTherapeutics, Inc.",15762.43,JE# JE-202408-274 | Prepaid insurance amortization
+JE_20240801_0805.pdf,GL — Journal Entries,Journal Entry Voucher,2024-08-01,"Nexus BioTherapeutics, Inc.",3063855.36,JE# JE-202408-544 | Cash receipt — McKesson payment
+JE_20240820_0806.pdf,GL — Journal Entries,Journal Entry Voucher,2024-08-20,"Nexus BioTherapeutics, Inc.",5036090.74,JE# JE-202408-735 | Revenue recognition — Oncovax shipment
+JE_20240812_0807.pdf,GL — Journal Entries,Journal Entry Voucher,2024-08-12,"Nexus BioTherapeutics, Inc.",45572.35,JE# JE-202408-778 | Depreciation — lab equipment
+JE_20240816_0808.pdf,GL — Journal Entries,Journal Entry Voucher,2024-08-16,"Nexus BioTherapeutics, Inc.",46437.46,JE# JE-202408-418 | Depreciation — lab equipment
+JE_20240801_0809.pdf,GL — Journal Entries,Journal Entry Voucher,2024-08-01,"Nexus BioTherapeutics, Inc.",4757278.75,JE# JE-202408-734 | Revenue recognition — Oncovax shipment
+JE_20240810_0810.pdf,GL — Journal Entries,Journal Entry Voucher,2024-08-10,"Nexus BioTherapeutics, Inc.",3073968.67,JE# JE-202408-206 | Cash receipt — McKesson payment
+JE_20240802_0811.pdf,GL — Journal Entries,Journal Entry Voucher,2024-08-02,"Nexus BioTherapeutics, Inc.",3379456.22,JE# JE-202408-690 | Cash receipt — McKesson payment
+JE_20240817_0812.pdf,GL — Journal Entries,Journal Entry Voucher,2024-08-17,"Nexus BioTherapeutics, Inc.",4672200.21,JE# JE-202408-833 | Revenue recognition — Oncovax shipment
+JE_20240806_0813.pdf,GL — Journal Entries,Journal Entry Voucher,2024-08-06,"Nexus BioTherapeutics, Inc.",1950739.11,JE# JE-202408-331 | CRO expense accrual — PPD LUMINANCE-1
+JE_20240821_0814.pdf,GL — Journal Entries,Journal Entry Voucher,2024-08-21,"Nexus BioTherapeutics, Inc.",45398.29,JE# JE-202408-492 | Reclassification — consulting fee R&D vs
+JE_20240909_0901.pdf,GL — Journal Entries,Journal Entry Voucher,2024-09-09,"Nexus BioTherapeutics, Inc.",3113030.23,JE# JE-202409-979 | Cash receipt — McKesson payment
+JE_20240917_0902.pdf,GL — Journal Entries,Journal Entry Voucher,2024-09-17,"Nexus BioTherapeutics, Inc.",14882.94,JE# JE-202409-428 | Prepaid insurance amortization
+JE_20240927_0903.pdf,GL — Journal Entries,Journal Entry Voucher,2024-09-27,"Nexus BioTherapeutics, Inc.",1875519.65,JE# JE-202409-767 | Payroll allocation — R&D vs SG&A
+JE_20240920_0904.pdf,GL — Journal Entries,Journal Entry Voucher,2024-09-20,"Nexus BioTherapeutics, Inc.",14751.83,JE# JE-202409-290 | Prepaid insurance amortization
+JE_20240925_0905.pdf,GL — Journal Entries,Journal Entry Voucher,2024-09-25,"Nexus BioTherapeutics, Inc.",13532.0,JE# JE-202409-738 | Prepaid insurance amortization
+JE_20240910_0906.pdf,GL — Journal Entries,Journal Entry Voucher,2024-09-10,"Nexus BioTherapeutics, Inc.",2047653.47,JE# JE-202409-400 | Payroll allocation — R&D vs SG&A
+JE_20240901_0907.pdf,GL — Journal Entries,Journal Entry Voucher,2024-09-01,"Nexus BioTherapeutics, Inc.",89855.22,JE# JE-202409-920 | Monthly rent accrual — Cambridge HQ
+JE_20240907_0908.pdf,GL — Journal Entries,Journal Entry Voucher,2024-09-07,"Nexus BioTherapeutics, Inc.",38715.34,JE# JE-202409-493 | Depreciation — lab equipment
+JE_20240906_0909.pdf,GL — Journal Entries,Journal Entry Voucher,2024-09-06,"Nexus BioTherapeutics, Inc.",1884872.68,JE# JE-202409-759 | Payroll allocation — R&D vs SG&A
+JE_20240924_0910.pdf,GL — Journal Entries,Journal Entry Voucher,2024-09-24,"Nexus BioTherapeutics, Inc.",3051822.57,JE# JE-202409-344 | Cash receipt — McKesson payment
+JE_20240924_0911.pdf,GL — Journal Entries,Journal Entry Voucher,2024-09-24,"Nexus BioTherapeutics, Inc.",48554.44,JE# JE-202409-417 | Reclassification — consulting fee R&D vs
+JE_20240920_0912.pdf,GL — Journal Entries,Journal Entry Voucher,2024-09-20,"Nexus BioTherapeutics, Inc.",43317.71,JE# JE-202409-159 | Depreciation — lab equipment
+JE_20240923_0913.pdf,GL — Journal Entries,Journal Entry Voucher,2024-09-23,"Nexus BioTherapeutics, Inc.",4856825.66,JE# JE-202409-363 | Revenue recognition — Oncovax shipment
+JE_20240911_0914.pdf,GL — Journal Entries,Journal Entry Voucher,2024-09-11,"Nexus BioTherapeutics, Inc.",1703192.23,JE# JE-202409-509 | CRO expense accrual — PPD LUMINANCE-1
+JE_20241026_1001.pdf,GL — Journal Entries,Journal Entry Voucher,2024-10-26,"Nexus BioTherapeutics, Inc.",3452969.92,JE# JE-202410-942 | Cash receipt — McKesson payment
+JE_20241003_1002.pdf,GL — Journal Entries,Journal Entry Voucher,2024-10-03,"Nexus BioTherapeutics, Inc.",40410.04,JE# JE-202410-368 | Reclassification — consulting fee R&D vs
+JE_20241016_1003.pdf,GL — Journal Entries,Journal Entry Voucher,2024-10-16,"Nexus BioTherapeutics, Inc.",42492.66,JE# JE-202410-180 | Reclassification — consulting fee R&D vs
+JE_20241028_1004.pdf,GL — Journal Entries,Journal Entry Voucher,2024-10-28,"Nexus BioTherapeutics, Inc.",2007545.4,JE# JE-202410-402 | CRO expense accrual — PPD LUMINANCE-1
+JE_20241008_1005.pdf,GL — Journal Entries,Journal Entry Voucher,2024-10-08,"Nexus BioTherapeutics, Inc.",1814259.49,JE# JE-202410-742 | Payroll allocation — R&D vs SG&A
+JE_20241008_1006.pdf,GL — Journal Entries,Journal Entry Voucher,2024-10-08,"Nexus BioTherapeutics, Inc.",1963602.42,JE# JE-202410-338 | Payroll allocation — R&D vs SG&A
+JE_20241006_1007.pdf,GL — Journal Entries,Journal Entry Voucher,2024-10-06,"Nexus BioTherapeutics, Inc.",3205065.53,JE# JE-202410-780 | Cash receipt — McKesson payment
+JE_20241021_1008.pdf,GL — Journal Entries,Journal Entry Voucher,2024-10-21,"Nexus BioTherapeutics, Inc.",1640027.1,JE# JE-202410-595 | CRO expense accrual — PPD LUMINANCE-1
+JE_20241002_1009.pdf,GL — Journal Entries,Journal Entry Voucher,2024-10-02,"Nexus BioTherapeutics, Inc.",77064.93,JE# JE-202410-890 | Monthly rent accrual — Cambridge HQ
+JE_20241122_1101.pdf,GL — Journal Entries,Journal Entry Voucher,2024-11-22,"Nexus BioTherapeutics, Inc.",91006.61,JE# JE-202411-311 | Monthly rent accrual — Cambridge HQ
+JE_20241114_1102.pdf,GL — Journal Entries,Journal Entry Voucher,2024-11-14,"Nexus BioTherapeutics, Inc.",94433.38,JE# JE-202411-761 | Monthly rent accrual — Cambridge HQ
+JE_20241118_1103.pdf,GL — Journal Entries,Journal Entry Voucher,2024-11-18,"Nexus BioTherapeutics, Inc.",2248350.96,JE# JE-202411-606 | Payroll allocation — R&D vs SG&A
+JE_20241104_1104.pdf,GL — Journal Entries,Journal Entry Voucher,2024-11-04,"Nexus BioTherapeutics, Inc.",37332.25,JE# JE-202411-652 | Depreciation — lab equipment
+JE_20241113_1105.pdf,GL — Journal Entries,Journal Entry Voucher,2024-11-13,"Nexus BioTherapeutics, Inc.",2257217.18,JE# JE-202411-105 | Payroll allocation — R&D vs SG&A
+JE_20241122_1106.pdf,GL — Journal Entries,Journal Entry Voucher,2024-11-22,"Nexus BioTherapeutics, Inc.",13414.43,JE# JE-202411-766 | Prepaid insurance amortization
+JE_20241114_1107.pdf,GL — Journal Entries,Journal Entry Voucher,2024-11-14,"Nexus BioTherapeutics, Inc.",1738472.29,JE# JE-202411-336 | CRO expense accrual — PPD LUMINANCE-1
+JE_20241103_1108.pdf,GL — Journal Entries,Journal Entry Voucher,2024-11-03,"Nexus BioTherapeutics, Inc.",4272999.14,JE# JE-202411-134 | Revenue recognition — Oncovax shipment
+JE_20241106_1109.pdf,GL — Journal Entries,Journal Entry Voucher,2024-11-06,"Nexus BioTherapeutics, Inc.",1765173.15,JE# JE-202411-234 | CRO expense accrual — PPD LUMINANCE-1
+JE_20241120_1110.pdf,GL — Journal Entries,Journal Entry Voucher,2024-11-20,"Nexus BioTherapeutics, Inc.",2881014.59,JE# JE-202411-974 | Cash receipt — McKesson payment
+JE_20241206_1201.pdf,GL — Journal Entries,Journal Entry Voucher,2024-12-06,"Nexus BioTherapeutics, Inc.",2211045.27,JE# JE-202412-157 | Payroll allocation — R&D vs SG&A
+JE_20241221_1202.pdf,GL — Journal Entries,Journal Entry Voucher,2024-12-21,"Nexus BioTherapeutics, Inc.",14320.68,JE# JE-202412-798 | Prepaid insurance amortization
+JE_20241206_1203.pdf,GL — Journal Entries,Journal Entry Voucher,2024-12-06,"Nexus BioTherapeutics, Inc.",15030.96,JE# JE-202412-834 | Prepaid insurance amortization
+JE_20241227_1204.pdf,GL — Journal Entries,Journal Entry Voucher,2024-12-27,"Nexus BioTherapeutics, Inc.",3074533.86,JE# JE-202412-155 | Cash receipt — McKesson payment
+JE_20241209_1205.pdf,GL — Journal Entries,Journal Entry Voucher,2024-12-09,"Nexus BioTherapeutics, Inc.",13159.48,JE# JE-202412-301 | Prepaid insurance amortization
+JE_20241207_1206.pdf,GL — Journal Entries,Journal Entry Voucher,2024-12-07,"Nexus BioTherapeutics, Inc.",1802467.06,JE# JE-202412-752 | Payroll allocation — R&D vs SG&A
+JE_20241226_1207.pdf,GL — Journal Entries,Journal Entry Voucher,2024-12-26,"Nexus BioTherapeutics, Inc.",45910.87,JE# JE-202412-206 | Reclassification — consulting fee R&D vs
+JE_20241211_1208.pdf,GL — Journal Entries,Journal Entry Voucher,2024-12-11,"Nexus BioTherapeutics, Inc.",1766071.89,JE# JE-202412-146 | CRO expense accrual — PPD LUMINANCE-1
+JE_20241223_1209.pdf,GL — Journal Entries,Journal Entry Voucher,2024-12-23,"Nexus BioTherapeutics, Inc.",1718626.31,JE# JE-202412-781 | CRO expense accrual — PPD LUMINANCE-1
+JE_20241216_1210.pdf,GL — Journal Entries,Journal Entry Voucher,2024-12-16,"Nexus BioTherapeutics, Inc.",2843290.03,JE# JE-202412-690 | Cash receipt — McKesson payment
+GL_Detail_202401.xlsx,GL — Reports,GL Detail Report,2024-01-30,"Nexus BioTherapeutics, Inc.",,Month 1 — 112 entries
+GL_Detail_202402.xlsx,GL — Reports,GL Detail Report,2024-02-30,"Nexus BioTherapeutics, Inc.",,Month 2 — 99 entries
+GL_Detail_202403.xlsx,GL — Reports,GL Detail Report,2024-03-30,"Nexus BioTherapeutics, Inc.",,Month 3 — 113 entries
+GL_Detail_202404.xlsx,GL — Reports,GL Detail Report,2024-04-30,"Nexus BioTherapeutics, Inc.",,Month 4 — 103 entries
+GL_Detail_202405.xlsx,GL — Reports,GL Detail Report,2024-05-30,"Nexus BioTherapeutics, Inc.",,Month 5 — 94 entries
+GL_Detail_202406.xlsx,GL — Reports,GL Detail Report,2024-06-30,"Nexus BioTherapeutics, Inc.",,Month 6 — 94 entries
+GL_Detail_202407.xlsx,GL — Reports,GL Detail Report,2024-07-30,"Nexus BioTherapeutics, Inc.",,Month 7 — 91 entries
+GL_Detail_202408.xlsx,GL — Reports,GL Detail Report,2024-08-30,"Nexus BioTherapeutics, Inc.",,Month 8 — 101 entries
+GL_Detail_202409.xlsx,GL — Reports,GL Detail Report,2024-09-30,"Nexus BioTherapeutics, Inc.",,Month 9 — 98 entries
+GL_Detail_202410.xlsx,GL — Reports,GL Detail Report,2024-10-30,"Nexus BioTherapeutics, Inc.",,Month 10 — 76 entries
+GL_Detail_202411.xlsx,GL — Reports,GL Detail Report,2024-11-30,"Nexus BioTherapeutics, Inc.",,Month 11 — 107 entries
+GL_Detail_202412.xlsx,GL — Reports,GL Detail Report,2024-12-30,"Nexus BioTherapeutics, Inc.",,Month 12 — 95 entries
+TrialBalance_20240331.xlsx,GL — Trial Balance,Trial Balance,2024-03-31,"Nexus BioTherapeutics, Inc.",,Q1 Unadjusted Trial Balance
+TrialBalance_20240630.xlsx,GL — Trial Balance,Trial Balance,2024-06-30,"Nexus BioTherapeutics, Inc.",,Q2 Unadjusted Trial Balance
+TrialBalance_20240930.xlsx,GL — Trial Balance,Trial Balance,2024-09-30,"Nexus BioTherapeutics, Inc.",,Q3 Unadjusted Trial Balance
+TrialBalance_20241231.xlsx,GL — Trial Balance,Trial Balance,2024-12-31,"Nexus BioTherapeutics, Inc.",,Q4 Unadjusted Trial Balance
+PL_202401.pdf,Financial Statements,P&L Statement,2024-01-30,"Nexus BioTherapeutics, Inc.",30875937.22,Month 1 P&L
+PL_202402.pdf,Financial Statements,P&L Statement,2024-02-30,"Nexus BioTherapeutics, Inc.",35346342.99,Month 2 P&L
+PL_202403.pdf,Financial Statements,P&L Statement,2024-03-30,"Nexus BioTherapeutics, Inc.",33621494.39,Month 3 P&L
+PL_202404.pdf,Financial Statements,P&L Statement,2024-04-30,"Nexus BioTherapeutics, Inc.",32171544.52,Month 4 P&L
+PL_202405.pdf,Financial Statements,P&L Statement,2024-05-30,"Nexus BioTherapeutics, Inc.",33527792.31,Month 5 P&L
+PL_202406.pdf,Financial Statements,P&L Statement,2024-06-30,"Nexus BioTherapeutics, Inc.",30880912.83,Month 6 P&L
+PL_202407.pdf,Financial Statements,P&L Statement,2024-07-30,"Nexus BioTherapeutics, Inc.",32392994.74,Month 7 P&L
+PL_202408.pdf,Financial Statements,P&L Statement,2024-08-30,"Nexus BioTherapeutics, Inc.",29466846.46,Month 8 P&L
+PL_202409.pdf,Financial Statements,P&L Statement,2024-09-30,"Nexus BioTherapeutics, Inc.",29505903.44,Month 9 P&L
+PL_202410.pdf,Financial Statements,P&L Statement,2024-10-30,"Nexus BioTherapeutics, Inc.",35233928.5,Month 10 P&L
+PL_202411.pdf,Financial Statements,P&L Statement,2024-11-30,"Nexus BioTherapeutics, Inc.",33070338.25,Month 11 P&L
+PL_202412.pdf,Financial Statements,P&L Statement,2024-12-30,"Nexus BioTherapeutics, Inc.",35641240.62,Month 12 P&L
+CashFlow_Q1_2024.xlsx,Financial Statements,Cash Flow Statement,2024 Q1,"Nexus BioTherapeutics, Inc.",,Q1 Cash Flow
+CashFlow_Q2_2024.xlsx,Financial Statements,Cash Flow Statement,2024 Q2,"Nexus BioTherapeutics, Inc.",,Q2 Cash Flow
+CashFlow_Q3_2024.xlsx,Financial Statements,Cash Flow Statement,2024 Q3,"Nexus BioTherapeutics, Inc.",,Q3 Cash Flow
+CashFlow_Q4_2024.xlsx,Financial Statements,Cash Flow Statement,2024 Q4,"Nexus BioTherapeutics, Inc.",,Q4 Cash Flow
+BvA_YTD_202403.xlsx,Financial Statements,Budget vs. Actual,2024-03-30,"Nexus BioTherapeutics, Inc.",,YTD through month 3
+BvA_YTD_202406.xlsx,Financial Statements,Budget vs. Actual,2024-06-30,"Nexus BioTherapeutics, Inc.",,YTD through month 6
+BvA_YTD_202409.xlsx,Financial Statements,Budget vs. Actual,2024-09-30,"Nexus BioTherapeutics, Inc.",,YTD through month 9
+BvA_YTD_202412.xlsx,Financial Statements,Budget vs. Actual,2024-12-30,"Nexus BioTherapeutics, Inc.",,YTD through month 12
+CRO_NXTB-301-001_202401.pdf,R&D — Clinical Trials,CRO Invoice,2024-01-14,PPD Clinical Research Services,1725731.08,Study: NXTB-301-001 | INV# CRO-100307
+CRO_NXTB-301-001_202402.pdf,R&D — Clinical Trials,CRO Invoice,2024-02-25,PPD Clinical Research Services,1745723.67,Study: NXTB-301-001 | INV# CRO-100312
+CRO_NXTB-301-001_202403.pdf,R&D — Clinical Trials,CRO Invoice,2024-03-10,PPD Clinical Research Services,1815747.32,Study: NXTB-301-001 | INV# CRO-100315
+CRO_NXTB-301-001_202404.pdf,R&D — Clinical Trials,CRO Invoice,2024-04-14,PPD Clinical Research Services,1665203.5,Study: NXTB-301-001 | INV# CRO-100316
+CRO_NXTB-301-001_202405.pdf,R&D — Clinical Trials,CRO Invoice,2024-05-19,PPD Clinical Research Services,1797698.67,Study: NXTB-301-001 | INV# CRO-100320
+CRO_NXTB-301-001_202406.pdf,R&D — Clinical Trials,CRO Invoice,2024-06-03,PPD Clinical Research Services,1709439.51,Study: NXTB-301-001 | INV# CRO-100325
+CRO_NXTB-301-001_202407.pdf,R&D — Clinical Trials,CRO Invoice,2024-07-22,PPD Clinical Research Services,1715470.14,Study: NXTB-301-001 | INV# CRO-100326
+CRO_NXTB-301-001_202408.pdf,R&D — Clinical Trials,CRO Invoice,2024-08-05,PPD Clinical Research Services,1673561.07,Study: NXTB-301-001 | INV# CRO-100329
+CRO_NXTB-301-001_202409.pdf,R&D — Clinical Trials,CRO Invoice,2024-09-15,PPD Clinical Research Services,1794225.88,Study: NXTB-301-001 | INV# CRO-100332
+CRO_NXTB-301-001_202410.pdf,R&D — Clinical Trials,CRO Invoice,2024-10-14,PPD Clinical Research Services,1743238.99,Study: NXTB-301-001 | INV# CRO-100336
+CRO_NXTB-301-001_202411.pdf,R&D — Clinical Trials,CRO Invoice,2024-11-11,PPD Clinical Research Services,1773533.77,Study: NXTB-301-001 | INV# CRO-100339
+CRO_NXTB-301-001_202412.pdf,R&D — Clinical Trials,CRO Invoice,2024-12-05,PPD Clinical Research Services,1780157.97,Study: NXTB-301-001 | INV# CRO-100340
+CRO_NXTB-447-001_202401.pdf,R&D — Clinical Trials,CRO Invoice,2024-01-09,ICON Clinical Research LLC,769790.0,Study: NXTB-447-001 | INV# CRO-100343
+CRO_NXTB-447-001_202402.pdf,R&D — Clinical Trials,CRO Invoice,2024-02-11,ICON Clinical Research LLC,832181.41,Study: NXTB-447-001 | INV# CRO-100347
+CRO_NXTB-447-001_202403.pdf,R&D — Clinical Trials,CRO Invoice,2024-03-16,ICON Clinical Research LLC,764764.46,Study: NXTB-447-001 | INV# CRO-100349
+CRO_NXTB-447-001_202404.pdf,R&D — Clinical Trials,CRO Invoice,2024-04-01,ICON Clinical Research LLC,869278.6,Study: NXTB-447-001 | INV# CRO-100350
+CRO_NXTB-447-001_202405.pdf,R&D — Clinical Trials,CRO Invoice,2024-05-13,ICON Clinical Research LLC,844219.08,Study: NXTB-447-001 | INV# CRO-100352
+CRO_NXTB-447-001_202406.pdf,R&D — Clinical Trials,CRO Invoice,2024-06-03,ICON Clinical Research LLC,820117.5,Study: NXTB-447-001 | INV# CRO-100356
+CRO_NXTB-447-001_202407.pdf,R&D — Clinical Trials,CRO Invoice,2024-07-15,ICON Clinical Research LLC,832071.82,Study: NXTB-447-001 | INV# CRO-100358
+CRO_NXTB-447-001_202408.pdf,R&D — Clinical Trials,CRO Invoice,2024-08-19,ICON Clinical Research LLC,768459.25,Study: NXTB-447-001 | INV# CRO-100359
+CRO_NXTB-447-001_202409.pdf,R&D — Clinical Trials,CRO Invoice,2024-09-14,ICON Clinical Research LLC,785570.73,Study: NXTB-447-001 | INV# CRO-100362
+CRO_NXTB-447-001_202410.pdf,R&D — Clinical Trials,CRO Invoice,2024-10-13,ICON Clinical Research LLC,777655.06,Study: NXTB-447-001 | INV# CRO-100363
+CRO_NXTB-447-001_202411.pdf,R&D — Clinical Trials,CRO Invoice,2024-11-08,ICON Clinical Research LLC,815946.98,Study: NXTB-447-001 | INV# CRO-100366
+CRO_NXTB-447-001_202412.pdf,R&D — Clinical Trials,CRO Invoice,2024-12-18,ICON Clinical Research LLC,846406.76,Study: NXTB-447-001 | INV# CRO-100368
+CRO_NXTB-112-001_202401.pdf,R&D — Clinical Trials,CRO Invoice,2024-01-12,Covance Inc.,292281.5,Study: NXTB-112-001 | INV# CRO-100370
+CRO_NXTB-112-001_202402.pdf,R&D — Clinical Trials,CRO Invoice,2024-02-08,Covance Inc.,292677.13,Study: NXTB-112-001 | INV# CRO-100373
+CRO_NXTB-112-001_202403.pdf,R&D — Clinical Trials,CRO Invoice,2024-03-06,Covance Inc.,286927.2,Study: NXTB-112-001 | INV# CRO-100375
+CRO_NXTB-112-001_202404.pdf,R&D — Clinical Trials,CRO Invoice,2024-04-17,Covance Inc.,316174.61,Study: NXTB-112-001 | INV# CRO-100380
+CRO_NXTB-112-001_202405.pdf,R&D — Clinical Trials,CRO Invoice,2024-05-06,Covance Inc.,292935.36,Study: NXTB-112-001 | INV# CRO-100384
+CRO_NXTB-112-001_202406.pdf,R&D — Clinical Trials,CRO Invoice,2024-06-16,Covance Inc.,298905.44,Study: NXTB-112-001 | INV# CRO-100389
+CRO_NXTB-112-001_202407.pdf,R&D — Clinical Trials,CRO Invoice,2024-07-07,Covance Inc.,316399.37,Study: NXTB-112-001 | INV# CRO-100393
+CRO_NXTB-112-001_202408.pdf,R&D — Clinical Trials,CRO Invoice,2024-08-08,Covance Inc.,318719.45,Study: NXTB-112-001 | INV# CRO-100395
+CRO_NXTB-112-001_202409.pdf,R&D — Clinical Trials,CRO Invoice,2024-09-10,Covance Inc.,301113.24,Study: NXTB-112-001 | INV# CRO-100398
+CRO_NXTB-112-001_202410.pdf,R&D — Clinical Trials,CRO Invoice,2024-10-07,Covance Inc.,304589.55,Study: NXTB-112-001 | INV# CRO-100401
+CRO_NXTB-112-001_202411.pdf,R&D — Clinical Trials,CRO Invoice,2024-11-06,Covance Inc.,304558.54,Study: NXTB-112-001 | INV# CRO-100406
+CRO_NXTB-112-001_202412.pdf,R&D — Clinical Trials,CRO Invoice,2024-12-10,Covance Inc.,321976.41,Study: NXTB-112-001 | INV# CRO-100409
+CMO_V010_202401.pdf,CMO — Manufacturing,CMO Invoice,2024-01-15,Lonza Biologics Inc.,4934647.98,INV# INV-102039 | 3 batch(es)
+CMO_V010_202402.pdf,CMO — Manufacturing,CMO Invoice,2024-02-19,Lonza Biologics Inc.,1953205.35,INV# INV-102041 | 1 batch(es)
+CMO_V010_202403.pdf,CMO — Manufacturing,CMO Invoice,2024-03-06,Lonza Biologics Inc.,4106410.74,INV# INV-102043 | 3 batch(es)
+CMO_V010_202404.pdf,CMO — Manufacturing,CMO Invoice,2024-04-15,Lonza Biologics Inc.,1507758.94,INV# INV-102048 | 1 batch(es)
+CMO_V010_202405.pdf,CMO — Manufacturing,CMO Invoice,2024-05-16,Lonza Biologics Inc.,1819039.88,INV# INV-102050 | 1 batch(es)
+CMO_V010_202406.pdf,CMO — Manufacturing,CMO Invoice,2024-06-19,Lonza Biologics Inc.,1861794.4,INV# INV-102053 | 1 batch(es)
+CMO_V010_202407.pdf,CMO — Manufacturing,CMO Invoice,2024-07-11,Lonza Biologics Inc.,4521410.44,INV# INV-102057 | 3 batch(es)
+CMO_V010_202408.pdf,CMO — Manufacturing,CMO Invoice,2024-08-10,Lonza Biologics Inc.,1792034.42,INV# INV-102061 | 1 batch(es)
+CMO_V010_202409.pdf,CMO — Manufacturing,CMO Invoice,2024-09-18,Lonza Biologics Inc.,1768103.8,INV# INV-102063 | 1 batch(es)
+CMO_V010_202410.pdf,CMO — Manufacturing,CMO Invoice,2024-10-17,Lonza Biologics Inc.,3554929.29,INV# INV-102064 | 3 batch(es)
+CMO_V010_202411.pdf,CMO — Manufacturing,CMO Invoice,2024-11-14,Lonza Biologics Inc.,4548111.97,INV# INV-102068 | 3 batch(es)
+CMO_V010_202412.pdf,CMO — Manufacturing,CMO Invoice,2024-12-25,Lonza Biologics Inc.,2256194.34,INV# INV-102070 | 2 batch(es)
+CMO_V011_202401.pdf,CMO — Manufacturing,CMO Invoice,2024-01-17,Samsung Biologics Co. Ltd.,1623920.27,INV# INV-102074 | 3 batch(es)
+CMO_V011_202402.pdf,CMO — Manufacturing,CMO Invoice,2024-02-15,Samsung Biologics Co. Ltd.,3527157.3,INV# INV-102079 | 3 batch(es)
+CMO_V011_202403.pdf,CMO — Manufacturing,CMO Invoice,2024-03-07,Samsung Biologics Co. Ltd.,1815792.29,INV# INV-102080 | 2 batch(es)
+CMO_V011_202404.pdf,CMO — Manufacturing,CMO Invoice,2024-04-06,Samsung Biologics Co. Ltd.,570748.57,INV# INV-102081 | 1 batch(es)
+CMO_V011_202405.pdf,CMO — Manufacturing,CMO Invoice,2024-05-23,Samsung Biologics Co. Ltd.,3930932.02,INV# INV-102082 | 3 batch(es)
+CMO_V011_202406.pdf,CMO — Manufacturing,CMO Invoice,2024-06-11,Samsung Biologics Co. Ltd.,405791.89,INV# INV-102083 | 1 batch(es)
+CMO_V011_202407.pdf,CMO — Manufacturing,CMO Invoice,2024-07-11,Samsung Biologics Co. Ltd.,1658954.49,INV# INV-102085 | 1 batch(es)
+CMO_V011_202408.pdf,CMO — Manufacturing,CMO Invoice,2024-08-23,Samsung Biologics Co. Ltd.,1704417.04,INV# INV-102086 | 2 batch(es)
+CMO_V011_202409.pdf,CMO — Manufacturing,CMO Invoice,2024-09-16,Samsung Biologics Co. Ltd.,621795.82,INV# INV-102088 | 1 batch(es)
+CMO_V011_202410.pdf,CMO — Manufacturing,CMO Invoice,2024-10-10,Samsung Biologics Co. Ltd.,2739458.54,INV# INV-102089 | 2 batch(es)
+CMO_V011_202411.pdf,CMO — Manufacturing,CMO Invoice,2024-11-06,Samsung Biologics Co. Ltd.,671034.71,INV# INV-102092 | 1 batch(es)
+CMO_V011_202412.pdf,CMO — Manufacturing,CMO Invoice,2024-12-24,Samsung Biologics Co. Ltd.,2335897.6,INV# INV-102094 | 2 batch(es)
+FAX_20240902_01.jpg,Fax Documents,Fax Cover Sheet,2024-09-02,PPD Clinical Research,,From: Sarah Chen | Re: LUMINANCE-1 Protocol Amendment — Site No
+FAX_20240528_02.jpg,Fax Documents,Fax Cover Sheet,2024-05-28,Thermo Fisher Scientific,,From: Accounts Receivable | Re: Invoice Statement — Past Due Notice
+FAX_20240920_03.jpg,Fax Documents,Fax Cover Sheet,2024-09-20,Goodwin Procter LLP,,From: Amanda Foster | Re: NXT-447 License Agreement — Execution Co
+FAX_20241109_04.jpg,Fax Documents,Fax Cover Sheet,2024-11-09,U.S. Drug Enforcement Administration,,From: DEA Registration Unit | Re: DEA Registration Renewal — Schedule II C
+FAX_20240602_05.jpg,Fax Documents,Fax Cover Sheet,2024-06-02,JPMorgan Chase — Healthcare Group,,From: Investor Relations | Re: J.P. Morgan Healthcare Conference — Pres
+FAX_20240430_06.jpg,Fax Documents,Fax Cover Sheet,2024-04-30,Cigna Health and Life Insurance,,From: Group Billing | Re: Q4 Group Health Premium — Enrollment Cha
+FAX_20241001_07.jpg,Fax Documents,Fax Cover Sheet,2024-10-01,PPD Clinical Research,,From: Sarah Chen | Re: LUMINANCE-1 Protocol Amendment — Site No
+FAX_20240718_08.jpg,Fax Documents,Fax Cover Sheet,2024-07-18,Thermo Fisher Scientific,,From: Accounts Receivable | Re: Invoice Statement — Past Due Notice
+FAX_20240109_09.jpg,Fax Documents,Fax Cover Sheet,2024-01-09,Goodwin Procter LLP,,From: Amanda Foster | Re: NXT-447 License Agreement — Execution Co
+FAX_20241123_10.jpg,Fax Documents,Fax Cover Sheet,2024-11-23,U.S. Drug Enforcement Administration,,From: DEA Registration Unit | Re: DEA Registration Renewal — Schedule II C
+FAX_20240429_11.jpg,Fax Documents,Fax Cover Sheet,2024-04-29,JPMorgan Chase — Healthcare Group,,From: Investor Relations | Re: J.P. Morgan Healthcare Conference — Pres
+FAX_20241119_12.jpg,Fax Documents,Fax Cover Sheet,2024-11-19,Cigna Health and Life Insurance,,From: Group Billing | Re: Q4 Group Health Premium — Enrollment Cha
+LEGAL_20240110_01.pdf,Legal — Professional Services,Legal Invoice,2024-01-10,Goodwin Procter LLP,49736.4,INV# INV-102096 | IPO follow-on offering — SEC disclosure 
+LEGAL_20240902_02.pdf,Legal — Professional Services,Legal Invoice,2024-09-02,Goodwin Procter LLP,91393.3,INV# INV-102097 | Commercial contract — McKesson distribut
+LEGAL_20240202_03.pdf,Legal — Professional Services,Legal Invoice,2024-02-02,Goodwin Procter LLP,84672.0,INV# INV-102100 | License agreement — NXT-447 autoimmune
+LEGAL_20240722_04.pdf,Legal — Professional Services,Legal Invoice,2024-07-22,Goodwin Procter LLP,52718.4,INV# INV-102104 | FDA regulatory — NDA preparation support
+LEGAL_20240124_05.pdf,Legal — Professional Services,Legal Invoice,2024-01-24,Goodwin Procter LLP,120915.6,INV# INV-102108 | DEA compliance review
+LEGAL_20240825_06.pdf,Legal — Professional Services,Legal Invoice,2024-08-25,Goodwin Procter LLP,106661.22,INV# INV-102111 | FDA regulatory — NDA preparation support
+LEGAL_20240916_07.pdf,Legal — Professional Services,Legal Invoice,2024-09-16,Goodwin Procter LLP,72130.8,INV# INV-102116 | IPO follow-on offering — SEC disclosure 
+LEGAL_20241123_08.pdf,Legal — Professional Services,Legal Invoice,2024-11-23,Goodwin Procter LLP,43407.08,INV# INV-102120 | IPO follow-on offering — SEC disclosure 
+LEGAL_20241031_09.pdf,Legal — Professional Services,Legal Invoice,2024-10-31,Goodwin Procter LLP,115394.4,INV# INV-102124 | FDA regulatory — NDA preparation support
+LEGAL_20241207_10.pdf,Legal — Professional Services,Legal Invoice,2024-12-07,Goodwin Procter LLP,57829.05,INV# INV-102127 | DEA compliance review
+LEGAL_20240830_11.pdf,Legal — Professional Services,Legal Invoice,2024-08-30,Goodwin Procter LLP,78000.0,INV# INV-102130 | Patent prosecution — NXT-301 composition
+LEGAL_20240512_12.pdf,Legal — Professional Services,Legal Invoice,2024-05-12,Goodwin Procter LLP,29682.5,INV# INV-102131 | IPO follow-on offering — SEC disclosure 
+LEGAL_20241004_13.pdf,Legal — Professional Services,Legal Invoice,2024-10-04,Goodwin Procter LLP,66667.2,INV# INV-102135 | IPO follow-on offering — SEC disclosure 
+LEGAL_20240720_14.pdf,Legal — Professional Services,Legal Invoice,2024-07-20,Goodwin Procter LLP,35092.3,INV# INV-102139 | Corporate governance — Board committee s
+REMIT_C001_20240222.pdf,AR — Remittances,Remittance Advice,2024-02-22,McKesson Corporation,6063920.49,3 invoices cleared
+REMIT_C001_20240419.pdf,AR — Remittances,Remittance Advice,2024-04-19,McKesson Corporation,2883903.11,3 invoices cleared
+REMIT_C001_20240618.pdf,AR — Remittances,Remittance Advice,2024-06-18,McKesson Corporation,8225173.93,5 invoices cleared
+REMIT_C001_20240821.pdf,AR — Remittances,Remittance Advice,2024-08-21,McKesson Corporation,4716319.42,3 invoices cleared
+REMIT_C001_20241017.pdf,AR — Remittances,Remittance Advice,2024-10-17,McKesson Corporation,7785885.18,5 invoices cleared
+REMIT_C001_20241225.pdf,AR — Remittances,Remittance Advice,2024-12-25,McKesson Corporation,3907660.11,3 invoices cleared
+REMIT_C002_20240218.pdf,AR — Remittances,Remittance Advice,2024-02-18,CVS Health / Caremark,4525425.13,2 invoices cleared
+REMIT_C002_20240422.pdf,AR — Remittances,Remittance Advice,2024-04-22,CVS Health / Caremark,3774227.86,4 invoices cleared
+REMIT_C002_20240620.pdf,AR — Remittances,Remittance Advice,2024-06-20,CVS Health / Caremark,7899045.1,4 invoices cleared
+REMIT_C002_20240820.pdf,AR — Remittances,Remittance Advice,2024-08-20,CVS Health / Caremark,3012653.01,3 invoices cleared
+REMIT_C002_20241015.pdf,AR — Remittances,Remittance Advice,2024-10-15,CVS Health / Caremark,5505801.7,4 invoices cleared
+REMIT_C002_20241219.pdf,AR — Remittances,Remittance Advice,2024-12-19,CVS Health / Caremark,4050497.29,3 invoices cleared
+REMIT_C003_20240215.pdf,AR — Remittances,Remittance Advice,2024-02-15,Amerisource Bergen Drug Corp.,5025146.41,4 invoices cleared
+REMIT_C003_20240415.pdf,AR — Remittances,Remittance Advice,2024-04-15,Amerisource Bergen Drug Corp.,8430697.48,5 invoices cleared
+REMIT_C003_20240626.pdf,AR — Remittances,Remittance Advice,2024-06-26,Amerisource Bergen Drug Corp.,4069078.93,4 invoices cleared
+REMIT_C003_20240818.pdf,AR — Remittances,Remittance Advice,2024-08-18,Amerisource Bergen Drug Corp.,5445486.46,4 invoices cleared
+REMIT_C003_20241015.pdf,AR — Remittances,Remittance Advice,2024-10-15,Amerisource Bergen Drug Corp.,5143411.45,2 invoices cleared
+REMIT_C003_20241219.pdf,AR — Remittances,Remittance Advice,2024-12-19,Amerisource Bergen Drug Corp.,7520214.04,5 invoices cleared
+REMIT_C004_20240220.pdf,AR — Remittances,Remittance Advice,2024-02-20,Cardinal Health Inc.,2366886.36,2 invoices cleared
+REMIT_C004_20240421.pdf,AR — Remittances,Remittance Advice,2024-04-21,Cardinal Health Inc.,6707378.36,4 invoices cleared
+REMIT_C004_20240617.pdf,AR — Remittances,Remittance Advice,2024-06-17,Cardinal Health Inc.,7021808.05,4 invoices cleared
+REMIT_C004_20240821.pdf,AR — Remittances,Remittance Advice,2024-08-21,Cardinal Health Inc.,3210645.54,3 invoices cleared
+REMIT_C004_20241018.pdf,AR — Remittances,Remittance Advice,2024-10-18,Cardinal Health Inc.,4767683.97,3 invoices cleared
+REMIT_C004_20241216.pdf,AR — Remittances,Remittance Advice,2024-12-16,Cardinal Health Inc.,8064113.94,5 invoices cleared
+SCAN_20240829_001.jpg,T&E — Misc Scanned,Miscellaneous Scanned Receipt,2024-08-29,MIT Sloan Executive Ed.,98.39,Sandra L. Okafor
+SCAN_20240216_002.jpg,T&E — Misc Scanned,Miscellaneous Scanned Receipt,2024-02-16,MassBio Annual Meeting,136.58,Mitchell T. Crawford
+SCAN_20240917_003.jpg,T&E — Misc Scanned,Miscellaneous Scanned Receipt,2024-09-17,UPS Store,129.8,Carlos M. Vega
+SCAN_20240607_004.jpg,T&E — Misc Scanned,Miscellaneous Scanned Receipt,2024-06-07,Logan Express,73.15,David G. Morrison
+SCAN_20240325_005.jpg,T&E — Misc Scanned,Miscellaneous Scanned Receipt,2024-03-25,Cambridge Parking Garage,14.81,Todd R. Fleming
+SCAN_20240913_006.jpg,T&E — Misc Scanned,Miscellaneous Scanned Receipt,2024-09-13,Reagan National Airport Newsstand,127.88,Ryan T. Castellano
+SCAN_20240428_007.jpg,T&E — Misc Scanned,Miscellaneous Scanned Receipt,2024-04-28,Cambridge Parking Garage,56.96,Todd R. Fleming
+SCAN_20240118_008.jpg,T&E — Misc Scanned,Miscellaneous Scanned Receipt,2024-01-18,MIT Sloan Executive Ed.,18.52,Patricia J. Hollis
+SCAN_20240609_009.jpg,T&E — Misc Scanned,Miscellaneous Scanned Receipt,2024-06-09,UPS Store,131.75,Laura C. Eriksson
+SCAN_20240327_010.jpg,T&E — Misc Scanned,Miscellaneous Scanned Receipt,2024-03-27,MassBio Annual Meeting,116.92,Patricia J. Hollis
+SCAN_20240428_011.jpg,T&E — Misc Scanned,Miscellaneous Scanned Receipt,2024-04-28,Logan Express,78.49,David G. Morrison
+SCAN_20240625_012.jpg,T&E — Misc Scanned,Miscellaneous Scanned Receipt,2024-06-25,Pharmacy — Walgreens,106.22,Kevin H. Park
+SCAN_20240304_013.jpg,T&E — Misc Scanned,Miscellaneous Scanned Receipt,2024-03-04,AAAS Annual Meeting,152.32,Nina O. Jefferson
+SCAN_20240516_014.jpg,T&E — Misc Scanned,Miscellaneous Scanned Receipt,2024-05-16,Reagan National Airport Newsstand,103.58,Nina O. Jefferson
+SCAN_20240807_015.jpg,T&E — Misc Scanned,Miscellaneous Scanned Receipt,2024-08-07,MIT Sloan Executive Ed.,42.74,Ryan T. Castellano
+SCAN_20240202_016.jpg,T&E — Misc Scanned,Miscellaneous Scanned Receipt,2024-02-02,Cambridge Parking Garage,134.99,Brendan S. Walsh
+SCAN_20241122_017.jpg,T&E — Misc Scanned,Miscellaneous Scanned Receipt,2024-11-22,Logan Express,168.4,Dr. James H. Nguyen
+SCAN_20240114_018.jpg,T&E — Misc Scanned,Miscellaneous Scanned Receipt,2024-01-14,Reagan National Airport Newsstand,160.16,Priya M. Nair
+SCAN_20240603_019.jpg,T&E — Misc Scanned,Miscellaneous Scanned Receipt,2024-06-03,Logan Express,170.06,Priya M. Nair
+SCAN_20240225_020.jpg,T&E — Misc Scanned,Miscellaneous Scanned Receipt,2024-02-25,Pharmacy — Walgreens,19.48,Mitchell T. Crawford

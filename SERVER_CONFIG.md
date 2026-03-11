@@ -96,4 +96,24 @@ nginx -t && sudo systemctl reload nginx
 
 ---
 
+## Public Workshop Route
+
+The QHP Research front end can now expose a public static section at `/workshop/` while keeping the rest of the site behind the existing app-level password gate.
+
+If HTTP Basic Auth is turned on in nginx for the full domain, add a specific exemption for the workshop route:
+
+```nginx
+auth_basic "QHP Research — Authorized Access Only";
+auth_basic_user_file /etc/nginx/.htpasswd;
+
+location /workshop/ {
+	auth_basic off;
+	try_files $uri $uri/ =404;
+}
+```
+
+That keeps the main platform protected while allowing a direct public URL for workshop attendees.
+
+---
+
 *This file contains sensitive server information. Do not commit credentials to version control.*

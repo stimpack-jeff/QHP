@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
-import AuthGate from "@/components/AuthGate";
+import AppShell from "@/components/AppShell";
 
 const inter = Inter({
   variable: "--font-inter",
@@ -25,13 +25,7 @@ export default function RootLayout({
         className={`${inter.variable} antialiased`}
         style={{ fontFamily: 'Inter, -apple-system, BlinkMacSystemFont, sans-serif' }}
       >
-        <AuthGate>
-          <div className="min-h-screen bg-[#0d0d0d]">
-            <main className="overflow-auto p-6 md:p-8">
-              {children}
-            </main>
-          </div>
-        </AuthGate>
+        <AppShell>{children}</AppShell>
       </body>
     </html>
   );

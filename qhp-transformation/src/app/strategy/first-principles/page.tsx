@@ -59,7 +59,7 @@ export default function FirstPrinciplesPage() {
               <LightBulbIcon className="w-5 h-5 text-[#EF4B4C]" />
               <div>
                 <div className="text-xs text-gray-500 uppercase tracking-wider">Structure</div>
-                <div className="text-sm font-bold text-white">1 Axiom + 6 Principles</div>
+                <div className="text-sm font-bold text-white">1 Premise + 6 Principles</div>
               </div>
             </div>
             <div className="flex items-center gap-3">
@@ -91,17 +91,40 @@ export default function FirstPrinciplesPage() {
       <div className="max-w-5xl mx-auto px-8 py-16">
         <div className="space-y-24">
 
-          {/* PREMISE */}
+          {/* GOVERNING PREMISE */}
           <section className="relative py-12 px-12 bg-gradient-to-r from-[#EF4B4C]/10 via-transparent to-transparent rounded-2xl border-l-4 border-[#EF4B4C]">
-            <h3 className="text-xs font-bold text-[#EF4B4C] uppercase tracking-wider mb-4">Premise</h3>
-            <p className="text-2xl text-gray-300 leading-relaxed">
-              Do not attempt an AI transformation — of a company, a portfolio, or a technology — without understanding the forces that govern it.
+            <h3 className="text-xs font-bold text-[#EF4B4C] uppercase tracking-wider mb-4">The Governing Premise</h3>
+            <p className="text-xl italic text-[#EF4B4C]/80 mb-6 max-w-3xl leading-relaxed">
+              What used to take a team of five and a month now takes one person and a morning &mdash; and the one person&apos;s output is getting better every quarter.
             </p>
-            <p className="text-gray-500 mt-6 max-w-3xl">
-              These are first principles <em>about AI</em> that anyone undertaking transformation must reckon with. They are not a playbook. They are the governing truths that determine whether a transformation succeeds or fails, moves fast or stalls, creates durable value or temporary advantage.
+            <p className="text-lg text-gray-300 leading-relaxed mb-6 max-w-3xl">
+              Two forces are reshaping every knowledge-intensive business simultaneously:
             </p>
-            <p className="text-gray-400 font-semibold mt-4">
-              Ignore any one of them and the work will surprise you.
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
+              <div className="bg-[#1a1a1a]/60 rounded-xl border border-white/5 p-6">
+                <div className="flex items-center gap-3 mb-3">
+                  <ArrowTrendingDownIcon className="w-5 h-5 text-[#EF4B4C]" />
+                  <span className="text-sm font-bold text-white">Cost is declining toward zero</span>
+                </div>
+                <p className="text-sm text-gray-400 leading-relaxed">
+                  Knowledge retrieval, pattern-based analysis, codifiable expertise, code, content &mdash; anything that can be specified and repeated &mdash; AI produces at a fraction of yesterday&apos;s cost per unit, and that fraction shrinks every month.
+                </p>
+              </div>
+              <div className="bg-[#1a1a1a]/60 rounded-xl border border-white/5 p-6">
+                <div className="flex items-center gap-3 mb-3">
+                  <ArrowTrendingUpIcon className="w-5 h-5 text-[#EF4B4C]" />
+                  <span className="text-sm font-bold text-white">Quality is increasing toward and beyond human capability</span>
+                </div>
+                <p className="text-sm text-gray-400 leading-relaxed">
+                  AI is not just getting cheaper. It is getting better &mdash; more accurate, more contextual, more capable of complex reasoning. In a growing number of domains, AI output already matches or exceeds human expert performance. This trajectory continues.
+                </p>
+              </div>
+            </div>
+            <p className="text-gray-400 max-w-3xl leading-relaxed">
+              Either force alone would demand attention. Together, they make AI transformation not optional &mdash; and every principle in this document derives from them.
+            </p>
+            <p className="text-gray-400 font-semibold mt-6">
+              Ignore any one of these principles and the work will surprise you.
             </p>
           </section>
 
@@ -130,49 +153,23 @@ export default function FirstPrinciplesPage() {
           </section>
 
           {/* ═══════════════════════════════════════════ */}
-          {/* THE AXIOM */}
+          {/* PRINCIPLE 1: Generation ≠ Validation */}
           {/* ═══════════════════════════════════════════ */}
-          <section id="axiom">
-            <div className="relative rounded-2xl overflow-hidden bg-gradient-to-br from-[#1a1a1a] to-[#0d0d0d] border border-white/10 p-12">
-              {/* Large faded number */}
-              <div className="absolute top-4 right-8 text-[12rem] font-black text-white/[0.03] leading-none select-none pointer-events-none">
-                0
-              </div>
-              <div className="relative">
-                <div className="flex items-center gap-3 mb-6">
-                  <span className="inline-block px-3 py-1 bg-[#EF4B4C]/20 border border-[#EF4B4C]/30 rounded-full text-[#EF4B4C] text-xs font-bold uppercase tracking-wider">
-                    The Axiom
-                  </span>
-                  <span className="text-xs text-gray-600">Everything derives from this</span>
-                </div>
-                <h2 className="text-3xl md:text-4xl font-bold text-white tracking-tight leading-tight max-w-3xl">
-                  The marginal cost of reproducible cognitive labor is approaching zero.
-                </h2>
-                <p className="text-lg text-gray-400 mt-6 max-w-3xl leading-relaxed">
-                  Knowledge retrieval, pattern-based analysis, codifiable expertise, code, content — anything that can be specified and repeated — AI produces at near-zero marginal cost per unit.
-                </p>
-                <p className="text-sm text-gray-500 mt-4">
-                  This is the economic force that makes AI transformation necessary — and inevitable.
-                </p>
-              </div>
-            </div>
-          </section>
-
-          {/* ═══════════════════════════════════════════ */}
-          {/* PRINCIPLE 2: Generation ≠ Validation */}
-          {/* ═══════════════════════════════════════════ */}
-          <section id="principle-2">
+          <section id="principle-1">
             <div className="relative">
               <div className="absolute -left-2 top-0 text-[8rem] font-black text-white/[0.03] leading-none select-none pointer-events-none">
                 1
               </div>
               <div className="relative">
                 <span className="text-xs font-bold text-amber-400 uppercase tracking-wider">Principle 1</span>
-                <h2 className="text-3xl font-bold text-white tracking-tight mt-2 mb-4">
+                <h2 className="text-3xl font-bold text-white tracking-tight mt-2 mb-2">
                   Generation and Validation Are Different Cost Structures
                 </h2>
+                <p className="text-lg italic text-amber-400/70 mb-4 max-w-3xl">
+                  The first draft is free. The liability isn&apos;t.
+                </p>
                 <p className="text-lg text-gray-400 max-w-3xl leading-relaxed">
-                  The cost of <em>generating</em> intelligence approaches zero. The cost of <em>validating</em> it does not.
+                  The cost of <em>generating</em> intelligence is declining toward zero. The cost of <em>validating</em> it is not.
                 </p>
               </div>
             </div>
@@ -181,7 +178,7 @@ export default function FirstPrinciplesPage() {
               <div className="bg-[#1a1a1a] rounded-xl border border-white/5 p-8">
                 <div className="flex items-center gap-3 mb-4">
                   <ArrowTrendingDownIcon className="w-5 h-5 text-emerald-400" />
-                  <span className="text-sm font-bold text-emerald-400">Approaching Zero</span>
+                  <span className="text-sm font-bold text-emerald-400">Declining Toward Zero</span>
                 </div>
                 <p className="text-gray-400 leading-relaxed">
                   Generating a draft, an analysis, a recommendation, a block of code. The marginal cost per unit of intelligence produced.
@@ -190,7 +187,7 @@ export default function FirstPrinciplesPage() {
               <div className="bg-[#1a1a1a] rounded-xl border border-white/5 p-8">
                 <div className="flex items-center gap-3 mb-4">
                   <ArrowTrendingUpIcon className="w-5 h-5 text-amber-400" />
-                  <span className="text-sm font-bold text-amber-400">Not Approaching Zero</span>
+                  <span className="text-sm font-bold text-amber-400">Not Declining Toward Zero</span>
                 </div>
                 <p className="text-gray-400 leading-relaxed">
                   Verifying correctness, ensuring regulatory compliance, validating against reality. Skilled, substantial, and does not trend to zero.
@@ -200,7 +197,7 @@ export default function FirstPrinciplesPage() {
 
             <div className="mt-8 py-6 px-8 bg-gradient-to-r from-amber-500/10 via-transparent to-transparent rounded-xl border-l-4 border-amber-500">
               <p className="text-gray-400 leading-relaxed">
-                This is not a caveat to the Axiom. It is a separate economic fact — and the one most often underestimated by organizations beginning a transformation. It determines where AI deploys quickly, where it deploys slowly, and what the transformation actually costs.
+                This is not a caveat to the premise. It is a separate economic fact — and the one most often underestimated by organizations beginning a transformation. It determines where AI deploys quickly, where it deploys slowly, and what the transformation actually costs.
               </p>
             </div>
           </section>
@@ -215,9 +212,12 @@ export default function FirstPrinciplesPage() {
               </div>
               <div className="relative">
                 <span className="text-xs font-bold text-blue-400 uppercase tracking-wider">Principle 2</span>
-                <h2 className="text-3xl font-bold text-white tracking-tight mt-2 mb-4">
+                <h2 className="text-3xl font-bold text-white tracking-tight mt-2 mb-2">
                   Value Migrates to the Irreproducible
                 </h2>
+                <p className="text-lg italic text-blue-400/70 mb-4 max-w-3xl">
+                  If a competitor with AI can rebuild it in a weekend, it was never a moat.
+                </p>
                 <p className="text-lg text-gray-400 max-w-3xl leading-relaxed">
                   When the cost of reproducing something approaches zero, the value of that thing approaches zero. Value concentrates in whatever remains scarce and hard to replicate.
                 </p>
@@ -273,9 +273,12 @@ export default function FirstPrinciplesPage() {
               </div>
               <div className="relative">
                 <span className="text-xs font-bold text-rose-400 uppercase tracking-wider">Principle 3</span>
-                <h2 className="text-3xl font-bold text-white tracking-tight mt-2 mb-4">
+                <h2 className="text-3xl font-bold text-white tracking-tight mt-2 mb-2">
                   The Frontier of Reproducibility Moves
                 </h2>
+                <p className="text-lg italic text-rose-400/70 mb-4 max-w-3xl">
+                  Today&apos;s advantage is tomorrow&apos;s default setting.
+                </p>
                 <p className="text-lg text-gray-400 max-w-3xl leading-relaxed">
                   &ldquo;Irreproducible&rdquo; is not a fixed category. It is a shrinking frontier. What is hard to reproduce in 2026 may be trivially reproducible in 2028.
                 </p>
@@ -345,9 +348,12 @@ export default function FirstPrinciplesPage() {
               </div>
               <div className="relative">
                 <span className="text-xs font-bold text-purple-400 uppercase tracking-wider">Principle 4</span>
-                <h2 className="text-3xl font-bold text-white tracking-tight mt-2 mb-4">
+                <h2 className="text-3xl font-bold text-white tracking-tight mt-2 mb-2">
                   Advantage Compounds Only Through Proprietary Feedback Loops
                 </h2>
+                <p className="text-lg italic text-purple-400/70 mb-4 max-w-3xl">
+                  Your competitor can buy the same model. They can&apos;t buy your two years of data.
+                </p>
                 <p className="text-lg text-gray-400 max-w-3xl leading-relaxed">
                   Adopting AI creates temporary advantage. Your competitor buys the same tools and the market reprices.
                 </p>
@@ -398,9 +404,12 @@ export default function FirstPrinciplesPage() {
               </div>
               <div className="relative">
                 <span className="text-xs font-bold text-cyan-400 uppercase tracking-wider">Principle 5</span>
-                <h2 className="text-3xl font-bold text-white tracking-tight mt-2 mb-4">
+                <h2 className="text-3xl font-bold text-white tracking-tight mt-2 mb-2">
                   Changing the Cognitive Agent Changes the Architecture
                 </h2>
+                <p className="text-lg italic text-cyan-400/70 mb-4 max-w-3xl">
+                  You wouldn&apos;t design a highway for horses.
+                </p>
                 <p className="text-lg text-gray-400 max-w-3xl leading-relaxed">
                   Every workflow encodes the cognitive constraints of the agent performing it.
                 </p>
@@ -450,6 +459,16 @@ export default function FirstPrinciplesPage() {
                 The correct question: if we built this process today with AI as the cognitive agent and humans handling judgment, novelty, and physical work — what would it look like?
               </p>
             </div>
+
+            <div className="mt-6 py-6 px-8 bg-[#1a1a1a] rounded-xl border border-white/5">
+              <h4 className="text-white font-semibold mb-3">This Applies to Software Distribution Itself</h4>
+              <p className="text-gray-400 leading-relaxed">
+                The SaaS model — one platform serving millions — exists because building software was expensive. When a CRM costs $50M to build, you amortize it across 10 million subscribers. That&apos;s a shared-resource value model, and it made sense when cognitive labor was scarce. When building software is nearly free, individuals can build their own tools — <span className="text-cyan-400 font-medium">micro-applications</span> shaped to their exact workflow — instead of adapting to a platform designed for the average of everyone&apos;s needs.
+              </p>
+              <p className="text-gray-500 mt-3">
+                Inside every organization, the role of IT shifts from procuring and distributing software to <span className="text-white font-medium">setting compliance guardrails</span> (HIPAA, SOC 2, HITRUST, GDPR) and letting people build what they need. The architecture changes because the agent changed.
+              </p>
+            </div>
           </section>
 
           {/* ═══════════════════════════════════════════ */}
@@ -462,9 +481,12 @@ export default function FirstPrinciplesPage() {
               </div>
               <div className="relative">
                 <span className="text-xs font-bold text-emerald-400 uppercase tracking-wider">Principle 6</span>
-                <h2 className="text-3xl font-bold text-white tracking-tight mt-2 mb-4">
+                <h2 className="text-3xl font-bold text-white tracking-tight mt-2 mb-2">
                   The Bottleneck Shifts from Execution to Direction
                 </h2>
+                <p className="text-lg italic text-emerald-400/70 mb-4 max-w-3xl">
+                  When building is free, knowing what to build is the only thing that matters.
+                </p>
                 <p className="text-lg text-gray-400 max-w-3xl leading-relaxed">
                   When execution — building, analyzing, coding, drafting — is near-free, execution stops being the bottleneck. The constraint becomes knowing what to build and why.
                 </p>
@@ -512,18 +534,18 @@ export default function FirstPrinciplesPage() {
                 <h3 className="text-xs font-bold text-gray-500 uppercase tracking-wider mb-6">Summary</h3>
                 <div className="space-y-4">
                   {[
-                    { num: '0', label: 'The Axiom', insight: 'The marginal cost of reproducible cognitive labor is approaching zero.', color: 'text-[#EF4B4C]', border: 'border-[#EF4B4C]/20' },
-                    { num: '1', label: 'Generation ≠ Validation', insight: 'Generation costs trend to zero. Validation costs do not. Budget for both.', color: 'text-amber-400', border: 'border-amber-500/20' },
-                    { num: '2', label: 'Value → Irreproducible', insight: 'What AI can reproduce has no durable value. Point the transformation at what it cannot.', color: 'text-blue-400', border: 'border-blue-500/20' },
-                    { num: '3', label: 'The Frontier Moves', insight: 'Irreproducible is a shrinking frontier. The technology is ahead of institutions. The adoption gap is the opportunity.', color: 'text-rose-400', border: 'border-rose-500/20' },
-                    { num: '4', label: 'Feedback Loops Compound', insight: 'Transforming is what builds the moat. The data flywheel starts when AI goes live.', color: 'text-purple-400', border: 'border-purple-500/20' },
-                    { num: '5', label: 'New Agent, New Architecture', insight: 'Workflows encode human constraints. AI has different ones. Redesign, don\'t bolt on.', color: 'text-cyan-400', border: 'border-cyan-500/20' },
-                    { num: '6', label: 'Direction > Execution', insight: 'When building is free, knowing what to build is the scarcity. Domain experts lead.', color: 'text-emerald-400', border: 'border-emerald-500/20' },
+                    { num: '1', label: 'Generation ≠ Validation', headline: 'The first draft is free. The liability isn\'t.', insight: 'Generation costs decline toward zero. Validation costs do not.', color: 'text-amber-400', border: 'border-amber-500/20' },
+                    { num: '2', label: 'Value → Irreproducible', headline: 'Rebuilt in a weekend? Never a moat.', insight: 'What AI can reproduce has no durable value. Point the transformation at what it cannot.', color: 'text-blue-400', border: 'border-blue-500/20' },
+                    { num: '3', label: 'The Frontier Moves', headline: 'Today\'s advantage is tomorrow\'s default setting.', insight: 'Irreproducible is a shrinking frontier. The adoption gap is the opportunity.', color: 'text-rose-400', border: 'border-rose-500/20' },
+                    { num: '4', label: 'Feedback Loops Compound', headline: 'Same model, different data. That\'s the moat.', insight: 'Transforming is what builds the moat. The data flywheel starts when AI goes live.', color: 'text-purple-400', border: 'border-purple-500/20' },
+                    { num: '5', label: 'New Agent, New Architecture', headline: 'You wouldn\'t design a highway for horses.', insight: 'Workflows — and the entire SaaS model — encode human constraints. AI has different ones. Redesign, don\'t bolt on.', color: 'text-cyan-400', border: 'border-cyan-500/20' },
+                    { num: '6', label: 'Direction > Execution', headline: 'When building is free, knowing what to build is everything.', insight: 'Domain expertise is the new scarcity. Domain experts lead.', color: 'text-emerald-400', border: 'border-emerald-500/20' },
                   ].map((p) => (
                     <div key={p.num} className={`flex items-start gap-4 p-4 bg-[#1a1a1a] rounded-lg border ${p.border}`}>
                       <span className={`text-lg font-black ${p.color} w-6 text-center shrink-0`}>{p.num}</span>
                       <div>
                         <span className={`text-sm font-bold ${p.color}`}>{p.label}</span>
+                        <p className={`text-sm italic ${p.color} opacity-70 mt-0.5`}>{p.headline}</p>
                         <p className="text-sm text-gray-500 mt-0.5">{p.insight}</p>
                       </div>
                     </div>

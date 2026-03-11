@@ -9,7 +9,10 @@ import {
   RocketLaunchIcon,
   Squares2X2Icon,
   UserCircleIcon,
-  LightBulbIcon
+  LightBulbIcon,
+  WrenchScrewdriverIcon,
+  BriefcaseIcon,
+  BookOpenIcon
 } from "@heroicons/react/24/outline";
 
 export default function Sidebar() {
@@ -43,24 +46,9 @@ export default function Sidebar() {
         />
 
         <div className="pt-6 pb-2 px-3">
-          <p className="text-[10px] uppercase tracking-widest text-gray-500 font-bold">Demonstration</p>
+          <p className="text-[10px] uppercase tracking-widest text-gray-500 font-bold">Foundation</p>
         </div>
 
-        {/* The Hook: Azurity Demo */}
-        <NavItem 
-          href="#" 
-          label="Azurity O2E Platform" 
-          icon={<PresentationChartBarIcon className="w-5 h-5" />}
-          active={false}
-          onClick={() => window.open("http://107.172.187.251/", "_blank")}
-          external
-        />
-
-        <div className="pt-6 pb-2 px-3">
-          <p className="text-[10px] uppercase tracking-widest text-gray-500 font-bold">Transformation Strategy</p>
-        </div>
-
-        {/* AI First Principles */}
         <NavItem 
           href="/strategy/first-principles" 
           label="AI First Principles" 
@@ -68,7 +56,35 @@ export default function Sidebar() {
           active={pathname.includes('first-principles')} 
         />
 
-        {/* Phase 0: C-Suite Superpowers */}
+        <div className="pt-6 pb-2 px-3">
+          <p className="text-[10px] uppercase tracking-widest text-gray-500 font-bold">Value Creation</p>
+        </div>
+
+        <NavItem 
+          href="/value-creation" 
+          label="Transformation Playbook" 
+          icon={<BookOpenIcon className="w-5 h-5" />}
+          active={pathname === '/value-creation'} 
+        />
+
+        <NavItem 
+          href="/portfolio" 
+          label="Portfolio Companies" 
+          icon={<RocketLaunchIcon className="w-5 h-5" />}
+          active={pathname.startsWith("/portfolio")} 
+        />
+
+        <div className="pt-6 pb-2 px-3">
+          <p className="text-[10px] uppercase tracking-widest text-gray-500 font-bold">Firm Operations</p>
+        </div>
+
+        <NavItem 
+          href="/firm-ops" 
+          label="Firm AI & Deal Intel" 
+          icon={<BriefcaseIcon className="w-5 h-5" />}
+          active={pathname === '/firm-ops'} 
+        />
+
         <NavItem 
           href="/strategy/phase-0-executive-ai" 
           label="Phase 0: Executive AI" 
@@ -76,12 +92,17 @@ export default function Sidebar() {
           active={pathname.includes('phase-0')} 
         />
 
-        {/* Portfolio Transformation */}
+        <div className="pt-6 pb-2 px-3">
+          <p className="text-[10px] uppercase tracking-widest text-gray-500 font-bold">Demonstration</p>
+        </div>
+
         <NavItem 
-          href="/portfolio" 
-          label="Portfolio Matrix" 
-          icon={<RocketLaunchIcon className="w-5 h-5" />}
-          active={pathname.startsWith("/portfolio")} 
+          href="#" 
+          label="Azurity O2E Platform" 
+          icon={<PresentationChartBarIcon className="w-5 h-5" />}
+          active={false}
+          onClick={() => window.open("http://107.172.187.251/", "_blank")}
+          external
         />
         
         <div className="pt-6 pb-2 px-3">

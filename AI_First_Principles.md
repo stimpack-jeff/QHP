@@ -1,11 +1,19 @@
 # AI First Principles
 *Jeff Frazier | March 2026*
 
-## Premise
+## The Governing Premise
 
-Do not attempt an AI transformation — of a company, a portfolio, or a technology — without understanding the forces that govern it.
+> *What used to take a team of five and a month now takes one person and a morning — and the one person's output is getting better every quarter.*
 
-These are first principles *about AI* that anyone undertaking transformation must reckon with. They are not a transformation playbook. They are the governing truths that determine whether a transformation succeeds or fails, moves fast or stalls, creates durable value or temporary advantage.
+Two forces are reshaping every knowledge-intensive business simultaneously:
+
+1. **The cost of cognitive labor is declining toward zero.** Knowledge retrieval, pattern-based analysis, codifiable expertise, code, content — anything that can be specified and repeated — AI produces at a fraction of yesterday's cost per unit, and that fraction shrinks every month.
+
+2. **The quality of machine intelligence is increasing toward and eventually beyond human capability.** AI is not just getting cheaper. It is getting better — more accurate, more contextual, more capable of complex reasoning. In a growing number of domains, AI output already matches or exceeds human expert performance. This trajectory continues.
+
+Either force alone would demand attention. Together, they make AI transformation not optional — and every principle in this document derives from them.
+
+Do not attempt an AI transformation — of a company, a portfolio, or a technology — without understanding the forces that govern it. These principles are not a playbook. They are the governing truths that determine whether a transformation succeeds or fails, moves fast or stalls, creates durable value or temporary advantage.
 
 Ignore any one of them and the work will surprise you.
 
@@ -23,27 +31,21 @@ Everything else — taxonomies, frameworks, transition methodologies, applicatio
 
 ---
 
-## The Axiom
+## Principle 1: Generation and Validation Are Different Cost Structures
 
-**The marginal cost of reproducible cognitive labor is approaching zero.**
+> *The first draft is free. The liability isn't.*
 
-Knowledge retrieval, pattern-based analysis, codifiable expertise, code, content — anything that can be specified and repeated — AI produces at near-zero marginal cost per unit.
-
-This is the economic force that makes AI transformation necessary — and inevitable. Every principle that follows derives from it.
-
----
-
-## Principle 2: Generation and Validation Are Different Cost Structures
-
-The cost of *generating* intelligence approaches zero. The cost of *validating* it does not.
+The cost of *generating* intelligence is declining toward zero. The cost of *validating* it is not.
 
 In any domain where errors carry consequences — patient harm, regulatory action, financial liability — the validation layer is substantial, skilled, and does not trend to zero. The higher the stakes, the wider the gap between generation cost and total deployment cost.
 
-This is not a caveat to the Axiom. It is a separate economic fact — and the one most often underestimated by organizations beginning a transformation. It determines where AI deploys quickly, where it deploys slowly, and what the transformation actually costs.
+This is not a caveat to the premise. It is a separate economic fact — and the one most often underestimated by organizations beginning a transformation. It determines where AI deploys quickly, where it deploys slowly, and what the transformation actually costs.
 
 ---
 
-## Principle 3: Value Migrates to the Irreproducible
+## Principle 2: Value Migrates to the Irreproducible
+
+> *If a competitor with AI can rebuild it in a weekend, it was never a moat.*
 
 When the cost of reproducing something approaches zero, the value of that thing approaches zero. Value concentrates in whatever remains scarce and hard to replicate.
 
@@ -55,11 +57,13 @@ Any transformation that strengthens reproducible capabilities is building on san
 
 ---
 
-## Principle 4: The Frontier of Reproducibility Moves
+## Principle 3: The Frontier of Reproducibility Moves
+
+> *Today's advantage is tomorrow's default setting.*
 
 "Irreproducible" is not a fixed category. It is a shrinking frontier.
 
-What is hard to reproduce in 2026 may be trivially reproducible in 2028. The Axiom doesn't arrive all at once — it arrives in waves, each one collapsing the cost of a more complex category of cognitive labor. The sequence is roughly predictable: routine tasks fall first, then pattern-based expertise, then complex judgment, then novel reasoning under ambiguity. Physical operations and regulatory trust erode last, if at all.
+What is hard to reproduce in 2026 may be trivially reproducible in 2028. The premise doesn't arrive all at once — it arrives in waves, each one collapsing the cost of a more complex category of cognitive labor. The sequence is roughly predictable: routine tasks fall first, then pattern-based expertise, then complex judgment, then novel reasoning under ambiguity. Physical operations and regulatory trust erode last, if at all.
 
 **Critical observation:** The technology frontier is ahead of the institutional frontier. The capability to perform cross-domain synthesis, multi-source strategic reasoning, and scenario-based judgment under uncertainty already exists — a single practitioner with domain expertise and AI fluency can build what would have required large specialized teams 18 months ago. What lags is organizational willingness to trust, adopt, and restructure around these capabilities. The waves below reflect when these capabilities become *widely reproducible by ordinary organizations* — not when a skilled practitioner can first achieve them.
 
@@ -79,7 +83,9 @@ The gap between "a practitioner can do this" and "an organization routinely does
 
 ---
 
-## Principle 5: Advantage Compounds Only Through Proprietary Feedback Loops
+## Principle 4: Advantage Compounds Only Through Proprietary Feedback Loops
+
+> *Your competitor can buy the same model. They can't buy your two years of data.*
 
 Adopting AI creates temporary advantage. Your competitor buys the same tools and the market reprices.
 
@@ -89,7 +95,9 @@ The advantage is not in having AI. It is in the irreproducible data generated by
 
 ---
 
-## Principle 6: Changing the Cognitive Agent Changes the Architecture
+## Principle 5: Changing the Cognitive Agent Changes the Architecture
+
+> *You wouldn't design a highway for horses.*
 
 Every workflow encodes the cognitive constraints of the agent performing it. Human workflows evolved around serial processing, limited working memory, fatigue, context-switching cost, and variable-weighting limits.
 
@@ -99,9 +107,13 @@ Inserting AI into a human-optimized workflow preserves bottlenecks AI doesn't ne
 
 The correct question: if we built this process today with AI as the cognitive agent and humans handling judgment, novelty, and physical work — what would it look like?
 
+This applies to software distribution itself. The SaaS model — one platform serving millions of users — exists because building software was expensive. When a CRM costs $50M to build, you amortize it across 10 million subscribers. That's a shared-resource value model, and it made perfect sense when cognitive labor was scarce. But when building software is nearly free, the economics invert. Individuals can build their own tools — micro-applications shaped to their exact workflow — instead of adapting to a platform designed for the average of everyone's needs. The entire architecture of how software is created, distributed, and consumed was designed around the assumption that code is expensive. That assumption is failing. The implications extend beyond software companies: inside every organization, the role of IT shifts from procuring and distributing software to setting compliance guardrails (HIPAA, SOC 2, HITRUST, GDPR) and letting people build what they need. The architecture changes because the agent changed.
+
 ---
 
-## Principle 7: The Bottleneck Shifts from Execution to Direction
+## Principle 6: The Bottleneck Shifts from Execution to Direction
+
+> *When building is free, knowing what to build is the only thing that matters.*
 
 When execution — building, analyzing, coding, drafting — is near-free, execution stops being the bottleneck. The constraint becomes knowing what to build and why.
 
@@ -118,12 +130,12 @@ Everything below lived in previous versions. Removed because it is derivable, ta
 | Removed | Reason |
 |---------|--------|
 | The AI Taxonomy (8 categories) | Classification, not a principle. Useful, but belongs in an applied document. |
-| Shadow → Assist → Autopilot → Autonomy gradient | Transition methodology. Derives from Principle 5. |
-| "Software is going to zero" | Special case of the Axiom. Subsumed by Principle 3. |
-| Captured expertise as highest-value application | Tactical prioritization. Derives from Principles 3 + 6. |
-| Transaction cost collapse (Coase) | Derivable: coordination is cognitive labor; the Axiom applies. |
+| Shadow → Assist → Autopilot → Autonomy gradient | Transition methodology. Derives from Principle 4. |
+| "Software is going to zero" | Special case of the Governing Premise. Subsumed by Principle 2. |
+| Captured expertise as highest-value application | Tactical prioritization. Derives from Principles 2 + 5. |
+| Transaction cost collapse (Coase) | Derivable: coordination is cognitive labor; the premise applies. |
 | "Every domain is now structurable" | Observation about AI capability, not an economic principle. |
-| Competitive timing analysis | Derived from Principle 4. |
+| Competitive timing analysis | Derived from Principle 3. |
 | Evidence, examples, and portfolio applications | Support material. Restore in applied documents. |
 
 ---

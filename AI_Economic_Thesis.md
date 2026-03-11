@@ -5,11 +5,11 @@ For the underlying reasoning, see [AI First Principles](AI_First_Principles.md).
 
 ---
 
-## The Axiom
+## The Governing Premise
 
-**The marginal cost of reproducible cognitive labor is approaching zero.**
+**The cost of cognitive labor is declining toward zero — and the quality of machine intelligence is increasing toward and eventually beyond human capability.**
 
-The cost of *generating* intelligence approaches zero. The cost of *validating* it does not. In healthcare — where errors hit patients, trigger enforcement, and create liability — budget for both.
+The cost of *generating* intelligence is declining toward zero. The cost of *validating* it is not. In healthcare — where errors hit patients, trigger enforcement, and create liability — budget for both.
 
 This changes the economics of every company in the QHP portfolio.
 

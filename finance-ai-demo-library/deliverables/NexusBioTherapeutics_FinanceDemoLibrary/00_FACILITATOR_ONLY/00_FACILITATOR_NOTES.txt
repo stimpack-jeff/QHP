@@ -1,0 +1,177 @@
+
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║         NEXUS BIOTHERAPEUTICS — WORKSHOP EXERCISE FACILITATOR NOTES             ║
+║         AI Finance Transformation Workshop | QHP Capital                        ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
+
+EXERCISE 1 — COMPUTATIONAL INTELLIGENCE
+Files: EX1_COMPUTATIONAL_ThermoFisher_Invoice_A_original.pdf
+       EX1_COMPUTATIONAL_ThermoFisher_Invoice_B_duplicate.pdf
+
+What's planted:
+  Both invoices are for the exact same line items ($5,506.50 total) from Thermo
+  Fisher Scientific, dated March 15, 2024, referencing PO-20847.
+  Invoice A (INV-101825) was submitted via email on March 16, 2024.
+  Invoice B (INV-101828) was re-submitted 18 days later via vendor portal
+  under a NEW invoice number, claiming non-receipt.
+
+What AI should find:
+  Identical vendor + identical invoice date + identical line items + identical
+  total = duplicate submission. The only difference is the invoice number
+  (INV-101825 vs INV-101828). Without matching beyond just
+  invoice number, a human would likely approve both.
+
+Key teaching point:
+  This is COMPUTATIONAL intelligence. AI processes structured data at scale.
+  The match requires no analysis — just comparison. A human reviewing 40 AP
+  invoices would need to remember seeing this vendor/amount combination 18
+  days earlier. AI does it in milliseconds across 800 invoices.
+
+Discussion prompt:
+  "What would this duplicate have cost Nexus if paid? ($5,506.50). What if your
+  vendor submits 3 duplicates a year across 200 vendors? At what scale does
+  this become a material problem?"
+
+
+EXERCISE 2 — REASONING INTELLIGENCE
+Files: EX2_REASONING_VWR_PurchaseOrder.pdf
+       EX2_REASONING_VWR_Invoice.pdf
+       EX2_REASONING_VWR_ReceivingReport.jpg
+
+What's planted:
+  DISCREPANCY 1 — Unit price:
+    PO says $47.50/case. Invoice says $53.25/case. No price amendment exists.
+    This is a 12.1% unauthorized price increase.
+
+  DISCREPANCY 2 — Quantity:
+    Invoice bills for 4 cases. Receiving report shows only 3 cases arrived.
+    One case was either back-ordered or not shipped.
+
+  Correct payable amount: 3 cases × $47.50 = $142.50
+  Invoice amount:          4 cases × $53.25 = $213.00
+  Total discrepancy:       $70.50 (49% overbilling on this PO)
+
+What AI should find:
+  PO unit price ($47.50) ≠ Invoice unit price ($53.25) → price variance
+  Invoice qty (4) ≠ Receiving qty (3) → quantity variance
+  Therefore: correct payment = 3 × $47.50 = $142.50, not $213.00
+
+Key teaching point:
+  This is REASONING intelligence. AI must hold information from three separate
+  documents, identify the relationships between them, and DERIVE a conclusion
+  not stated in any single document. The discrepancy exists only at the
+  intersection of all three. No single document is wrong in isolation.
+
+Discussion prompt:
+  "How many PO/invoice/receiving sets does your AP team process per month?
+  What percentage do you think get a true three-way match review today?
+  What percentage just get invoice-approved if the amount 'looks right'?"
+
+
+EXERCISE 3 — REASONING → JUDGMENT BOUNDARY
+File: EX3_REASONING_JUDGMENT_CRO_NXTB301_August2024_ANOMALY.pdf
+
+What's planted:
+  NXTB-301-001 (LUMINANCE-1 Phase III)
+  August invoice total: $2,253,080.00
+  Total monthly budget: $1,840,000.00
+  Total overrun vs. budget: $413,080.00
+
+  Specifically:
+    Pass-Through Site Costs budget: $644,000.00/month
+    Pass-Through billed this month: $933,800.00 (145% of budget) ← PRIMARY FLAG
+    Data Management budget:         $276,000.00/month
+    Data Management billed:         $414,000.00 (150% of budget) ← SECONDARY FLAG
+
+  Combined overrun on flagged lines: $427,800.00
+    ($289,800.00 pass-through + $138,000.00 data management)
+
+  The invoice attributes the site cost spike to "Protocol Amendment 3.1" —
+  but no amendment paperwork was submitted to AP or the Controller.
+
+What AI should find (Reasoning):
+  Pass-through costs are 45% over monthly budget.
+  Data management is 50% over.
+  Combined overrun on flagged lines: $427,800.00.
+  Total invoice vs. total budget: $2,253,080.00 − $1,840,000.00 = $413,080.00.
+  Reference to "Protocol Amendment 3.1" with no supporting documentation.
+
+Where AI must stop (Judgment required):
+  AI cannot decide: approve / dispute / request documentation / escalate.
+  The right answer requires knowing: Was Amendment 3.1 real? Did the CFO
+  know about it? Does this affect Q3 guidance? Does Nexus's MSA allow
+  unilateral pricing per protocol changes?
+
+Key teaching point:
+  AI is a perfect early-warning system here. But the DECISION of what to do
+  with the warning requires choosing between defined options with consequences
+  the AI cannot weigh. That's Judgment. The human Controller's job is not
+  gone — it is clarified. They no longer find the anomaly. They decide what
+  to do about it.
+
+Discussion prompt:
+  "In your organization, who would normally catch this? How many months
+  would this anomaly persist before someone noticed the budget trend?
+  What does it mean for your close process if AI flags this on Day 2
+  instead of Day 10 of month-end?"
+
+
+EXERCISE 4 — REASONING → JUDGMENT BOUNDARY (different flavor)
+File: EX4_REASONING_JUDGMENT_Vega_ExpenseReport_ANOMALY.pdf
+
+What's planted:
+  Carlos M. Vega, Account Executive — Northeast
+  Trip: Key Account Sales Visit — McKesson & Cardinal Health, New York, October 3–4, 2024
+
+  Six of seven expense lines are entirely legitimate.
+  Line 5 (hidden in the middle of the report):
+    Date:        Saturday, October 5, 2024
+    Category:    Misc
+    Description: "CVS/pharmacy — prescription refill"
+    Vendor:      CVS Pharmacy #2847
+    Amount:      $127.40
+    Receipt:     Yes (a receipt WAS submitted — so "missing receipt" won't catch it)
+
+  Three overlapping signals:
+    1. "Prescription refill" = non-reimbursable personal medical expense per Nexus policy
+    2. October 5 is a Saturday — the trip concluded Friday October 4
+    3. CVS Pharmacy is not a business-category vendor
+
+What AI should find (Reasoning):
+  All three signals simultaneously. Note: AI should NOT flag this just because
+  it's at CVS — the description is the key. "Prescription refill" is unambiguous
+  personal medical expense language.
+
+Where AI must stop (Judgment required):
+  What to do: flag to HR / deny and request resubmission / approve and note /
+  payroll deduct. These are the defined options (the menu).
+  The right choice depends on: Is this the first offense? Is Carlos a top
+  performer? Does the manager want to be involved? Is $127.40 worth the friction?
+  AI cannot weigh those factors. A human manager must.
+
+Wisdom hint (bonus discussion):
+  "Is your expense policy written clearly enough that this situation
+  couldn't arise? Or is 'Misc' a category that invites ambiguity?"
+  That's a Wisdom question — it questions the FRAME (the policy itself),
+  not just the decision within the frame.
+
+Discussion prompt:
+  "How many expense reports does your finance team approve per month?
+  What's your current review process — does anyone read the descriptions?
+  How many of these slip through today, and what's the annual dollar exposure?"
+
+══════════════════════════════════════════════════════════════════════════════════
+SUGGESTED AI PROMPT FOR ALL EXERCISES:
+
+  "You are the Controller at Nexus BioTherapeutics, a clinical-stage
+   pharmaceutical company. I'm uploading [documents]. Review them carefully
+   and: (1) identify any discrepancies, policy violations, or anomalies,
+   (2) explain what specifically triggered each flag, (3) calculate the
+   financial exposure where applicable, and (4) for each issue, list the
+   options available to a human reviewer — but do NOT make the final
+   decision. Present your findings as a structured memo."
+
+This prompt is designed to demonstrate the Reasoning→Judgment boundary:
+AI is asked to find and explain (Reasoning), enumerate options (Judgment
+setup), but explicitly NOT to decide — keeping the human in the deciding role.
+══════════════════════════════════════════════════════════════════════════════════

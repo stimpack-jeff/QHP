@@ -1,17 +1,23 @@
 # QHP Capital AI Playbook
 *Jeff Frazier, Operating Partner – AI | Started March 2, 2026*
 
-This is the tactical application of QHP's [AI First Principles](AI_First_Principles.md) to the firm and its portfolio companies. The principles are universal truths. The [AI Economic Thesis](AI_Economic_Thesis.md) is the executive briefing. This playbook is how QHP executes on them.
+This is the tactical application of QHP's [AI First Principles](AI_First_Principles.md) to the firm and its portfolio companies.
+
+The First Principles document establishes the governing premise: **the cost of cognitive labor is declining toward zero, and the quality of machine intelligence is increasing toward and eventually beyond human capability.** Those two forces make AI transformation inevitable. This playbook is how QHP acts on them.
+
+The [AI Economic Thesis](AI_Economic_Thesis.md) is the executive briefing. This playbook is how we execute.
 
 ---
 
-## 1. Portfolio Collapsibility Assessment
+## 1. Which Portfolio Companies Are Hardest to Disrupt?
 
-*Applies First Principle 1 (Intelligence → Zero) and Principle 3 (Software → Zero)*
+*Applies the Governing Premise — as cognitive labor gets cheaper and better, which businesses are protected and which are exposed?*
 
-### Which QHP Companies Are Hard to Collapse?
+The portfolio is heavy on companies that touch physical patients, biological materials, clinical sites, and regulatory bodies. These businesses are hard to replicate with AI alone — and they stand to gain enormously from using AI internally.
 
-The portfolio is heavy on companies that touch physical patients, biological materials, clinical sites, and regulatory bodies. These businesses are hard to collapse — and they stand to gain enormously from AI-driven productivity.
+The question for each company: **how much of the value is in work that AI can do, versus things AI can't touch — physical operations, regulatory trust, human relationships?**
+
+We call this assessment a company's **collapsibility** — how much of its value sits in cognitive labor that AI can replicate cheaply, versus physical, regulatory, or relationship-based work that AI cannot. A highly collapsible company is one where most of the value is in the thinking work. A low-collapsibility company has value that AI can't touch — but can amplify.
 
 | Company | Collapsibility | Why | AI Posture |
 |---------|---------------|-----|-----------|
@@ -25,11 +31,17 @@ The portfolio is heavy on companies that touch physical patients, biological mat
 | **COPILOT** | Medium | Hub services — labor-intensive but process-driven, AI automation potential is enormous | **Aggressive adoption** — AI for benefits verification, prior auth automation, patient engagement, payer intelligence |
 | **AutoCruitment** | Medium-High | Patient recruitment platform — AI-native competitors emerging | **Urgent** — moat must shift to accumulated recruitment data, exclusive site relationships, conversion data |
 
-### Software Value Audit (Principle 3 Application)
+---
 
-For every portfolio company with a technology platform, answer:
+## 2. The Software Value Test
 
-**What does this platform contain that cannot be recreated by someone with an AI coding assistant and six months?**
+*Applies [Principle 2: Value Migrates to the Irreproducible](AI_First_Principles.md) — if a competitor with AI can rebuild it in a weekend, it was never a moat.*
+
+For every portfolio company with a technology platform, answer one question:
+
+**What does this platform contain that a well-funded competitor with AI couldn't recreate in six months?**
+
+If the answer is "the code" — that's not a moat anymore. Code is cognitive labor, and the cost of cognitive labor is heading to zero. The code has high collapsibility. The moat is in whatever the code sits on top of: the data it collected, the regulatory approvals it earned, the integrations it locked in, the relationships it built.
 
 | Company | Code Value | What's Actually Valuable |
 |---------|-----------|------------------------|
@@ -43,40 +55,136 @@ For every portfolio company with a technology platform, answer:
 - COPILOT and AutoCruitment: Immediately audit what proprietary data and integrations exist. This IS the company value, not the platform code.
 - All portfolio companies with software: Stop valuing the code. Start valuing and protecting the data, regulatory status, and exclusive relationships.
 
+### The SaaS Decomposition
+
+The Software Value Test doesn't just apply to our portfolio companies. It applies to every SaaS platform our portfolio companies pay for — and every SaaS platform our portfolio companies sell to others.
+
+SaaS is a shared-resource value model. Building a CRM cost $50M, so you built one and sold subscriptions to 10 million people. The per-unit economics only worked at scale. That logic made sense when software was expensive to build. It's failing now.
+
+When AI drops the cost of building software close to zero, the calculus changes: a clinical operations manager at Lexitas doesn't need a $50K/year trial management SaaS subscription. She needs a tool that does exactly what her team does, the way they do it. And she can now describe what she needs and have AI build it in an afternoon.
+
+This is the **micro-application shift** — individuals building bespoke, disposable software shaped to their exact workflow, instead of adapting their workflow to fit a platform designed for the average of a million customers. It doesn't replace all SaaS. It replaces the SaaS whose value was "we wrote sophisticated code" — which is the same collapsibility test from above.
+
+**What survives the micro-app shift:**
+- Platforms with **data gravity** — Salesforce isn't a CRM, it's 20 years of your customer interaction data. You can rebuild the UI, but not the data.
+- Platforms with **network effects** — LinkedIn isn't a database, it's 900 million people who agreed to be in the same room.
+- Platforms with **integration fabric** — Epic isn't an EHR, it's the nervous system of 250 health systems. Surescripts feeds, payer integrations, HL7/FHIR interop. You can rebuild the interface in a weekend. You cannot rebuild the connections.
+- Platforms with **regulatory certifications** — HITRUST, SOC 2, FDA Part 11 validation. These take years and millions. A micro-app has none of them.
+
+**What doesn't survive:**
+- Any SaaS platform whose primary value proposition is "we built a sophisticated tool that does X" — where X is describable in plain language and doesn't require proprietary data, network effects, or regulatory certifications to function.
+
+### Compliance as the New Guardrail
+
+Here's the deeper implication — and it changes how organizations operate internally.
+
+When anyone in a company can build their own software with AI, the question stops being "what software should we buy?" and starts being **"what compliance standards must your tool meet?"**
+
+Today, IT departments procure, evaluate, deploy, and maintain software for the organization. That role exists because building and managing software required specialized skill. When building software doesn't require specialized skill, the IT function shifts dramatically — from software provider to **compliance certifier.**
+
+The new organizational architecture looks like this:
+
+1. **IT/Compliance sets the guardrails**: "Any tool touching patient data must be HIPAA compliant. Any tool handling financial data must meet SOC 2 requirements. Any tool in our clinical operations must be HITRUST certified." These aren't optional — they're the rules of the road.
+2. **AI enforces the guardrails by default**: The AI building the micro-app knows what HIPAA compliance requires, what SOC 2 controls look like, what GDPR demands. Compliance isn't a six-month audit after the fact — it's baked into the generation.
+3. **Individuals build what they need**: The regulatory director builds her own FDA intelligence tool. The hub services manager builds his own payer research workflow. The quality director builds her own inspection readiness dashboard. They don't file a ticket with IT and wait three months.
+4. **IT validates and certifies**: Instead of building or buying software, IT reviews employee-built tools against compliance standards, certifies them for use, and monitors them. Think of it as building inspection — you can design your own house, but the inspector makes sure it meets code.
+
+This matters for QHP on both sides:
+
+**For portfolio companies as SaaS customers:** Every portfolio company currently spends significantly on SaaS subscriptions. A meaningful percentage — the internal workflow tools, the reporting dashboards, the project management platforms, the simple data tools — are candidates for replacement by employee-built micro-apps running within compliance guardrails. This is a real cost savings opportunity, and the result is tools shaped to actual workflows instead of generic platforms everyone has to adapt to.
+
+**For portfolio companies that ARE SaaS platforms (COPILOT, AutoCruitment):** The churn risk is no longer just another vendor. It's the customer's operations manager saying "I built something better over the weekend." The defense is the same: data gravity, regulatory certifications, integration fabric, and network effects. If the platform has those, micro-apps can't replace it. If the platform doesn't, micro-apps will.
+
+**For acquisition targeting:** SaaS companies experiencing declining net revenue retention may be seeing the early signal. Their customers aren't just switching to competitors — they're building their own tools. This is an acquisition opportunity at depressed valuations for targets with valuable data underneath a collapsing code moat.
+
 ---
 
-## 2. Expertise Capture Targets
+## 3. How Work Should Actually Change
 
-*Applies First Principle 5 (Captured Expertise)*
+*Applies [Principle 5: Changing the Cognitive Agent Changes the Architecture](AI_First_Principles.md) — you wouldn't design a highway for horses.*
 
-### Expert Dependency Audit Across Portfolio
+This is where most AI transformations fail. Not because the AI was wrong, but because it was dropped into a process that was designed around how humans think — and humans and AI think very differently.
 
-Every portfolio company depends on expensive expert consultants. These are the highest-value AI targets.
+Human workflows evolved around our limitations: we process things one at a time, we forget context, we get tired, we can only weigh a few variables at once. Every handoff, approval chain, and checklist in a portfolio company exists because of those constraints.
 
-| Domain | Who Charges for This | Typical Cost | Portfolio Companies Affected | AI Capture Approach |
-|--------|---------------------|-------------|------------------------------|-------------------|
-| **GxP Compliance (GCP, GMP, GLP)** | Compliance consultants | $400-800/hr | Azurity, Bend, Lexitas, Vector, Univo | RAG on full CFR/ICH corpus + inspection database + warning letters |
-| **FDA Regulatory Affairs** | Regulatory consultants | $500-1000/hr | Azurity, Bend, Applied StemCell | RAG + fine-tuning on submission decisions and FDA feedback |
-| **Reimbursement / Payer Strategy** | Market access consultants | $400-700/hr | Azurity, InformedDNA, COPILOT | RAG on CMS data + payer policies + HEOR literature |
-| **Clinical Protocol Design** | Protocol consultants | $400-600/hr | Lexitas, Vector | Fine-tuning on protocol decisions + enrollment outcomes |
-| **IRB/Ethics Review** | IRB reviewers | Per-review fees | Univo, Vector, Lexitas | RAG on regulations + historical review decisions |
-| **Pharmacovigilance** | Safety consultants | $300-600/hr | Azurity, Lexitas | RAG on MedWatch + safety databases + reporting requirements |
-| **Quality Systems & Audit Prep** | QA consultants | $300-500/hr | Azurity, Bend | RAG on CAPAs, audit findings, SOPs, inspection outcomes |
-| **Payer / Benefits Navigation** | Market access & hub specialists | $200-400/hr | COPILOT, Azurity | RAG on payer formularies + PA requirements + appeals data + coverage policies |
+AI has none of those limitations. But it has different ones: it can sound confident while being completely wrong, it can't exercise genuine judgment in situations nobody's seen before, and it can't do anything physical.
 
-### Priority Targets (Highest ROI)
+**The mistake:** Plugging AI into the existing workflow. This preserves bottlenecks that AI doesn't need (sequential approvals, manual data gathering) and adds no protection against failures AI does have (plausible-sounding wrong answers).
 
-1. **GxP Compliance AI** — Affects 5+ portfolio companies. Cross-portfolio leverage is enormous. Build once, deploy everywhere.
-2. **FDA Regulatory Intelligence** — Azurity and Bend spend heavily here. The corpus is publicly available (FDA.gov). The training data is accessible.
-3. **Payer / Benefits Intelligence** — COPILOT and Azurity both depend on payer navigation expertise. AI trained on prior auth outcomes, formulary data, and appeals history is a competitive weapon with clear ROI.
+**The right question for every process:** If we were designing this from scratch today — with AI doing the heavy cognitive lifting and humans handling judgment calls, novel situations, and physical work — what would it look like?
+
+### Workflow Redesign Priorities by Company
+
+| Company | Process to Redesign | Current Human Bottleneck | What It Should Look Like |
+|---------|--------------------|--------------------------|--------------------------|
+| **COPILOT** | Benefits verification & prior auth | Case-by-case manual research against payer policies | AI processes 80% of routine cases end-to-end; humans handle exceptions, appeals, and novel payer situations |
+| **Lexitas** | Site selection for new trials | Senior staff research site histories, call contacts, compile spreadsheets | AI scores every potential site against historical performance data; humans validate top candidates and manage relationships |
+| **Azurity** | Quality prediction in manufacturing | Quality team reviews batch records after production | AI monitors process parameters in real time, flags deviations before they become defects; quality team focuses on root cause analysis |
+| **AutoCruitment** | Ad targeting & patient matching | Campaign managers manually adjust targeting based on intuition | AI continuously optimizes targeting based on conversion data; humans focus on creative strategy and site relationships |
+| **Univo IRB** | Protocol review | Reviewers read each submission start to finish | AI pre-screens for common issues, highlights areas needing judgment; reviewers focus on ethical questions and edge cases |
+
+### The Redesign Test
+
+Before deploying AI into any workflow, ask three questions:
+
+1. **What bottlenecks in this process exist only because humans are slow, forgetful, or single-threaded?** Those disappear with AI.
+2. **Where in this process can AI produce a confident-sounding wrong answer that would cause real harm?** Those need human checkpoints.
+3. **If a new competitor built this process from scratch with AI at the center, how would they do it?** That's your target design.
 
 ---
 
-## 3. The 36-Month Growth Thesis
+## 4. Where Expert Knowledge Creates the Most Value
 
-*QHP's core AI allocation thesis — calibrated for the ~36-month hold period.*
+*Applies [Principle 6: The Bottleneck Shifts from Execution to Direction](AI_First_Principles.md) — when building is free, knowing what to build is the only thing that matters.*
+
+Every portfolio company pays expensive outside consultants for specialized knowledge — regulatory affairs, compliance, payer strategy, clinical design. These consultants charge $400-1,000/hr.
+
+The old framing was: "replace these consultants with AI." That misses the point.
+
+The real insight is this: **the people inside our portfolio companies who know what questions to ask — the regulatory directors, the clinical ops leads, the quality managers — they are now the most valuable people in the building.** They have the domain expertise. What they've always lacked is the cheap execution layer to act on it. AI provides that layer.
+
+So the play isn't just "build an AI that knows FDA regulations." It's: **put AI directly in the hands of the people who already understand the problem, and let them move at the speed of their knowledge instead of the speed of their budget.**
+
+The result is **captured expertise** — institutional knowledge that used to live only in someone's head, now encoded into systems that the whole organization can use. When your best regulatory director retires, their judgment shouldn't walk out the door. When an AI is trained on how they made decisions, that expertise compounds instead of disappearing.
+
+And here's what the old version of this document didn't account for: AI isn't just cheaper than the $800/hr consultant. In a growing number of areas, it's actually *better* — because it can synthesize across thousands of documents, spot patterns across the entire FDA warning letter database, or cross-reference every payer policy simultaneously. A single consultant brings 20 years of personal experience. AI brings the full corpus.
+
+### Where Domain Experts + AI Creates the Most Leverage
+
+| Domain | Who Knows What to Ask | What AI Now Handles | Portfolio Companies |
+|--------|----------------------|--------------------|-----------|
+| **Compliance (GCP, GMP, GLP)** | Internal quality & regulatory staff | RAG on the full CFR/ICH regulatory corpus — AI retrieves relevant sections from thousands of pages of regulations, cross-references against inspection findings, and flags gaps. *(RAG = retrieval-augmented generation: the AI searches a specific knowledge base rather than relying on general training.)* | Azurity, Bend, Lexitas, Vector, Univo |
+| **FDA Regulatory Strategy** | Regulatory affairs directors | RAG across FDA's full database of precedent decisions, guidance documents, and warning letters; fine-tuned on regulatory submission language to draft sections in the right voice. *(Fine-tuning = training the AI on your specific data so its outputs match your domain's standards.)* | Azurity, Bend, Applied StemCell |
+| **Payer & Reimbursement** | Market access managers, hub operations leads | RAG on payer policy databases, formulary data, and prior auth requirements; learns from appeals outcomes to improve success rates over time | Azurity, InformedDNA, COPILOT |
+| **Clinical Protocol Design** | Clinical operations leads | Analyzing historical protocol performance, enrollment patterns, and site capabilities across the full trial database | Lexitas, Vector |
+| **IRB/Ethics Review** | IRB directors and senior reviewers | RAG on regulatory requirements and submission history; pre-screens for common issues, highlights areas needing human judgment | Univo, Vector, Lexitas |
+| **Pharmacovigilance** | Safety officers | Monitoring adverse event databases, cross-referencing safety signals across the full FAERS dataset, drafting reports | Azurity, Lexitas |
+| **Quality Systems** | Quality directors | RAG on audit findings, inspection histories, and CAPA databases; prepares inspection readiness summaries | Azurity, Bend |
+| **Benefits Navigation** | Hub services managers | RAG on payer-specific requirements and coverage policies; drafts appeals using patterns from successful prior authorizations | COPILOT, Azurity |
+
+### Vocabulary Note
+
+Some of these terms are worth knowing because you'll encounter them in every AI vendor conversation:
+
+- **RAG (Retrieval-Augmented Generation)**: Instead of relying on what the AI was generally trained on, you point it at a specific knowledge base — like FDA regulations or payer policies — and it searches that source to answer questions. This is how you make AI an expert in *your* domain.
+- **Fine-tuning**: Training an AI model on your specific data so its outputs match your industry's standards and vocabulary. A fine-tuned model for regulatory submissions writes like a regulatory professional, not a generic chatbot.
+- **Captured expertise**: Institutional knowledge — the judgment calls, pattern recognition, and decision-making frameworks that live in your best people's heads — encoded into AI systems so the whole organization benefits and the knowledge compounds instead of walking out the door.
+
+### Where to Start (Highest Leverage)
+
+1. **Compliance AI across the portfolio** — Affects 5+ companies. Build a single RAG system on the full CFR/ICH/FDA regulatory corpus and deploy it to every regulatory and quality person across the portfolio. They get an AI research assistant that knows the full body of FDA regulations, inspection findings, and warning letters. This is the fastest path to cross-portfolio value and captured expertise.
+2. **FDA regulatory intelligence** — Azurity and Bend spend heavily on outside regulatory consultants. The knowledge base is publicly available (FDA.gov). Build RAG on it, fine-tune on submission language, and put it in the hands of the internal regulatory teams. Their domain knowledge plus AI's exhaustive recall is a better combination than any outside consultant.
+3. **Payer intelligence at COPILOT and Azurity** — Both companies navigate complex payer landscapes daily. RAG on prior authorization outcomes, formulary data, and appeals history turns every hub services employee into someone with the knowledge of a 20-year market access veteran. Each case processed further fine-tunes the system — this is captured expertise compounding.
+
+---
+
+## 5. The 36-Month Growth Thesis
+
+*Applies the Governing Premise and [Principle 4: Feedback Loops Compound](AI_First_Principles.md) — deploy early, let the data accumulate, and the advantage compounds over the hold period.*
 
 QHP Capital targets ~36-month ownership windows. This is not a long enough horizon for cost-cutting to be the primary AI strategy. **The math overwhelmingly favors using AI for growth and expansion over downsizing and efficiency.**
+
+Two things make this thesis stronger than it was even six months ago. First, the cost of building AI applications continues to drop — meaning the investment required to deploy growth-oriented AI is shrinking every quarter. Second, the quality of AI output is increasing — meaning AI-augmented employees aren't just faster, they're making better decisions, catching more opportunities, and serving more customers at a higher standard than they could alone.
 
 ### Why 36 Months = Growth
 
@@ -92,7 +200,7 @@ QHP Capital targets ~36-month ownership windows. This is not a long enough horiz
 
 ### The QHP AI Allocation Formula
 
-**Months 1-6**: Surgical efficiency cuts in back-office (finance, HR, admin) using AI. Savings fund growth-oriented AI deployment in revenue-facing functions. This is the fuel, not the engine.
+**Months 1-6**: Surgical efficiency cuts in back-office (finance, HR, admin) using AI. Audit SaaS spend across the company — identify subscriptions that can be replaced by employee-built micro-apps within compliance guardrails. Both savings streams fund growth-oriented AI deployment in revenue-facing functions. This is the fuel, not the engine.
 
 **Months 6-24**: Primary thrust is growth. AI deployed into sales, marketing, clinical operations, R&D, customer success, and manufacturing throughput. Every dollar of AI investment measured against revenue acceleration, not cost savings.
 
@@ -144,11 +252,11 @@ The compliance cost for a new AI deployment in 2028 will be multiples of what it
 
 ---
 
-## 4. Data Flywheel Deployment Priority
+## 6. Data Flywheel Deployment Priority
 
-*Applies First Principle 2 (AI Advantage Compounds Through Operational Data)*
+*Applies [Principle 4: Advantage Compounds Only Through Proprietary Feedback Loops](AI_First_Principles.md) — your competitor can buy the same model; they can't buy your two years of data.*
 
-Deploy AI into live operations NOW at these companies — imperfectly is fine. The flywheel only starts when AI is live.
+Deploy AI into live operations NOW at these companies — imperfectly is fine. The flywheel only starts when AI is live. Each interaction generates data that fine-tunes the models and feeds the RAG systems, making them more accurate and more valuable over time. This is what turns a tool into a moat.
 
 | Company | Flywheel Target | Data Generated | Competitive Gap Created |
 |---------|----------------|----------------|----------------------|
@@ -161,9 +269,9 @@ Deploy AI into live operations NOW at these companies — imperfectly is fine. T
 
 ---
 
-## 5. Acquisition Targeting Framework
+## 7. Acquisition Targeting Framework
 
-*Applies First Principles 3 (Software → Zero)*
+*Applies [Principle 2: Value Migrates to the Irreproducible](AI_First_Principles.md) and [Principle 3: The Frontier Moves](AI_First_Principles.md) — what looks like a moat today may not survive the hold period.*
 
 ### AI Impact Assessment for Every Deal
 
@@ -182,22 +290,24 @@ Every deal memo should include an **AI Scenario Impact** section:
 2. **What proprietary data assets does this company have that increase in value with AI?** Strip away the software — what's left?
 3. **What's the AI-driven value creation plan, and what's it worth at exit?** Quantify the EBITDA impact.
 
-### Target Scoring (Software Value Principle)
+### Target Scoring (Collapsibility Assessment)
 
-When evaluating technology-enabled targets:
+When evaluating technology-enabled targets, assess their collapsibility — how much of the value is in replicable cognitive labor versus durable assets:
 
-| Signal | Interpretation | Action |
+| Signal | Collapsibility | Action |
 |--------|---------------|--------|
-| "Great technology platform" | The code is the moat → moat is evaporating | Discount aggressively or walk away |
-| Large proprietary dataset | Data is the moat → moat strengthens with AI | Premium justified |
-| Regulatory validation (FDA, Part 11) | Years + millions to replicate | Strong moat — value appropriately |
-| Exclusive data integrations (EMR, payer feeds) | Structural moat → hard to replicate | Premium justified |
-| Network effects / marketplace dynamics | Multi-sided platform → defensible | Premium justified |
-| "50-person engineering team built this" | Cost to replicate just dropped 90% | DO NOT pay for the team — pay for the data |
+| "Great technology platform" | High collapsibility — code moat is evaporating | Discount aggressively or walk away |
+| Large proprietary dataset | Low collapsibility — data moat strengthens with AI | Premium justified |
+| Regulatory validation (FDA, Part 11) | Low collapsibility — years + millions to replicate | Strong moat — value appropriately |
+| Exclusive data integrations (EMR, payer feeds) | Low collapsibility — structural, hard to replicate | Premium justified |
+| Network effects / marketplace dynamics | Low collapsibility — multi-sided platform, defensible | Premium justified |
+| "50-person engineering team built this" | High collapsibility — cost to replicate just dropped 90% | DO NOT pay for the team — pay for the data |
+| Declining net revenue retention | High collapsibility — customers may be building their own micro-apps | Investigate whether churn is to competitors or to self-built tools. If self-built, the code moat is already gone. |
+| HITRUST/SOC 2/FDA Part 11 certified | Low collapsibility — customers can't self-build compliance | Certifications are a moat against the micro-app shift. Value appropriately. |
 
 ### Disruption Targets
 
-Companies whose primary moat is "we spent $50M and 5 years building this platform" are now vulnerable. The value is in the code complexity, and AI just evaporated that moat. These are acquisition targets at **depressed valuations** — buy the data and relationships, throw away the code, rebuild with AI.
+Companies whose primary moat is "we spent $50M and 5 years building this platform" are now vulnerable — they have high collapsibility. AI made the code easy to replicate. The only durable value is what the code was built on top of — the data, the relationships, the regulatory status. These are acquisition targets at **depressed valuations** — buy the data, the captured expertise, and the relationships, then rebuild the software with AI for a fraction of the original cost.
 
 **Industries to scan**:
 - Hub services / patient support platforms (competitors to COPILOT)
@@ -208,9 +318,9 @@ Companies whose primary moat is "we spent $50M and 5 years building this platfor
 
 ---
 
-## 6. AI Resource Concentration Model
+## 8. AI Resource Concentration Model
 
-*In a multi-company portfolio, the company that adopts AI fastest generates more operational data, builds better models, and pulls away. The math favors concentration over even distribution.*
+*In a multi-company portfolio, the company that adopts AI fastest generates more operational data, builds better models, and pulls ahead. This is Principle 4 in action — the feedback loop compounds. The math favors concentration over even distribution.*
 
 ### Portfolio Ranking: AI Investment Priority
 
@@ -230,7 +340,7 @@ Rank on two dimensions: (1) magnitude of AI value creation potential, (2) compet
 
 ---
 
-## 7. Firm-Level AI Applications
+## 9. Firm-Level AI Applications
 
 ### Leadership Imperative
 
@@ -273,7 +383,7 @@ AI-powered capabilities for QHP's investment process:
 
 ---
 
-## 8. External Research Synthesis
+## 10. External Research Synthesis
 
 *What the smartest organizations are saying — and what it means for QHP.*
 
@@ -281,7 +391,7 @@ AI-powered capabilities for QHP's investment process:
 
 | Source | Key Insight | QHP Implication |
 |--------|-----------|----------------|
-| **McKinsey** (200+ transformations) | Only 6% are "AI high performers." They redesign workflows, don't bolt on tools. Senior leaders who model AI use create 3x more value. | Validates Phase 0 Executive AI. Redesign processes at every portfolio company, don't just buy Copilot licenses. |
+| **McKinsey** (200+ transformations) | Only 6% are "AI high performers." They redesign how work gets done, not just bolt on tools. Senior leaders who personally use AI create 3x more value. | Validates Phase 0 Executive AI and Section 3 (workflow redesign). Don't just buy licenses — rethink how each process works. |
 | **Sequoia Capital** | $600B gap between AI infrastructure spend and actual revenue. GPU computing is commodity. | Don't overspend on AI infrastructure. Start with specific, revenue-generating applications, not "AI platforms." |
 | **a16z** | "Romanticizing Inorganic Growth" — use AI to improve economics, then acquire. Healthcare "Super Staffing" — AI as specialist labor. | This IS QHP's strategy. Use AI-driven EBITDA improvement as acquisition currency. Tap labor budgets, not IT budgets. |
 | **World Economic Forum** | "Shift-left" — build safety/governance in from start. Value-based change management. | Non-negotiable for portfolio companies handling patient data or clinical decisions. |
@@ -297,9 +407,9 @@ AI-powered capabilities for QHP's investment process:
 
 ---
 
-## 9. AI Maturity Assessment Framework
+## 11. AI Maturity Assessment Framework
 
-*Every process at every portfolio company sits somewhere on a maturity curve. This framework provides a common language for assessing where processes are today and where AI can move them.*
+*Every process at every portfolio company sits somewhere on a maturity curve. This framework provides a common language for assessing where things stand today and where AI can move them. This ladder is the operational version of [Principle 3: The Frontier Moves](AI_First_Principles.md) — each level represents a wave of the collapse sequence applied to a specific process at a specific company.*
 
 ### Measure Before You Build
 
@@ -352,30 +462,32 @@ The test harness comes before the model. The scoreboard comes before the game.
 
 1. **A process is only at a level if it meets every criterion for that level.** Partial doesn't count.
 2. **Assessment is based on the worst-performing sub-process.** A chain is only as strong as its weakest link.
-3. **Reassess quarterly.** Maturity can regress if data pipelines break, key personnel leave, or models drift.
+3. **Reassess quarterly.** Maturity can regress if data pipelines break, key personnel leave, or models drift. *(Model drift = the AI's accuracy degrades over time as the real world changes but the model's training data doesn't. It's the AI equivalent of someone whose knowledge is ten years out of date.)*
 
 *Adapted from Wissner-Gross & Diamandis, "Solve Everything" (2026), L0-L5 Maturation Curve.*
 
 ---
 
-## 10. Implementation Roadmap
+## 12. Implementation Roadmap
 
 ### Q1 2026: Foundations
 - [ ] Phase 0 Executive AI deployment to all partners and portfolio CEOs
-- [ ] Portfolio collapsibility assessment (share with investment committee)
+- [ ] Portfolio disruption assessment (share with investment committee)
 - [ ] AI resource concentration model approved
-- [ ] Expert dependency audit initiated across Tier 1 companies
-- [ ] Process maturity assessment (Section 9) for Tier 1 companies — baseline all priority processes
+- [ ] Expert knowledge audit initiated across Tier 1 companies
+- [ ] Process maturity assessment (Section 11) for Tier 1 companies — baseline all priority processes
+- [ ] Workflow redesign assessment for Tier 1 companies (Section 3)
 
 ### Q2 2026: First Deployments
 - [ ] Data flywheel deployments live at Azurity and COPILOT (Tier 1 companies)
-- [ ] GxP Compliance AI prototype (cross-portfolio)
+- [ ] Compliance AI prototype (cross-portfolio)
 - [ ] Deal Intelligence AI tools in use for active pipeline
-- [ ] Software value audit complete for COPILOT and AutoCruitment
+- [ ] Software value test complete for COPILOT and AutoCruitment
+- [ ] First workflow redesigns implemented at COPILOT and Azurity
 
 ### Q3 2026: Scale
 - [ ] Tier 2 company AI deployments initiated
-- [ ] Expertise AI for FDA Regulatory Intelligence live
+- [ ] FDA Regulatory Intelligence AI live
 - [ ] Portfolio monitoring AI dashboard operational
 - [ ] First AI-driven acquisition target identified using new screening framework
 

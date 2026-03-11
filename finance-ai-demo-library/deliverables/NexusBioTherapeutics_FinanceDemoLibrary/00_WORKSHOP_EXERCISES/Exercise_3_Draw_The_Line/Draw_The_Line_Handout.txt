@@ -1,0 +1,70 @@
+
+NEXUS BIOTHERAPEUTICS — AI FINANCE WORKSHOP
+Exercise 3: Draw the Line
+═══════════════════════════════════════════════════════════════════════════════
+
+You've just seen AI process an AP batch and build a CRO accrual schedule.
+Now apply what you observed.
+
+For each task below, mark ONE column:
+
+  FULL AI         = AI does it end-to-end, no human touch
+  AI + HUMAN      = AI does the work, human reviews/approves
+  HUMAN + AI      = Human leads, AI supports with data/drafts
+  HUMAN ONLY      = AI has no meaningful role
+
+                                                FULL    AI +    HUMAN   HUMAN
+  TASK                                          AI      HUMAN   + AI    ONLY
+  ──────────────────────────────────────────────────────────────────────────
+  1. Extract data from 200 invoices              [ ]     [ ]     [ ]     [ ]
+
+  2. Match invoices to POs and flag exceptions   [ ]     [ ]     [ ]     [ ]
+
+  3. Generate journal entries for clean matches  [ ]     [ ]     [ ]     [ ]
+
+  4. Approve payment on a flagged duplicate      [ ]     [ ]     [ ]     [ ]
+
+  5. Write month-end variance commentary         [ ]     [ ]     [ ]     [ ]
+
+  6. Decide whether to continue funding a        [ ]     [ ]     [ ]     [ ]
+     clinical trial that's over budget
+
+  7. Produce the 13-week cash flow forecast      [ ]     [ ]     [ ]     [ ]
+
+  8. Decide whether your CRO relationship        [ ]     [ ]     [ ]     [ ]
+     is still the right strategic choice
+
+  9. Detect a personal charge buried in an       [ ]     [ ]     [ ]     [ ]
+     expense report
+
+  10. Decide whether to enforce your expense     [ ]     [ ]     [ ]     [ ]
+      policy on a top-performing sales rep
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+INTELLIGENCE FRAMEWORK ANSWER KEY (for facilitator use — do not distribute)
+
+  1.  FULL AI      — Computational. Pure data extraction at scale.
+  2.  FULL AI      — Computational + Reasoning. Cross-referencing structured data.
+  3.  FULL AI      — Computational. Rules-based entry generation.
+  4.  AI + HUMAN   — AI flags it (Reasoning). Human decides: void / contact vendor /
+                     escalate. That's Judgment — choosing from a menu of options.
+  5.  AI + HUMAN   — AI drafts the narrative (Reasoning + Creative). Human edits
+                     for voice, emphasis, and strategic framing.
+  6.  HUMAN + AI   — AI surfaces the data (Reasoning). The decision requires
+                     Wisdom — questioning whether the trial's strategic frame is
+                     still correct. No menu of predefined options captures this.
+  7.  FULL AI      — Predictive + Reasoning. Pattern-based forecasting within
+                     a defined model.
+  8.  HUMAN ONLY   — Pure Wisdom. Questioning whether the entire CRO relationship
+                     frame is right. AI has no basis for this assessment.
+  9.  FULL AI      — Reasoning. Policy application across structured line items.
+                     AI catches it faster and more consistently than humans.
+  10. HUMAN + AI   — AI identifies the violation (Reasoning). The enforcement
+                     decision requires Judgment at minimum (choose: enforce /
+                     waive / counsel). But the deeper question — "Is our policy
+                     even written clearly enough?" — is Wisdom.
+
+═══════════════════════════════════════════════════════════════════════════════
+  QHP Capital | AI Finance Transformation Workshop | March 2026

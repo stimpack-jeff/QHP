@@ -1,0 +1,62 @@
+NEXUS BIOTHERAPEUTICS FINANCE DEMO LIBRARY
+=======================================================
+Total Documents: 817
+
+CATEGORY                                  COUNT
+------------------------------------------------
+AP — Accounts Payable                        78
+AP — Purchasing                              46
+AP — Receiving                               35
+AP — Vendor Statements                       12
+AR — Accounts Receivable                     47
+AR — Aging                                    4
+AR — Remittances                             24
+AR — Trade                                   12
+CMO — Manufacturing                          24
+Fax Documents                                12
+Financial Statements                         20
+GL — Journal Entries                        133
+GL — Reports                                 12
+GL — Trial Balance                            4
+Legal — Professional Services                14
+Payroll                                      52
+R&D — Clinical Trials                        36
+T&E — Airfare                                28
+T&E — Expense Reports                        22
+T&E — Ground Transport                       30
+T&E — Hotel                                  32
+T&E — Meals                                  38
+T&E — Misc                                   18
+T&E — Misc Scanned                           20
+Treasury                                     28
+Treasury — Banking                           36
+
+COMPANY PROFILE
+=======================================================
+  name: Nexus BioTherapeutics, Inc.
+  short_name: Nexus BioTherapeutics
+  ticker: NXTB
+  exchange: NASDAQ
+  ein: 47-3829156
+  duns: 08-244-5519
+  dea_number: BN4829031
+  fda_ndc_labeler: 73829
+  address_line1: 200 Cambridge Park Drive
+  address_line2: Suite 400
+  city: Cambridge
+  state: MA
+  zip: 02140
+  phone: (617) 555-0190
+  fax: (617) 555-0191
+  website: www.nexusbiotx.com
+  ir_email: ir@nexusbiotx.com
+  founded: 2009
+  employees: 1847
+  fiscal_year: Calendar Year
+  annual_revenue: 384200000
+  annual_rd: 142000000
+  annual_sga: 89000000
+  cash_balance: 287000000
+  primary_bank: JPMorgan Chase
+  auditor: Deloitte & Touche LLP
+  legal_counsel: Goodwin Procter LLP
