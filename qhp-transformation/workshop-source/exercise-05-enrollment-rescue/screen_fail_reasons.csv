@@ -1,0 +1,7 @@
+reason_code,reason_label,jan_cases,feb_cases,mar_cases,apr_cases,trend_note
+SF-01,Washout period not met,6,7,8,9,rising after protocol amendment v4.2
+SF-02,ANC below threshold,5,5,6,7,stable-to-rising
+SF-03,Prior therapy exclusion conflict,4,5,7,8,rising at EU sites
+SF-04,Patient declined travel burden,3,4,5,6,concentrated at rural US catchments
+SF-05,Tumor sample timing missed,2,3,4,5,linked to pathology turnaround
+SF-06,Insurance authorization delay,2,2,3,5,worse at community referrals

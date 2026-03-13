@@ -1,0 +1,100 @@
+{
+  "lastResetAt": null,
+  "entries": [
+    {
+      "clientId": "qa-local-1",
+      "firstName": "QA",
+      "companyName": "Copilot",
+      "totalCorrect": 3,
+      "totalQuestions": 30,
+      "lockedExercises": 1,
+      "lockedQuestions": 3,
+      "answeredQuestions": 3,
+      "scorePercent": 10,
+      "createdAt": "2026-03-12T03:26:13.944Z",
+      "updatedAt": "2026-03-12T03:26:33.493Z",
+      "exerciseScores": [
+        {
+          "exerciseId": "exercise-01-ap-batch",
+          "shortTitle": "AP Batch",
+          "correctAnswers": 3,
+          "totalQuestions": 3,
+          "answeredQuestions": 3,
+          "locked": true
+        },
+        {
+          "exerciseId": "exercise-02-cro-accrual",
+          "shortTitle": "CRO Accrual",
+          "correctAnswers": 0,
+          "totalQuestions": 3,
+          "answeredQuestions": 0,
+          "locked": false
+        },
+        {
+          "exerciseId": "exercise-03-draw-the-line",
+          "shortTitle": "Draw the Line",
+          "correctAnswers": 0,
+          "totalQuestions": 3,
+          "answeredQuestions": 0,
+          "locked": false
+        },
+        {
+          "exerciseId": "exercise-04-expense-review",
+          "shortTitle": "Expense Review",
+          "correctAnswers": 0,
+          "totalQuestions": 3,
+          "answeredQuestions": 0,
+          "locked": false
+        },
+        {
+          "exerciseId": "exercise-05-enrollment-rescue",
+          "shortTitle": "Enrollment Rescue",
+          "correctAnswers": 0,
+          "totalQuestions": 3,
+          "answeredQuestions": 0,
+          "locked": false
+        },
+        {
+          "exerciseId": "exercise-06-capa-investigation",
+          "shortTitle": "CAPA Investigation",
+          "correctAnswers": 0,
+          "totalQuestions": 3,
+          "answeredQuestions": 0,
+          "locked": false
+        },
+        {
+          "exerciseId": "exercise-07-safety-signal",
+          "shortTitle": "Safety Signal",
+          "correctAnswers": 0,
+          "totalQuestions": 3,
+          "answeredQuestions": 0,
+          "locked": false
+        },
+        {
+          "exerciseId": "exercise-08-regulatory-impact",
+          "shortTitle": "Regulatory Impact",
+          "correctAnswers": 0,
+          "totalQuestions": 3,
+          "answeredQuestions": 0,
+          "locked": false
+        },
+        {
+          "exerciseId": "exercise-09-supply-chain-disruption",
+          "shortTitle": "Supply Chain",
+          "correctAnswers": 0,
+          "totalQuestions": 3,
+          "answeredQuestions": 0,
+          "locked": false
+        },
+        {
+          "exerciseId": "exercise-10-clinical-ops-manager",
+          "shortTitle": "Ops Manager",
+          "correctAnswers": 0,
+          "totalQuestions": 3,
+          "answeredQuestions": 0,
+          "locked": false
+        }
+      ]
+    }
+  ]
+}

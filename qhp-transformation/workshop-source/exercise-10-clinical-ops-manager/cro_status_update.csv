@@ -1,0 +1,6 @@
+workstream,owner,status,risk_level,next_milestone,comment
+Site monitoring,PPD CRA Lead,amber,medium,close overdue visit reports by Mar 13,three reports >10 days late
+Query management,PPD Data Ops,red,high,reduce open aging >14 days by 30%,US-104 and US-109 driving backlog
+Vendor management,PPD PM,amber,medium,confirm pathology courier workaround,awaiting final owner from sponsor
+Start-up,PPD Start-Up Lead,amber,medium,amend site CTA templates for DE and ES,legal comments still open
+Recruitment analytics,PPD Enrollment Lead,green,low,refresh recovery dashboard by Mar 12,no blocker

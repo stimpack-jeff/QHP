@@ -1,0 +1,6 @@
+sample_id,location,time_collected,result_cfu,alert_limit,action_limit,status,comment
+EM-2411,Suite B filling line left port,06:46,1,1,3,alert,first alert in 60 days
+EM-2412,Suite B operator B glove,07:03,3,1,1,action,requires deviation linkage review
+EM-2413,Suite B background settle plate,07:10,0,1,3,normal,clean
+EM-2414,Material airlock interior handle,05:58,2,1,3,alert,repeat alert in prior month
+EM-2415,Shift handoff tablet station,06:35,4,1,3,action,not sanitized between operators

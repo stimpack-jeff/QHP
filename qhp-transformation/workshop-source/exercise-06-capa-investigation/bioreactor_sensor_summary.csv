@@ -1,0 +1,8 @@
+timestamp,parameter,reading,lower_limit,upper_limit,within_limit,comment
+2026-03-11 05:50,Room differential pressure,14.2,10.0,20.0,yes,stable
+2026-03-11 06:05,Room differential pressure,13.9,10.0,20.0,yes,stable
+2026-03-11 06:18,Line setup sanitized,complete,,,yes,operator log entry
+2026-03-11 06:22,Shift handoff started,complete,,,yes,supervisor requested sign-off
+2026-03-11 06:49,Line clearance restarted,complete,,,no,27-minute delay from sanitize complete
+2026-03-11 06:52,Particle count Grade B,3480,0,3520,yes,near alert threshold
+2026-03-11 07:03,Glove fingertip sample,3,0,1,no,operator B exceeded action limit

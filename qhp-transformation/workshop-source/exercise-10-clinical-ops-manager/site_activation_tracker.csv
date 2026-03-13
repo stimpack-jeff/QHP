@@ -1,0 +1,7 @@
+site_id,site_name,country,status,contract_complete,irb_complete,siv_complete,first_patient_in,last_update
+US-101,Mass General Cancer Center,US,enrolling,yes,yes,yes,2026-01-12,stable
+US-104,Duke Cancer Institute,US,enrolling,yes,yes,yes,2026-01-26,query backlog risk
+DE-203,Charite Berlin,DE,activated-no-screen,yes,yes,yes,,awaiting amendment clarification
+ES-221,Vall d'Hebron,ES,activated-no-screen,yes,yes,yes,,awaiting amendment clarification
+PL-244,National Oncology Institute Warsaw,PL,start-up,yes,no,no,,ethics committee response due Mar 15
+CA-118,Princess Margaret,CA,enrolling,yes,yes,yes,2026-02-03,stable

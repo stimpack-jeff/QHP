@@ -1,0 +1,6 @@
+issue_id,function,issue,owner,due_date,status,escalation_needed
+OPS-14,Data Management,Open queries >14 days at three sites,PPD Data Ops,2026-03-13,open,yes
+OPS-18,Clinical Supply,Kit labels pending final approval,Sponsor CMC,2026-03-12,open,yes
+OPS-21,Start-Up,DE/ES amendment wording blocking screening,Regulatory Affairs,2026-03-14,open,yes
+OPS-24,Vendor Management,Pathology courier ownership unresolved,Clinical Ops,2026-03-11,open,yes
+OPS-27,Monitoring,Overdue monitoring visit reports,PPD CRA Lead,2026-03-13,open,no

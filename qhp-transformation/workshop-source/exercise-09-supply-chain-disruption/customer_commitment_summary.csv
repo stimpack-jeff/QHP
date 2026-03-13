@@ -1,0 +1,5 @@
+demand_stream,commitment_window,units_committed,penalty_or_risk,notes
+McKesson distribution,2026-03-29,42000,service level miss escalates to commercial leadership,Oncovax backorder risk if batch slips >7 days
+AmerisourceBergen distribution,2026-04-05,38000,moderate,one week flexibility available
+NXT-112 cohort 4 dosing,2026-03-31,patient schedule risk,high,clinical operations requests no slip beyond 5 days
+EU named-patient Renivex,2026-04-10,limited,low,current inventory buffer exists

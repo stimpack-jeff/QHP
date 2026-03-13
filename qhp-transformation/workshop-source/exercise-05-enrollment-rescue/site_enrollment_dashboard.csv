@@ -1,0 +1,9 @@
+site_id,site_name,country,planned_monthly_randomizations,actual_jan,actual_feb,actual_mar,actual_apr,screen_fail_rate_pct,days_to_first_patient,status
+US-101,Mass General Cancer Center,US,8,7,6,5,4,34,29,active
+US-104,Duke Cancer Institute,US,6,5,4,4,3,29,31,active
+US-109,MD Anderson West Houston,US,7,6,5,5,4,26,27,active
+DE-203,Charite Berlin,DE,5,4,3,2,2,41,46,active
+ES-221,Vall d'Hebron,ES,5,5,4,3,2,38,44,active
+PL-244,National Oncology Institute Warsaw,PL,4,3,3,2,1,43,53,active
+CA-118,Princess Margaret,CA,5,4,3,3,2,36,35,active
+UK-132,The Christie NHS Foundation Trust,UK,5,4,4,3,3,22,32,active

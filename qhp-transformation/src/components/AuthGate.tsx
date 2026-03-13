@@ -76,7 +76,7 @@ export default function AuthGate({ children }: { children: React.ReactNode }) {
       <div className="w-full max-w-md">
         {/* Logo / Brand */}
         <div className="text-center mb-10">
-          <div className="inline-flex items-center justify-center w-16 h-16 rounded-2xl bg-gradient-to-br from-[#EF4B4C] to-[#c93a3b] mb-6 shadow-lg shadow-red-500/20">
+          <div className="inline-flex items-center justify-center w-16 h-16 rounded-2xl bg-linear-to-br from-[#EF4B4C] to-[#c93a3b] mb-6 shadow-lg shadow-red-500/20">
             <svg
               className="w-8 h-8 text-white"
               fill="none"
@@ -102,7 +102,7 @@ export default function AuthGate({ children }: { children: React.ReactNode }) {
         {/* Login Card */}
         <form
           onSubmit={handleSubmit}
-          className="bg-[#1a1a1a] border border-white/[0.08] rounded-2xl p-8 shadow-2xl"
+          className="bg-[#1a1a1a] border border-white/8 rounded-2xl p-8 shadow-2xl"
         >
           <label
             htmlFor="password"
@@ -125,7 +125,7 @@ export default function AuthGate({ children }: { children: React.ReactNode }) {
               w-full px-4 py-3 rounded-xl bg-[#0d0d0d] border text-white
               placeholder:text-white/20 outline-none transition-all duration-200
               focus:ring-2 focus:ring-[#EF4B4C]/50 focus:border-[#EF4B4C]
-              ${error ? "border-red-500/60 shake" : "border-white/[0.08]"}
+              ${error ? "border-red-500/60 shake" : "border-white/8"}
             `}
           />
 
@@ -147,7 +147,7 @@ export default function AuthGate({ children }: { children: React.ReactNode }) {
             disabled={loading || !password}
             className="
               w-full mt-6 px-4 py-3 rounded-xl font-semibold text-sm
-              bg-gradient-to-r from-[#EF4B4C] to-[#d43d3e] text-white
+              bg-linear-to-r from-[#EF4B4C] to-[#d43d3e] text-white
               hover:from-[#d43d3e] hover:to-[#c93a3b]
               disabled:opacity-40 disabled:cursor-not-allowed
               transition-all duration-200 shadow-lg shadow-red-500/20

@@ -1,0 +1,5 @@
+question_id,topic,owner,current_status,risk_level,comment
+RA-301-14,Imaging adjudication timing,Clinical Development,open,high,site window variance may need formal mitigation memo
+RA-301-18,PRO missingness threshold,Biostats,open,high,no agreed external talking point yet
+RA-301-22,Subgroup claims hierarchy,Reg Affairs,in progress,medium,IR deck may overstate exploratory subgroup stability
+RA-301-27,Discontinuation-related missing data,Data Science,open,medium,additional SAP language may be required

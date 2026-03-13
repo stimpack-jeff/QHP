@@ -1,0 +1,6 @@
+week_ending,patients_on_treatment,grade_2plus_alt_ast_events,grade_3plus_events,bilirubin_events,notes
+2026-02-07,18,1,0,0,baseline noise range
+2026-02-14,20,1,0,0,stable
+2026-02-21,22,2,1,0,first post-escalation event
+2026-02-28,23,3,1,1,pattern strengthening
+2026-03-06,24,4,2,1,second post-escalation serious event

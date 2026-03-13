@@ -1,0 +1,5 @@
+material,location,on_hand_kg,safety_stock_kg,days_of_cover,current_allocation_note
+ASL-77 lipid blend,Devens DS warehouse,148,120,16,shared across commercial and NXT-112 clinical supply
+ASL-77 lipid blend,CMO reserve - Lonza,42,40,5,earmarked for April packaging slot
+Buffer excipient BX-14,Devens DS warehouse,210,80,33,not constrained
+Single-use bag set S-900,Devens DS warehouse,76,40,24,not constrained

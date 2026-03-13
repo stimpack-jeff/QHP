@@ -90,6 +90,101 @@ body {
   box-shadow: 0 0 30px rgba(74, 144, 217, 0.4);
 }
 
+@keyframes workshopFloat {
+  0%,
+  100% {
+    transform: translate3d(0, 0, 0) scale(1);
+  }
+  50% {
+    transform: translate3d(0, -18px, 0) scale(1.04);
+  }
+}
+
+@keyframes workshopPulse {
+  0%,
+  100% {
+    box-shadow: 0 20px 54px rgba(7, 11, 27, 0.26);
+  }
+  50% {
+    box-shadow: 0 28px 80px rgba(255, 127, 17, 0.18);
+  }
+}
+
+@keyframes workshopMarquee {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+@keyframes workshopHeroGlow {
+  0%,
+  100% {
+    box-shadow: 0 28px 84px rgba(7, 11, 27, 0.3);
+  }
+  50% {
+    box-shadow:
+      0 36px 104px rgba(7, 11, 27, 0.34),
+      0 0 88px rgba(50, 130, 184, 0.22),
+      0 0 108px rgba(244, 67, 54, 0.16);
+  }
+}
+
+.workshop-grid {
+  background-image:
+    linear-gradient(rgba(50, 130, 184, 0.28) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(50, 130, 184, 0.28) 1px, transparent 1px);
+  background-size: 42px 42px;
+  mask-image: radial-gradient(circle at center, black 35%, transparent 85%);
+}
+
+.workshop-panel {
+  animation: workshopPulse 9s ease-in-out infinite;
+  transition:
+    transform 180ms ease,
+    border-color 180ms ease,
+    box-shadow 180ms ease,
+    background-color 180ms ease;
+}
+
+.workshop-panel:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 30px 86px rgba(7, 11, 27, 0.38);
+}
+
+.workshop-panel-energetic:hover {
+  transform: translateY(-6px) scale(1.005);
+}
+
+.workshop-hero-panel {
+  animation: workshopHeroGlow 8s ease-in-out infinite;
+}
+
+.workshop-stat-panel:hover {
+  transform: translateY(-6px) rotate(-0.4deg);
+}
+
+.workshop-marquee {
+  width: max-content;
+  animation: workshopMarquee 22s linear infinite;
+}
+
+.workshop-float-slow {
+  animation: workshopFloat 12s ease-in-out infinite;
+}
+
+.workshop-float-delay {
+  animation: workshopFloat 14s ease-in-out infinite;
+  animation-delay: -4s;
+}
+
+.workshop-float-slower {
+  animation: workshopFloat 18s ease-in-out infinite;
+  animation-delay: -2s;
+}
+
 /* Auth gate shake animation */
 @keyframes shake {
   0%, 100% { transform: translateX(0); }

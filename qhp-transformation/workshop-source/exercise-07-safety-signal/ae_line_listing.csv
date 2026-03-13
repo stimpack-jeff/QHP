@@ -1,0 +1,7 @@
+case_id,site_id,patient_id,cycle_day,event_term,grade,seriousness,relatedness,action_taken,outcome
+AE-112-014,US-502,P-019,C1D18,ALT increased,2,non-serious,possibly related,dose held,resolved
+AE-112-021,US-503,P-024,C1D15,AST increased,3,serious,possibly related,dose reduced,resolving
+AE-112-028,ES-511,P-031,C2D03,Drug-induced liver injury suspected,3,serious,related,drug interrupted,ongoing
+AE-112-033,US-502,P-036,C1D22,Bilirubin increased,2,non-serious,possibly related,continue with monitoring,resolving
+AE-112-041,CA-507,P-044,C2D01,ALT increased,3,serious,possibly related,dose held,ongoing
+AE-112-043,US-503,P-046,C1D19,AST increased,2,non-serious,possibly related,repeat labs,resolving

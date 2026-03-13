@@ -1,0 +1,19 @@
+[Unit]
+Description=QHP Demo Next.js Application
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/opt/qhp-demo
+Environment=NODE_ENV=production
+Environment=PORT=3002
+Environment=HOSTNAME=127.0.0.1
+Environment=WORKSHOP_LEADERBOARD_FILE=/opt/qhp-demo-data/workshop-leaderboard.json
+ExecStart=/usr/bin/node /opt/qhp-demo/server.js
+Restart=always
+RestartSec=5
+User=www-data
+Group=www-data
+
+[Install]
+WantedBy=multi-user.target
