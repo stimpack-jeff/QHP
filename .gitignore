@@ -30,3 +30,8 @@ npm-debug.log*
 dist/
 build/
 *.egg-info/
+
+# Personal employment documents (confidential)
+/QHP Offer Letter - Jeff Frazier_revised.pdf
+/Employment Agreement_Jeff Frazier_Execution Version_v2-1.pdf
+/text-4DAD-85DE-F4-0.txt
